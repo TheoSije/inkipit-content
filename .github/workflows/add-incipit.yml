@@ -1,0 +1,42 @@
+name: Add Incipit
+
+on:
+  workflow_dispatch:
+    inputs:
+      text:
+        description: 'Texte de l incipit'
+        required: true
+      author:
+        description: 'Auteur (format: Titre — Auteur, Année)'
+        required: true
+
+jobs:
+  add-incipit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Add incipit to JSON
+        run: |
+          python3 - <<'PYEOF'
+          import json
+
+          text   = """${{ github.event.inputs.text }}"""
+          author = """${{ github.event.inputs.author }}"""
+
+          with open('inkipits.json', 'r', encoding='utf-8') as f:
+              data = json.load(f)
+
+          data.append({"text": text, "author": author})
+
+          with open('inkipits.json', 'w', encoding='utf-8') as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+          PYEOF
+
+      - name: Commit & push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add inkipits.json
+          git commit -m "incipit: ${{ github.event.inputs.text }}"
+          git push
