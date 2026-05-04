@@ -1,0 +1,882 @@
+[
+  {
+    "text": "Aujourd'hui, maman est morte. Ou peut-être hier, je ne sais pas.",
+    "author": "L'Étranger — Albert Camus, 1942"
+  },
+  {
+    "text": "Les curieux événements qui font le sujet de cette chronique se produisirent en 194., à Oran.",
+    "author": "La Peste — Albert Camus, 1947"
+  },
+  {
+    "text": "Puis-je, monsieur, vous proposer mes services, sans risquer d'être importun ?",
+    "author": "La Chute — Albert Camus, 1956"
+  },
+  {
+    "text": "Longtemps, je me suis couché de bonne heure.",
+    "author": "À la recherche du temps perdu — Marcel Proust, 1913"
+  },
+  {
+    "text": "Nous étions à l'étude, quand le Proviseur entra, suivi d'un nouveau habillé en bourgeois.",
+    "author": "Madame Bovary — Gustave Flaubert, 1857"
+  },
+  {
+    "text": "C'était à Mégara, faubourg de Carthage, dans les jardins d'Hamilcar.",
+    "author": "Salammbô — Gustave Flaubert, 1862"
+  },
+  {
+    "text": "Le 15 septembre 1840, vers six heures du matin, la Ville-de-Montereau, près de partir, fumait à gros tourbillons devant le quai Saint-Bernard.",
+    "author": "L'Éducation sentimentale — Gustave Flaubert, 1869"
+  },
+  {
+    "text": "La petite ville de Verrières peut passer pour l'une des plus jolies de la Franche-Comté.",
+    "author": "Le Rouge et le Noir — Stendhal, 1830"
+  },
+  {
+    "text": "Le 15 mai 1796, le général Bonaparte fit son entrée dans Milan à la tête de cette jeune armée qui venait de passer le pont de Lodi.",
+    "author": "La Chartreuse de Parme — Stendhal, 1839"
+  },
+  {
+    "text": "En 1815, M. Charles-François-Bienvenu Myriel était évêque de Digne.",
+    "author": "Les Misérables — Victor Hugo, 1862"
+  },
+  {
+    "text": "Il y avait aujourd'hui trois cent quarante-huit ans six mois et dix-neuf jours que les Parisiens s'éveillèrent au bruit de toutes les cloches sonnant à grande volée dans la triple enceinte de la Cité, de l'Université et de la Ville.",
+    "author": "Notre-Dame de Paris — Victor Hugo, 1831"
+  },
+  {
+    "text": "Il y avait en Westphalie, dans le château de M. le baron de Thunder-ten-Tronckh, un jeune garçon à qui la nature avait donné les mœurs les plus douces.",
+    "author": "Candide — Voltaire, 1759"
+  },
+  {
+    "text": "Quand la caissière lui eut rendu la monnaie de sa pièce de cent sous, Georges Duroy sortit du restaurant.",
+    "author": "Bel-Ami — Guy de Maupassant, 1885"
+  },
+  {
+    "text": "Dans la plaine rase, sous la nuit sans étoiles, d'une obscurité et d'une épaisseur d'encre, un homme suivait seul la grande route de Marchiennes à Montsou, dix kilomètres de pavé coupant tout droit, à travers les champs de betteraves.",
+    "author": "Germinal — Émile Zola, 1885"
+  },
+  {
+    "text": "Gervaise avait attendu Lantier jusqu'à deux heures du matin.",
+    "author": "L'Assommoir — Émile Zola, 1877"
+  },
+  {
+    "text": "Sur ce sentiment inconnu dont l'ennui, la douceur m'obsèdent, j'hésite à apposer le nom, le beau nom grave de tristesse.",
+    "author": "Bonjour Tristesse — Françoise Sagan, 1954"
+  },
+  {
+    "text": "Ça a débuté comme ça.",
+    "author": "Voyage au bout de la nuit — Louis-Ferdinand Céline, 1932"
+  },
+  {
+    "text": "Vous avez mis le pied gauche sur la rainure de cuivre, et de votre épaule droite vous essayez en vain de pousser un peu plus le panneau coulissant.",
+    "author": "La Modification — Michel Butor, 1957"
+  },
+  {
+    "text": "Un jour, j'étais âgée déjà, dans le hall d'un lieu public, un homme est venu vers moi.",
+    "author": "L'Amant — Marguerite Duras, 1984"
+  },
+  {
+    "text": "Lorsque j'avais six ans, j'ai vu, une fois, une magnifique image dans un livre sur la Forêt Vierge qui s'appelait Histoires Vécues.",
+    "author": "Le Petit Prince — Antoine de Saint-Exupéry, 1943"
+  },
+  {
+    "text": "Le 24 février 1815, la vigie de Notre-Dame de la Garde signala le trois-mâts le Pharaon, venant de Smyrne, Trieste et Naples.",
+    "author": "Le Comte de Monte-Cristo — Alexandre Dumas, 1844"
+  },
+  {
+    "text": "Il arriva chez nous un dimanche de novembre 18.., quelques jours après la rentrée des classes.",
+    "author": "Le Grand Meaulnes — Alain-Fournier, 1913"
+  },
+  {
+    "text": "Jadis, si je me souviens bien, ma vie était un festin où s'ouvraient tous les cœurs, où tous les vins coulaient.",
+    "author": "Une Saison en enfer — Arthur Rimbaud, 1873"
+  },
+  {
+    "text": "Lolita, lumière de ma vie, feu de mes reins.",
+    "author": "Lolita — Vladimir Nabokov, 1955"
+  },
+  {
+    "text": "Appelez-moi Ismaël.",
+    "author": "Moby-Dick — Herman Melville, 1851"
+  },
+  {
+    "text": "Solennellement, le gros Buck Mulligan émergea du haut de l'escalier.",
+    "author": "Ulysse — James Joyce, 1922"
+  },
+  {
+    "text": "C'était le meilleur des temps, c'était le pire des temps.",
+    "author": "Le Conte de deux villes — Charles Dickens, 1859"
+  },
+  {
+    "text": "Je serai ou non le héros de ma propre vie, la suite de ces pages le dira.",
+    "author": "David Copperfield — Charles Dickens, 1850"
+  },
+  {
+    "text": "Toutes les familles heureuses se ressemblent ; chaque famille malheureuse l'est à sa façon.",
+    "author": "Anna Karénine — Léon Tolstoï, 1878"
+  },
+  {
+    "text": "C'est une vérité universellement reconnue qu'un célibataire pourvu d'une belle fortune doit avoir envie de se marier.",
+    "author": "Orgueil et Préjugés — Jane Austen, 1813"
+  },
+  {
+    "text": "Fin novembre, par un dégel, vers neuf heures du matin, le train de Pétersbourg-Varsovie approchait à toute vapeur de Saint-Pétersbourg.",
+    "author": "L'Idiot — Fiodor Dostoïevski, 1869"
+  },
+  {
+    "text": "Alexeï Fedorovitch Karamazov était le troisième fils d'un propriétaire foncier de notre district, Fiodor Pavlovitch Karamazov.",
+    "author": "Les Frères Karamazov — Fiodor Dostoïevski, 1880"
+  },
+  {
+    "text": "Quelqu'un avait dû calomnier Josef K., car, un matin, sans avoir rien fait de mal, il se trouva arrêté.",
+    "author": "Le Procès — Franz Kafka, 1925"
+  },
+  {
+    "text": "En se réveillant un matin après des rêves agités, Gregor Samsa se retrouva dans son lit métamorphosé en un monstrueux insecte.",
+    "author": "La Métamorphose — Franz Kafka, 1915"
+  },
+  {
+    "text": "Où maintenant ? Quand maintenant ? Qui maintenant ?",
+    "author": "L'Innommable — Samuel Beckett, 1953"
+  },
+  {
+    "text": "Il était un vieil homme qui pêchait seul sur son bateau dans le Gulf Stream et il n'avait pas pris de poisson depuis quatre-vingt-quatre jours.",
+    "author": "Le Vieil Homme et la Mer — Ernest Hemingway, 1952"
+  },
+  {
+    "text": "Robert Cohn était une fois champion de boxe poids moyen de Princeton.",
+    "author": "Le Soleil se lève aussi — Ernest Hemingway, 1926"
+  },
+  {
+    "text": "L'idée de l'éternel retour est mystérieuse et Nietzsche a mis par elle les autres philosophes dans l'embarras.",
+    "author": "L'Insoutenable légèreté de l'être — Milan Kundera, 1984"
+  },
+  {
+    "text": "Moi, Hassan, fils de Muhammad le peseur, moi, Jean-Léon de Médicis, circoncis de la main d'un barbier et baptisé de la main d'un pape, on m'appelle aujourd'hui l'Africain, mais je ne suis ni d'Afrique, ni d'Europe, ni d'Arabie.",
+    "author": "Léon l'Africain — Amin Maalouf, 1986"
+  },
+  {
+    "text": "Cette œuvre est avant tout l'histoire d'un homme, qui vécut la plus grande partie de sa vie en Europe occidentale, durant la seconde moitié du XXe siècle.",
+    "author": "Les Particules élémentaires — Michel Houellebecq, 1998"
+  },
+  {
+    "text": "J'avais rencontré Dean Moriarty peu de temps après la séparation de ma femme et de moi.",
+    "author": "Sur la route — Jack Kerouac, 1957"
+  },
+  {
+    "text": "Un soir, j'étais assis sur le lit de ma chambre d'hôtel à Bunker Hill, en plein cœur de Los Angeles.",
+    "author": "Demande à la poussière — John Fante, 1939"
+  },
+  {
+    "text": "Quand Zarathoustra eut atteint sa trentième année, il quitta sa patrie et le lac de sa patrie et s'en alla dans la montagne.",
+    "author": "Ainsi parlait Zarathoustra — Friedrich Nietzsche, 1885"
+  },
+  {
+    "text": "Après que l'expérience m'eut appris que tout ce qui se rencontre ordinairement dans la vie commune est vain et futile, je me résolus enfin de chercher s'il n'y avait point quelque bien véritable et capable de se communiquer.",
+    "author": "Traité de la réforme de l'entendement — Baruch Spinoza, 1677"
+  },
+  {
+    "text": "Le village de Holcomb est situé sur les hautes plaines de blé du sud-ouest du Kansas, une contrée solitaire que l'on aurait peine à distinguer du reste de l'Amérique.",
+    "author": "De sang-froid — Truman Capote, 1966"
+  },
+  {
+    "text": "Je suis un homme invisible.",
+    "author": "Homme invisible, pour qui chantes-tu ? — Ralph Ellison, 1952"
+  },
+  {
+    "text": "Le ciel au-dessus du port avait la couleur d'un écran de télé calé sur un émetteur hors service.",
+    "author": "Neuromancien — William Gibson, 1984"
+  },
+  {
+    "text": "Tout cela s'est passé, plus ou moins.",
+    "author": "Abattoir 5 — Kurt Vonnegut, 1969"
+  },
+  {
+    "text": "Tout avait commencé par erreur.",
+    "author": "La Poste — Charles Bukowski, 1971"
+  },
+  {
+    "text": "C'était une froide journée d'avril et les horloges sonnaient treize heures.",
+    "author": "1984 — George Orwell, 1949"
+  },
+  {
+    "text": "Si vous voulez vraiment que je vous en parle, ce que vous voudrez savoir d'abord, c'est où je suis né.",
+    "author": "L'Attrape-cœurs — J.D. Salinger, 1951"
+  },
+  {
+    "text": "La nuit dernière, j'ai rêvé que je retournais à Manderley.",
+    "author": "Rebecca — Daphne du Maurier, 1938"
+  },
+  {
+    "text": "Bien des années plus tard, face au peloton d'exécution, le colonel Aureliano Buendia allait se rappeler cet après-midi lointain où son père l'avait emmené découvrir la glace.",
+    "author": "Cent ans de solitude — García Márquez, 1967"
+  },
+  {
+    "text": "124 était maléfique.",
+    "author": "Beloved — Toni Morrison, 1987"
+  },
+  {
+    "text": "J'écris ces lignes assise dans l'évier de la cuisine.",
+    "author": "Je capture le château — Dodie Smith, 1948"
+  },
+  {
+    "text": "L'homme en noir fuyait à travers le désert, et le pistolero le suivait.",
+    "author": "La Tour Sombre — Stephen King, 1982"
+  },
+  {
+    "text": "Dans un trou vivait un hobbit.",
+    "author": "Le Hobbit — J.R.R. Tolkien, 1937"
+  },
+  {
+    "text": "Je suis condamné à me souvenir d'un garçon à la voix brisée.",
+    "author": "Une prière pour Owen Meany — John Irving, 1989"
+  },
+  {
+    "text": "Nous étions quelque part autour de Barstow, en lisière du désert, quand les drogues commencèrent à agir.",
+    "author": "Las Vegas Parano — Hunter S. Thompson, 1971"
+  },
+  {
+    "text": "Dans ma jeunesse plus sensible et plus vulnérable, mon père m'a donné un conseil que je n'ai cessé de ruminer depuis.",
+    "author": "Gatsby le Magnifique — F. Scott Fitzgerald, 1925"
+  },
+  {
+    "text": "Il y avait un garçon du nom d'Eustache Clarence Scrubbs, et il méritait presque ce nom.",
+    "author": "L'Odyssée du Passeur d'Aurore — C.S. Lewis, 1952"
+  },
+  {
+    "text": "Je pris une grande inspiration et écoutai le vieux battement sourd de mon cœur : je suis, je suis, je suis.",
+    "author": "La Cloche de détresse — Sylvia Plath, 1963"
+  },
+  {
+    "text": "C'était une nuit sombre et orageuse.",
+    "author": "Paul Clifford — Edward Bulwer-Lytton, 1830"
+  },
+  {
+    "text": "La neige fondait dans les montagnes et Bunny était mort depuis plusieurs semaines, avant que nous commencions à prendre conscience de la gravité de notre situation.",
+    "author": "Le Maître des illusions — Donna Tartt, 1992"
+  },
+  {
+    "text": "Ce fut le coup de foudre.",
+    "author": "Catch-22 — Joseph Heller, 1961"
+  },
+  {
+    "text": "Un hurlement traverse le ciel.",
+    "author": "L'Arc-en-ciel de la gravité — Thomas Pynchon, 1973"
+  },
+  {
+    "text": "J'avais une ferme en Afrique, au pied des monts Ngong.",
+    "author": "La Ferme africaine — Karen Blixen, 1937"
+  },
+  {
+    "text": "Au commencement était le Verbe.",
+    "author": "Évangile selon Jean — Anonyme, ~90 ap. J.-C."
+  },
+  {
+    "text": "C'était aux alentours de onze heures du matin, à la mi-octobre ; le soleil ne brillait pas et les collines avaient la clarté dure et cristalline qui précède une grosse pluie.",
+    "author": "Le Grand Sommeil — Raymond Chandler, 1939"
+  },
+  {
+    "text": "J'habite à la Villa Borghèse. Il n'y a pas un grain de poussière nulle part, pas une chaise de travers.",
+    "author": "Tropique du Cancer — Henry Miller, 1934"
+  },
+  {
+    "text": "À dix heures et demie du soir, un homme sortit du café de l'Amiral, à Concarneau, et longea d'un pas mal assuré la presque totalité du quai.",
+    "author": "Le Chien jaune — Georges Simenon, 1931"
+  },
+  {
+    "text": "À quelques miles au sud de Soledad, la rivière Salinas longe la berge escarpée et coule, verte et profonde.",
+    "author": "Des souris et des hommes — John Steinbeck, 1937"
+  },
+  {
+    "text": "Dans le pays rouge et dans la partie grise de l'Oklahoma, les dernières pluies vinrent doucement, sans creuser la terre meurtrie.",
+    "author": "Les Raisins de la colère — John Steinbeck, 1939"
+  },
+  {
+    "text": "En cet été-là, nous habitions une maison dans un village qui regardait par-delà la rivière et la plaine jusqu'aux montagnes.",
+    "author": "L'Adieu aux armes — Ernest Hemingway, 1929"
+  },
+  {
+    "text": "Buck ne lisait pas les journaux, faute de quoi il aurait su qu'une menace pesait sur lui et sur tous les chiens vigoureux à la fourrure épaisse, de Puget Sound jusqu'à San Diego.",
+    "author": "L'Appel de la forêt — Jack London, 1903"
+  },
+  {
+    "text": "Les gens ont peur de s'insérer sur les autoroutes de Los Angeles.",
+    "author": "Moins que zéro — Bret Easton Ellis, 1985"
+  },
+  {
+    "text": "Je suis assis dans un bureau entouré de têtes et de corps.",
+    "author": "Infinite Jest — David Foster Wallace, 1996"
+  },
+  {
+    "text": "Ce fut un faux numéro qui déclencha tout — le téléphone qui sonna trois fois en pleine nuit et la voix à l'autre bout du fil demandant à parler à quelqu'un qu'il n'était pas.",
+    "author": "Cité de verre — Paul Auster, 1985"
+  },
+  {
+    "text": "À travers la clôture, entre les fleurs qui s'enroulaient entre les barreaux, je les regardais frapper.",
+    "author": "Le Bruit et la Fureur — William Faulkner, 1929"
+  },
+  {
+    "text": "Les breaks arrivèrent vers midi en un long cortège luisant qui traversait le campus vers l'ouest.",
+    "author": "Bruit de fond — Don DeLillo, 1985"
+  },
+  {
+    "text": "Je suis né dans la ville de Bombay… il était une fois.",
+    "author": "Les Enfants de minuit — Salman Rushdie, 1981"
+  },
+  {
+    "text": "Quand il se réveillait dans la nuit dans le froid et le noir des bois, il tendait la main pour toucher l'enfant qui dormait à ses côtés.",
+    "author": "La Route — Cormac McCarthy, 2006"
+  },
+  {
+    "text": "On m'a cordialement invité à rejoindre les réalistes viscéraux.",
+    "author": "Les Détectives sauvages — Roberto Bolaño, 1998"
+  },
+  {
+    "text": "J'avais trente-sept ans et j'étais assis dans un Boeing 747 qui s'apprêtait à se poser à l'aéroport de Hambourg.",
+    "author": "La Ballade de l'impossible — Haruki Murakami, 1987"
+  },
+  {
+    "text": "Il était inévitable : l'odeur des amandes amères lui rappelait toujours le destin des amours contrariées.",
+    "author": "L'Amour aux temps du choléra — Gabriel García Márquez, 1985"
+  },
+  {
+    "text": "Au XVIIIe siècle vécut en France un homme qui compta parmi les personnages les plus géniaux et les plus abominables de cette époque qui ne manqua pourtant pas de personnages géniaux et abominables.",
+    "author": "Le Parfum — Patrick Süskind, 1985"
+  },
+  {
+    "text": "Le 16 août 1968, je me trouvai en possession d'un livre rédigé par l'abbé Vallet, Le Manuscrit de Dom Adson de Melk, traduit en français d'après l'édition de Dom J. Mabillon.",
+    "author": "Le Nom de la rose — Umberto Eco, 1980"
+  },
+  {
+    "text": "Pour un homme de son âge, cinquante-deux ans, divorcé, il a, pense-t-il, assez bien résolu le problème du sexe.",
+    "author": "Disgrâce — J.M. Coetzee, 1999"
+  },
+  {
+    "text": "Barrabas arriva chez nous par mer, comme l'écrivit la petite Clara dans son cahier aux pattes de mouche.",
+    "author": "La Maison aux esprits — Isabel Allende, 1982"
+  },
+  {
+    "text": "Le samedi 9 janvier 1993, pendant que Jean-Claude Romand tuait sa femme et ses enfants, j'assistais avec les miens à une réunion pédagogique à l'école de Gabriel, notre fils aîné.",
+    "author": "L'Adversaire — Emmanuel Carrère, 2000"
+  },
+  {
+    "text": "Il y a huit ans, dans un vieux journal, Paris-Soir, qui datait du 31 décembre 1941, je suis tombé sur une annonce.",
+    "author": "Dora Bruder — Patrick Modiano, 1997"
+  },
+  {
+    "text": "J'ai passé les épreuves pratiques du CAPES à Annecy, les 3 et 4 juin.",
+    "author": "La Place — Annie Ernaux, 1983"
+  },
+  {
+    "text": "En ce mois de février 1933, vingt-quatre maîtres de l'industrie et de la finance pénétrèrent dans le palais du président du Reichstag.",
+    "author": "L'Ordre du jour — Éric Vuillard, 2017"
+  },
+  {
+    "text": "Par une chaleur exceptionnelle, au début de juillet, vers le soir, un jeune homme sortit de la soupente où il sous-louait une chambre dans la ruelle S.",
+    "author": "Crime et Châtiment — Fiodor Dostoïevski, 1866"
+  },
+  {
+    "text": "Eh bien, mon prince, Gênes et Lucques ne sont plus que des apanages de la famille Bonaparte.",
+    "author": "Guerre et Paix — Léon Tolstoï, 1869"
+  },
+  {
+    "text": "Le Nellie, un yacht de croisière, au mouillage, voiles ferlées, se balançait doucement.",
+    "author": "Au cœur des ténèbres — Joseph Conrad, 1899"
+  },
+  {
+    "text": "Je suis dans la chambre de ma mère. C'est moi qui y vis maintenant.",
+    "author": "Molloy — Samuel Beckett, 1951"
+  },
+  {
+    "text": "À neuf heures du soir, la salle des Variétés était encore vide.",
+    "author": "Nana — Émile Zola, 1880"
+  },
+  {
+    "text": "Comme il faisait une chaleur de trente-trois degrés, le boulevard Bourdon se trouvait absolument désert.",
+    "author": "Bouvard et Pécuchet — Gustave Flaubert, 1881"
+  },
+  {
+    "text": "Cet aveugle, un vieil ami de ma femme, était en chemin pour passer la nuit chez nous.",
+    "author": "Cathédrale — Raymond Carver, 1983"
+  },
+  {
+    "text": "La première fois qu'Aurélien vit Bérénice, il la trouva franchement laide.",
+    "author": "Aurélien — Louis Aragon, 1944"
+  },
+  {
+    "text": "Les cloches sonnèrent, et la mer monta.",
+    "author": "Le Hussard sur le toit — Jean Giono, 1951"
+  },
+  {
+    "text": "Vers la fin de novembre 1625, le jeune d'Artagnan quitta le bourg de Meung…",
+    "author": "Les Trois Mousquetaires — Alexandre Dumas, 1844"
+  },
+  {
+    "text": "Je veux peindre la France.",
+    "author": "Histoire de France — Jules Michelet, 1833"
+  },
+  {
+    "text": "J'avais vingt ans. Je ne laisserai personne dire que c'est le plus bel âge de la vie.",
+    "author": "Aden Arabie — Paul Nizan, 1931"
+  },
+  {
+    "text": "Il pleuvait sur Nantes ce jour-là.",
+    "author": "Le Rivage des Syrtes — Julien Gracq, 1951"
+  },
+  {
+    "text": "Le ciel était d'un bleu si pur…",
+    "author": "Les Faux-monnayeurs — André Gide, 1925"
+  },
+  {
+    "text": "Je ne sais pas pourquoi j'écris.",
+    "author": "Mémoires d'Hadrien — Marguerite Yourcenar, 1951"
+  },
+  {
+    "text": "Il faisait un froid de canard ce jour-là.",
+    "author": "Zazie dans le métro — Raymond Queneau, 1959"
+  },
+  {
+    "text": "Je suis un monstre.",
+    "author": "L'Écume des jours — Boris Vian, 1947"
+  },
+  {
+    "text": "Je suis resté longtemps sans parler.",
+    "author": "Journal du voleur — Jean Genet, 1949"
+  },
+  {
+    "text": "J'ai vu la guerre de près.",
+    "author": "Le Mur — Jean-Paul Sartre, 1939"
+  },
+  {
+    "text": "Il faisait déjà chaud.",
+    "author": "Belle du Seigneur — Albert Cohen, 1968"
+  },
+  {
+    "text": "Je ne suis pas un héros.",
+    "author": "Jean-Christophe — Romain Rolland, 1904"
+  },
+  {
+    "text": "Demain, dès l'aube, à l'heure où blanchit la campagne…",
+    "author": "Les Contemplations — Victor Hugo, 1856"
+  },
+  {
+    "text": "Il était une fois une femme qui avait une fille jolie et agréable.",
+    "author": "Cendrillon — Charles Perrault, 1697"
+  },
+  {
+    "text": "Je suis un homme malade… Je suis un homme méchant.",
+    "author": "Notes d'un souterrain — Fiodor Dostoïevski, 1864"
+  },
+  {
+    "text": "Je me souviens.",
+    "author": "I Remember — Joe Brainard, 1970"
+  },
+  {
+    "text": "Quand il se réveilla, le dinosaure était toujours là.",
+    "author": "Le Dinosaure — Augusto Monterroso, 1959"
+  },
+  {
+    "text": "Je suis né à Dublin.",
+    "author": "Portrait de l'artiste en jeune homme — James Joyce, 1916"
+  },
+  {
+    "text": "Il était une fois un roi et une reine…",
+    "author": "Contes — Jacob et Wilhelm Grimm, 1812"
+  },
+  {
+    "text": "Le passé est un pays étranger.",
+    "author": "Le Messager — L. P. Hartley, 1953"
+  },
+  {
+    "text": "Je ne suis pas sûr de savoir comment raconter cette histoire.",
+    "author": "Une fin de roman — Julian Barnes, 2011"
+  },
+  {
+    "text": "J'étais à la recherche d'un homme.",
+    "author": "La Vie devant soi — Romain Gary, 1975"
+  },
+  {
+    "text": "Je me rappelle très bien le jour où tout a commencé.",
+    "author": "Carrie — Stephen King, 1974"
+  },
+  {
+    "text": "C'est l'histoire d'un type qui tombe d'un immeuble.",
+    "author": "Requiem for a Dream — Hubert Selby Jr., 1978"
+  },
+  {
+    "text": "J'ai toujours voulu être quelqu'un d'autre.",
+    "author": "Moon Palace — Paul Auster, 1989"
+  },
+  {
+    "text": "Je suis né dans une petite ville.",
+    "author": "Pastorale américaine — Philip Roth, 1997"
+  },
+  {
+    "text": "J'ai rencontré cet homme dans un train.",
+    "author": "L'Inconnu du Nord-Express — Patricia Highsmith, 1950"
+  },
+  {
+    "text": "La vie est ailleurs.",
+    "author": "La Vie est ailleurs — Milan Kundera, 1973"
+  },
+  {
+    "text": "J'ai commencé ce livre pour me sauver.",
+    "author": "Une histoire d'amour et de ténèbres — Amos Oz, 2002"
+  },
+  {
+    "text": "Je me souviens de tout.",
+    "author": "Istanbul — Orhan Pamuk, 2003"
+  },
+  {
+    "text": "Quelqu'un raconte cette histoire.",
+    "author": "Si par une nuit d'hiver un voyageur — Italo Calvino, 1979"
+  },
+  {
+    "text": "Je n'ai rien à dire.",
+    "author": "La Femme gauchère — Peter Handke, 1976"
+  },
+  {
+    "text": "Il y avait un silence.",
+    "author": "Kafka sur le rivage — Haruki Murakami, 2002"
+  },
+  {
+    "text": "Je suis tombé amoureux d'une ombre.",
+    "author": "L'Ombre du vent — Carlos Ruiz Zafón, 2001"
+  },
+  {
+    "text": "Je suis né dans un pays en guerre.",
+    "author": "Les Cerfs-volants de Kaboul — Khaled Hosseini, 2003"
+  },
+  {
+    "text": "Je voulais comprendre le monde.",
+    "author": "Montedidio — Erri De Luca, 2001"
+  },
+  {
+    "text": "C'était une journée ordinaire.",
+    "author": "The Pursuit of Happiness — Douglas Kennedy, 2001"
+  },
+  {
+    "text": "Tout a commencé par une erreur.",
+    "author": "La Maison du sommeil — Jonathan Coe, 1997"
+  },
+  {
+    "text": "Je n'ai pas de souvenirs d'enfance.",
+    "author": "W ou le souvenir d'enfance — Georges Perec, 1975"
+  },
+  {
+    "text": "Je m'en vais.",
+    "author": "Je m'en vais — Jean Echenoz, 1999"
+  },
+  {
+    "text": "Je suis née deux fois.",
+    "author": "Le Pays des autres — Leïla Slimani, 2020"
+  },
+  {
+    "text": "Mon père est mort deux fois.",
+    "author": "Qui a tué mon père — Édouard Louis, 2018"
+  },
+  {
+    "text": "Ma mère ne m'a jamais donné la main.",
+    "author": "Rien ne s'oppose à la nuit — Delphine de Vigan, 2011"
+  },
+  {
+    "text": "C'est un garçon sans histoire.",
+    "author": "Rue des boutiques obscures — Patrick Modiano, 1978"
+  },
+  {
+    "text": "Je vis dans une maison qui n'est pas la mienne.",
+    "author": "Rosie Carpe — Marie NDiaye, 2001"
+  },
+  {
+    "text": "Je n'ai jamais su comment commencer.",
+    "author": "Zone — Mathias Énard, 2008"
+  },
+  {
+    "text": "Il y a longtemps que je me suis couché tard.",
+    "author": "La Salle de bain — Jean-Philippe Toussaint, 1985"
+  },
+  {
+    "text": "Je n'ai jamais su parler aux femmes.",
+    "author": "L'Amour dure trois ans — Frédéric Beigbeder, 1997"
+  },
+  {
+    "text": "Il y a des jours où tout commence mal.",
+    "author": "Saga — Tonino Benacquista, 1997"
+  },
+  {
+    "text": "Le monde commence sans moi et finit sans moi.",
+    "author": "C'est une chose étrange à la fin que le monde — Jean d'Ormesson, 2010"
+  },
+  {
+    "text": "Je suis parti un matin de bonne heure.",
+    "author": "L'Usage du monde — Nicolas Bouvier, 1963"
+  },
+  {
+    "text": "La première fois que je l'ai vue, j'ai su.",
+    "author": "Ensemble, c'est tout — Anna Gavalda, 2004"
+  },
+  {
+    "text": "Je n'ai jamais cru aux histoires d'amour.",
+    "author": "Et après… — Guillaume Musso, 2004"
+  },
+  {
+    "text": "C'est arrivé sans prévenir.",
+    "author": "Elle s'appelait Sarah — Tatiana de Rosnay, 2007"
+  },
+  {
+    "text": "Il y a des moments où tout bascule.",
+    "author": "Et si c'était vrai… — Marc Levy, 2000"
+  },
+  {
+    "text": "Je suis parti sans me retourner.",
+    "author": "Eldorado — Laurent Gaudé, 2006"
+  },
+  {
+    "text": "Je ne voulais pas venir.",
+    "author": "La Délicatesse — David Foenkinos, 2009"
+  },
+  {
+    "text": "Je suis entré dans cette histoire malgré moi.",
+    "author": "Un aller simple — Didier Van Cauwelaert, 1994"
+  },
+  {
+    "text": "Il y avait une fois un homme qui n'avait rien.",
+    "author": "Désert — J. M. G. Le Clézio, 1980"
+  },
+  {
+    "text": "Je suis revenu pour comprendre.",
+    "author": "Naissance d'un pont — Maylis de Kerangal, 2010"
+  },
+  {
+    "text": "Je ne savais pas encore que ma vie allait changer.",
+    "author": "La Vérité sur l'affaire Harry Quebert — Joël Dicker, 2012"
+  },
+  {
+    "text": "J'ai appris très tôt à me taire.",
+    "author": "Le Quatrième mur — Sorj Chalandon, 2013"
+  },
+  {
+    "text": "Je regarde les gens passer.",
+    "author": "La Première gorgée de bière — Philippe Delerm, 1997"
+  },
+  {
+    "text": "Je suis né sans histoire.",
+    "author": "Je vais bien, ne t'en fais pas — Olivier Adam, 2000"
+  },
+  {
+    "text": "Il n'y avait personne pour m'attendre.",
+    "author": "S'adapter — Clara Dupont-Monod, 2021"
+  },
+  {
+    "text": "J'écris parce que je n'ai rien d'autre.",
+    "author": "L'Inceste — Christine Angot, 1999"
+  },
+  {
+    "text": "Je voulais disparaître.",
+    "author": "Garçon manqué — Nina Bouraoui, 2000"
+  },
+  {
+    "text": "Je suis resté longtemps à regarder la mer.",
+    "author": "Dans les forêts de Sibérie — Sylvain Tesson, 2011"
+  },
+  {
+    "text": "Je n'ai jamais su où était ma place.",
+    "author": "Kiffe kiffe demain — Faïza Guène, 2004"
+  },
+  {
+    "text": "J'ai grandi entre deux mondes.",
+    "author": "Shérazade — Leïla Sebbar, 1982"
+  },
+  {
+    "text": "Je suis parti pour ne plus revenir.",
+    "author": "Le Testament français — Andreï Makine, 1995"
+  },
+  {
+    "text": "Je ne savais rien de lui.",
+    "author": "L'Anomalie — Hervé Le Tellier, 2020"
+  },
+  {
+    "text": "Il faisait encore nuit quand je suis parti.",
+    "author": "L'Hiver aux trousses — Cédric Gras, 2015"
+  },
+  {
+    "text": "Je suis né dans une ville qui n'existe plus.",
+    "author": "Le Village de l'Allemand — Boualem Sansal, 2008"
+  },
+  {
+    "text": "Je n'ai jamais oublié ce jour-là.",
+    "author": "La Clé de Smyrne — Tatiana Salem Levy, 2007"
+  },
+  {
+    "text": "Je suis resté longtemps dans le silence.",
+    "author": "Les Hirondelles de Kaboul — Yasmina Khadra, 2002"
+  },
+  {
+    "text": "Il y a des histoires qu'on ne raconte pas.",
+    "author": "Dans ces bras-là — Camille Laurens, 2000"
+  },
+  {
+    "text": "Tout commence par une absence.",
+    "author": "Des hommes — Laurent Mauvignier, 2009"
+  },
+  {
+    "text": "Nous sommes nées d'un père absent et d'une mère acariâtre.",
+    "author": "Les haines pures — Emma Locatelli, 2022"
+  },
+  {
+    "text": "On avait sûrement calomnié Joseph K., car, sans avoir rien fait de mal, il fut arrêté un matin.",
+    "author": "Le Procès — Franz Kafka, 1925"
+  },
+  {
+    "text": "Toutes les histoires sont des histoires d'amour.",
+    "author": "Eureka Street — Robert McLiam Wilson, 1996"
+  },
+  {
+    "text": "Mrs Dalloway dit qu'elle achèterait les fleurs elle-même.",
+    "author": "Mrs Dalloway — Virginia Woolf, 1925"
+  },
+  {
+    "text": "La journée avait passé comme toutes les journées passent.",
+    "author": "Le Loup des steppes — Hermann Hesse, 1927"
+  },
+  {
+    "text": "Toutes les familles heureuses se ressemblent, mais chaque famille malheureuse l'est à sa façon.",
+    "author": "Anna Karénine — Léon Tolstoï, 1877"
+  },
+  {
+    "text": "La clarté lunaire donnait l'impression d'un jour singulier, venu là exprès pour surprendre la honte des hommes.",
+    "author": "Les affamés ne rêvent que de pain — Albert Cossery, 1948"
+  },
+  {
+    "text": "Ils se sont dressés comme des hommes. On les a vus. Comme des hommes ils se sont mis debout.",
+    "author": "Home — Toni Morrison, 2012"
+  },
+  {
+    "text": "Le noble roi Arthur de Bretagne, dont la prouesse nous enseigne à être vaillants et courtois, réunit sa cour avec la magnificence convenant à un roi, lors de cette fête qui coûte tant qu'on l'appelle avec justesse la Pentecôte.",
+    "author": "Le Chevalier au Lion — Chrétien de Troyes, 1180"
+  },
+  {
+    "text": "Je suis né dans la ville d'Aubagne, sous le Garlaban couronné de chèvres, au temps des derniers chevriers.",
+    "author": "La gloire de mon père — Marcel Pagnol, 1957"
+  },
+  {
+    "text": "Au moment de prendre congé, si je me tourne vers le passé, je suis incapable de choisir dans ce roman qu'a été ma vie, le chapitre que je placerais en tête du volume.",
+    "author": "Le banquet des affamés — Didier Daeninckx, 2012"
+  },
+  {
+    "text": "Tous sont tête basse, le nez dans leur écuelle à chien. Ils bouffent, ils lapent, ils saucent leur pâtée sans un bruit. Interdit à table, le bruit.",
+    "author": "L'Enragé — Sorj Chalandon, 2023"
+  },
+  {
+    "text": "Durant la fin de la semaine les charognards s'abattirent sur les balcons du palais présidentiel, détruisirent à coups de bec le grillage des fenêtres, et le lundi au petit jour la ville se réveilla d'une léthargie de plusieurs siècles sous une brise tiède et tendre de grand cadavre et de grandeur pourrie.",
+    "author": "L'Automne du patriarche — Gabriel Garcia Marquez, 1975"
+  },
+  {
+    "text": "Ces longues promenades que j'ai faites autrefois seul, tantôt dans les allées d'un parc, tantôt sur le bord d'une mer déserte, dont les vagues répétaient sans fin la même plainte.",
+    "author": "Obermann — Etienne de Senancour, 1804"
+  },
+  {
+    "text": "Lune, vallée, rosée, mort.",
+    "author": "La venue d'Isaïe — Laszlo Krasznahorkai, 2022"
+  },
+  {
+    "text": "Je connaissais l'histoire. J'ignorais la vérité. D'une certaine façon, ma présence même était un mensonge.",
+    "author": "Les années avec Laura Díaz — Carlos Fuentes, 1999"
+  },
+  {
+    "text": "Tu sais, tu ferais un grand plaisir à ta sœur si tu faisais un petit discours le jour de la cérémonie.",
+    "author": "Le discours — Fabcaro, 2018"
+  },
+  {
+    "text": "Bien des années plus tard, face au peloton d'exécution, le colonel Aureliano Buendia devait se rappeler ce lointain après-midi au cours duquel son père l'emmena voir la glace.",
+    "author": "Cent ans de solitude — Gabriel Garcia Marquez, 1967"
+  },
+  {
+    "text": "Je m'appelle Brodeck et je n'y suis pour rien. Je tiens à le dire, il faut que tout le monde le sache.",
+    "author": "Le rapport de Brodeck — Philippe Claudel, 2007"
+  },
+  {
+    "text": "Il avait plu des oiseaux morts.",
+    "author": "Pourquoi les oiseaux meurent — Victor Pouchet, 2020"
+  },
+  {
+    "text": "Les photos conservées de mon enfance le prouvent : nous formions une famille heureuse.",
+    "author": "Une vie — Simone Veil, 2007"
+  },
+  {
+    "text": "S'il est vrai que j'ai logé six balles dans le crâne de mon meilleur ami, j'espère par la présente déclaration démontrer que je ne suis pas son assassin.",
+    "author": "Le Monstre sur le seuil — Howard Phillips Lovecraft, 1924"
+  },
+  {
+    "text": "C'était toujours Phil qui se chargeait de la castration.",
+    "author": "Le pouvoir du chien — Thomas Savage, 1967"
+  },
+  {
+    "text": "Aucun organisme vivant ne peut connaître longtemps une existence saine dans des conditions de réalité absolue.",
+    "author": "Hantise — Shirley Jackson, 1959"
+  },
+  {
+    "text": "J'avais atteint l'âge de mille kilomètres.",
+    "author": "Le monde inverti — Christopher Priest, 1974"
+  },
+  {
+    "text": "Marie-Anne jouait au piano une chanson d'Edith Piaf. Archambaud écoutait avec une attention émue, croyant y reconnaître un morceau de Chopin.",
+    "author": "Uranus — Marcel Aymé, 1948"
+  },
+  {
+    "text": "Je suis un produit d'avant-guerre. Je suis né dans un ventre corseté, un ventre 1900.",
+    "author": "La belle lurette — Henri Calet, 1945"
+  },
+  {
+    "text": "Après l'épopée cynégétique des bartavelles, je fus d'emblée admis au rang des chasseurs, mais en qualité de rabatteur, et de chien rapporteur.",
+    "author": "Le château de ma mère — Marcel Pagnol, 1957"
+  },
+  {
+    "text": "Elle a douze ans, et demain matin elle sera mariée.",
+    "author": "Le Pacte de l'eau — Abraham Verghese, 2023"
+  },
+  {
+    "text": "Tchen tenterait-il de lever la moustiquaire ? Frapperait-il au travers ?",
+    "author": "La condition humaine — André Malraux, 1933"
+  },
+  {
+    "text": "Arthur Dreyfuss aimait les gros seins.",
+    "author": "La première chose qu'on regarde — Grégoire Delacourt, 2013"
+  },
+  {
+    "text": "Je me souviens encore de ce petit matin où mon père m'emmena pour la première fois visiter Le Cimetière des Livres Oubliés.",
+    "author": "L'Ombre du vent — Carlos Ruiz Zafón, 2001"
+  },
+  {
+    "text": "Ô mon frère chrétien, ô mon ami druze, ô mon voisin sunnite ou chiite, ô mon hôte palestinien, vois ce pays qui est le tien.",
+    "author": "Nul ennemi comme un frère — Frédéric Paulin, 2021"
+  },
+  {
+    "text": "Il vit seul au troisième étage d'un vieil immeuble en brique sans vue sur le ciel.",
+    "author": "Bien-être — Nathan Hill, 2023"
+  },
+  {
+    "text": "Une pluie battante, cinglante, détrempa son manteau de laine pendant qu'il harnachait les chevaux de bât et le froid s'insinua dans ses os.",
+    "author": "Les Pionniers — Ernest Haycox, 1938"
+  },
+  {
+    "text": "Je suis tombé. Je me suis relevé.",
+    "author": "Le Quatrième Mur — Sorj Chalandon, 2013"
+  },
+  {
+    "text": "Toute ma vie, je me suis fait une certaine idée de la France.",
+    "author": "Mémoires de guerre — Charles de Gaulle, 1954"
+  },
+  {
+    "text": "Ses amis l'appelaient Harry. Mais Harry n'enculait pas n'importe qui, uniquement des femmes, des femmes mariées.",
+    "author": "Le Démon — Hubert Selby Jr, 1976"
+  },
+  {
+    "text": "La mer se retire, après avoir secoué la nuit de son ressac.",
+    "author": "Cézembre — Hélène Gestern, 2021"
+  },
+  {
+    "text": "Ce fut un matin de septembre que Giovanni Drogo, qui venait d'être promu officier, quitta la ville pour se rendre au fort Bastiani, sa première affectation.",
+    "author": "Le Désert des Tartares — Dino Buzzati, 1945"
+  }
+]
