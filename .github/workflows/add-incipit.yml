@@ -10,6 +10,9 @@ on:
         description: 'Auteur (format: Titre — Auteur, Année)'
         required: true
 
+permissions:
+  contents: write
+
 jobs:
   add-incipit:
     runs-on: ubuntu-latest
