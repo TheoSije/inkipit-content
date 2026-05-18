@@ -1712,5 +1712,1901 @@
     "description": "Automne 1942, près de Besançon, Jacquot, Pinou et Suzanne se cachent sous les ruines du château de Montfaucon, dans une grotte où résiderait le Diable. À la surface, un officier nazi sans visage, le SS-Sturmbannführer Peter Pannus, les traque comme le ferait une bête sauvage, rôdant autour du château et de la petite épicerie de madame Beugnot. Il sera dit, plus tard, que cet homme glaçant au passé mystérieux soupçonnait ces enfants de posséder d’immenses pouvoirs. Des pouvoirs qui auraient pu changer le cours de la guerre. Aucun élément certain n’étaye ces rumeurs, bien sûr. Mais comment expliquer cette étrange lumière verte, que plusieurs témoins ont rapporté avoir vu s’échapper du monstre et de ses victimes ?\nPoursuivant son exploration de l’Histoire dans le style du réalisme magique, Paul Kawczak revisite ici la période de l’Occupation. Littéraire et politique, Le bonheur fait d’une aventure palpitante une réflexion sur la solidarité, l’art et la démocratie. Un hommage aux enfants sacrifiés sur l’autel du fascisme, ainsi qu’aux femmes qui les ont protégés.",
     "bio": "Paul Kawczak est un romancier, poète et éditeur français établi au Québec depuis 2011. Il est chargé de cours en études littéraires à l'Université du Québec à Chicoutimi et éditeur à La Peuplade.",
     "authorPic": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Paul_Kawczak_-_2021_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+  },
+  {
+    "text": "Les grandes pluyes et inondations qui vinrent l'an mil cinq cens et vint et ung, empeschèrent plusieurs personnes d'aller aux baings de Cauderetz.",
+    "author": "L'Heptaméron — Marguerite de Navarre, 1554",
+    "cover": "https://covers.openlibrary.org/b/title/L%27Heptam%C3%A9ron-M.jpg",
+    "description": "Recueil de nouvelles de la Renaissance inspiré du Décaméron, où dix nobles bloqués par des crues partagent leurs récits pendant dix jours. Les histoires explorent l'amour, la trahison et la vertu dans la société aristocratique du XVIe siècle.",
+    "bio": "Reine de Navarre (1492–1549), sœur de François Ier, elle fut une des femmes les plus cultivées de la Renaissance française. Protectrice des humanistes et des réformateurs, elle écrivit des poèmes spirituels et l'Heptaméron, recueil de nouvelles inachevé publié posthumément.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Marguerite_de_Navarre.jpg",
+    "completeWrongs": [
+      "porte, demanda la maîtresse.",
+      "douce et pluvieuse."
+    ]
+  },
+  {
+    "text": "C'est ici un livre de bonne foi, lecteur.",
+    "author": "Essais — Montaigne, 1594",
+    "cover": "https://covers.openlibrary.org/b/title/Essais-M.jpg",
+    "description": "Montaigne invente le genre de l'essai en se prenant lui-même pour sujet d'observation. À travers des réflexions sur la mort, l'amitié et l'éducation, il explore la condition humaine avec un scepticisme bienveillant. Le célèbre « Que sais-je ? » résume son approche.",
+    "bio": "Michel Eyquem de Montaigne (1533–1592), magistrat et philosophe périgordin, inventa le genre de l'essai en se prenant lui-même pour objet d'étude dans ses Essais. Figure emblématique de l'humanisme et du scepticisme, sa devise était « Que sais-je ? ».",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Montaigne.jpg",
+    "completeWrongs": [
+      "vais, dit Ferrer.",
+      "bourg de Meung…"
+    ]
+  },
+  {
+    "text": "Le bon sens est la chose du monde la mieux partagée.",
+    "author": "Discours de la méthode — René Descartes, 1637",
+    "cover": "https://covers.openlibrary.org/b/title/Discours%20de%20la%20m%C3%A9thode-M.jpg",
+    "description": "Descartes expose sa méthode pour atteindre la vérité en ne tenant rien pour vrai sans l'avoir examiné. Il pose les bases du rationalisme moderne avec le cogito : « Je pense, donc je suis ». Texte court et décisif qui a révolutionné la philosophie occidentale.",
+    "bio": "Philosophe et mathématicien français (1596–1650), fondateur du rationalisme moderne avec son cogito ergo sum. Son Discours de la méthode révolutionna la philosophie occidentale et sa géométrie analytique les mathématiques.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Ren%C3%A9_Descartes.jpg",
+    "completeWrongs": [
+      "y vis maintenant.",
+      "canard ce jour-là."
+    ]
+  },
+  {
+    "text": "Béralde, mon frère, je vous prie de m'écouter.",
+    "author": "Le Malade imaginaire — Molière, 1673",
+    "cover": "https://covers.openlibrary.org/b/title/Le%20Malade%20imaginaire-M.jpg",
+    "description": "Argan, bourgeois hypocondriaque obsédé par les médecins, destine sa fille Angélique à un médecin plutôt qu'à l'homme qu'elle aime. Dernière comédie de Molière, une satire féroce de la médecine et de l'avarice. Molière mourut peu après la quatrième représentation, dans le rôle d'Argan.",
+    "bio": "Jean-Baptiste Poquelin, dit Molière (1622–1673), est le plus grand auteur comique français. Directeur de troupe protégé par Louis XIV, il écrivit des comédies qui fustigent les vices de son temps avec un génie inimitable.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Moli%C3%A8re.jpg",
+    "completeWrongs": [
+      "était encore vide.",
+      "pas très fier."
+    ]
+  },
+  {
+    "text": "Le dessein en est pris : je pars, cher Théramène.",
+    "author": "Phèdre — Jean Racine, 1677",
+    "cover": "https://covers.openlibrary.org/b/title/Ph%C3%A8dre-M.jpg",
+    "description": "Phèdre, épouse de Thésée, consume un amour coupable pour son beau-fils Hippolyte. La jalousie la pousse à le calomnier devant son mari, causant sa mort. La tragédie la plus aboutie de Racine, portée par une langue d'une beauté absolue.",
+    "bio": "Dramaturge français (1639–1699), maître de la tragédie classique française. Ses pièces (Phèdre, Andromaque, Bérénice) atteignent une perfection de la langue et une profondeur psychologique inégalées.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jean_Racine.jpg",
+    "completeWrongs": [
+      "à quelqu'un qu'il n'était pas.",
+      "tout a commencé."
+    ]
+  },
+  {
+    "text": "La magnificence et la galanterie n'ont jamais paru en France avec tant d'éclat que dans les dernières années du règne de Henri second.",
+    "author": "La Princesse de Clèves — Madame de Lafayette, 1678",
+    "cover": "https://covers.openlibrary.org/b/title/La%20Princesse%20de%20Cl%C3%A8ves-M.jpg",
+    "description": "Premier roman psychologique français : la princesse de Clèves résiste à sa passion pour le duc de Nemours par fidélité conjugale et choisit de se retirer du monde. Roman fondateur sur le conflit entre désir et devoir dans la cour d'Henri II.",
+    "bio": "Marie-Madeleine Pioche de La Vergne (1634–1693), romancière et femme de lettres. La Princesse de Clèves, son chef-d'œuvre, est considéré comme le premier roman psychologique de la littérature française.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Madame_de_Lafayette.jpg",
+    "completeWrongs": [
+      "ne sais pas.",
+      "Le cap Horn."
+    ]
+  },
+  {
+    "text": "Calypso ne pouvait se consoler du départ d'Ulysse.",
+    "author": "Les Aventures de Télémaque — François Fénelon, 1699",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Aventures%20de%20T%C3%A9l%C3%A9maque-M.jpg",
+    "description": "Roman pédagogique écrit par Fénelon pour l'éducation du petit-fils de Louis XIV. Télémaque part à la recherche de son père guidé par Mentor, et traverse des royaumes qui sont autant de leçons sur l'art de gouverner. Critique voilée de l'absolutisme de Louis XIV.",
+    "bio": "Archevêque et écrivain français (1651–1715), précepteur du duc de Bourgogne pour qui il écrivit Les Aventures de Télémaque. Sa critique voilée de l'absolutisme de Louis XIV lui valut la disgrâce.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Fran%C3%A7ois_F%C3%A9nelon.jpg",
+    "completeWrongs": [
+      "d'Afrique, ni d'Europe, ni d'Arabie.",
+      "choisir un autre livre."
+    ]
+  },
+  {
+    "text": "Je me suis servi, dans le commencement, de lettres persanes : mais, depuis, m'apercevant qu'elles n'étaient pas assez libres, je me suis déterminé à en user d'une autre façon.",
+    "author": "Lettres persanes — Montesquieu, 1721",
+    "cover": "https://covers.openlibrary.org/b/title/Lettres%20persanes-M.jpg",
+    "description": "Deux Persans découvrent la France avec un regard naïf qui révèle les absurdités de la société européenne. Derrière l'humour se cache une critique acérée du pouvoir absolu et de l'Église. Premier grand roman épistolaire français et manifeste des Lumières.",
+    "bio": "Charles-Louis de Secondat, baron de Montesquieu (1689–1755), philosophe et juriste des Lumières. Les Lettres persanes et De l'Esprit des lois ont posé les bases de la philosophie politique moderne et de la séparation des pouvoirs.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Montesquieu.jpg",
+    "completeWrongs": [
+      "qui précède une grosse pluie.",
+      "personnage de fiction."
+    ]
+  },
+  {
+    "text": "J'avais dix-sept ans, et j'achevais mes études de philosophie à Amiens, où mes parents, qui sont d'une des meilleures maisons de P…, m'avaient envoyé.",
+    "author": "Manon Lescaut — Abbé Prévost, 1731",
+    "cover": "https://covers.openlibrary.org/b/title/Manon%20Lescaut-M.jpg",
+    "description": "Le chevalier Des Grieux sacrifie honneur et fortune pour Manon Lescaut, qui le trahit à plusieurs reprises, mais leur passion survit à tout. Roman sur la fatalité de l'amour et l'impossible réconciliation entre vertu et désir.",
+    "bio": "Antoine François Prévost d'Exiles (1697–1763), romancier et traducteur. Manon Lescaut, extrait de ses Mémoires d'un homme de qualité, est son unique chef-d'œuvre, qui a inspiré deux opéras célèbres.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Abb%C3%A9_Pr%C3%A9vost.jpg",
+    "completeWrongs": [
+      "la Reine Pédauque.",
+      "la presque totalité du quai."
+    ]
+  },
+  {
+    "text": "Dans l'une des planètes qui tournent autour de l'étoile nommée Sirius, il y avait un jeune homme de beaucoup d'esprit, que j'ai eu l'honneur de connaître dans le dernier voyage qu'il fit sur notre petite fourmilière.",
+    "author": "Micromégas — Voltaire, 1752",
+    "cover": "https://covers.openlibrary.org/b/title/Microm%C3%A9gas-M.jpg",
+    "description": "Un géant de Sirius et son ami de Saturne visitent la Terre et s'étonnent de la prétention des humains si minuscules. Voltaire use du décalage de perspective pour moquer la vanité de la métaphysique. Un des premiers récits de science-fiction de la littérature française.",
+    "bio": "François-Marie Arouet, dit Voltaire (1694–1778), écrivain et philosophe des Lumières, symbole de la lutte contre le fanatisme religieux et l'intolérance. Auteur prolifique (Candide, Zadig, Dictionnaire philosophique), il correspondit avec les monarques éclairés d'Europe.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Voltaire.jpg",
+    "completeWrongs": [
+      "longtemps sans parler.",
+      "fallait passer devant le lycée."
+    ]
+  },
+  {
+    "text": "Il faut vous fuir, mademoiselle, je le sens bien.",
+    "author": "Julie ou la Nouvelle Héloïse — Jean-Jacques Rousseau, 1761",
+    "cover": "https://covers.openlibrary.org/b/title/Julie%20ou%20la%20Nouvelle%20H%C3%A9lo%C3%AFse-M.jpg",
+    "description": "Roman épistolaire sur l'amour interdit entre Julie, noble genevoise, et Saint-Preux, son précepteur roturier. Séparés par les conventions sociales, ils vivent une passion déchirante. Premier roman sentimental à connaître un succès de masse, fondateur du romantisme.",
+    "bio": "Philosophe et écrivain genevois (1712–1778), figure centrale des Lumières mais critique du rationalisme. Ses idées sur la société, l'éducation (Émile) et la politique (Du Contrat social) ont influencé la Révolution française et le romantisme.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jean-Jacques_Rousseau.jpg",
+    "completeWrongs": [
+      "la Reine Pédauque.",
+      "on vous dit."
+    ]
+  },
+  {
+    "text": "Abbé, dans son origine, signifiait père.",
+    "author": "Dictionnaire philosophique — Voltaire, 1764",
+    "cover": "https://covers.openlibrary.org/b/title/Dictionnaire%20philosophique-M.jpg",
+    "description": "Voltaire compose un dictionnaire court, mordant et provocateur où chaque article est une arme contre le fanatisme religieux et la superstition. Chef-d'œuvre de l'esprit des Lumières, condamné et brûlé à Genève dès sa parution.",
+    "bio": "François-Marie Arouet, dit Voltaire (1694–1778), écrivain et philosophe des Lumières, symbole de la lutte contre le fanatisme religieux et l'intolérance. Auteur prolifique (Candide, Zadig, Dictionnaire philosophique), il correspondit avec les monarques éclairés d'Europe.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Voltaire.jpg",
+    "completeWrongs": [
+      "trouva franchement laide.",
+      "guerre de près."
+    ]
+  },
+  {
+    "text": "Nous avons cru devoir prévenir le public, que, malgré le titre de cet ouvrage et ce qu'en dit le rédacteur dans sa préface, nous ne garantissons pas l'authenticité de ce recueil, et que nous avons même de fortes raisons de penser que ce n'est qu'un roman.",
+    "author": "Les Liaisons dangereuses — Pierre Choderlos de Laclos, 1782",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Liaisons%20dangereuses-M.jpg",
+    "description": "Le vicomte de Valmont et la marquise de Merteuil se livrent à un jeu de séduction et de manipulation qui détruira leurs victimes et eux-mêmes. Roman épistolaire d'une noirceur absolue sur la corruption de l'aristocratie pré-révolutionnaire.",
+    "bio": "Officier de l'armée française (1741–1803), auteur d'un seul roman, Les Liaisons dangereuses, chef-d'œuvre du roman épistolaire libertin et de l'analyse psychologique des rapports de pouvoir.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Pierre_Choderlos_de_Laclos.jpg",
+    "completeWrongs": [
+      "habillé en bourgeois.",
+      "voulais pas venir."
+    ]
+  },
+  {
+    "text": "Je forme une entreprise qui n'eut jamais d'exemple et dont l'exécution n'aura point d'imitateur.",
+    "author": "Les Confessions — Jean-Jacques Rousseau, 1782",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Confessions-M.jpg",
+    "description": "Rousseau entreprend le récit de sa vie avec une sincérité inédite, exposant ses fautes comme ses joies et inventant ainsi l'autobiographie moderne. Un texte fondateur qui a influencé toute la littérature personnelle.",
+    "bio": "Philosophe et écrivain genevois (1712–1778), figure centrale des Lumières mais critique du rationalisme. Ses idées sur la société, l'éducation (Émile) et la politique (Du Contrat social) ont influencé la Révolution française et le romantisme.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jean-Jacques_Rousseau.jpg",
+    "completeWrongs": [
+      "lieues au nord de Marbella.",
+      "tourbillons devant le quai Saint-Bernard."
+    ]
+  },
+  {
+    "text": "Sur le côté oriental de la montagne qui s'élève derrière le Port-Louis de l'île de France, on voit, dans un terrain jadis cultivé, les ruines de deux petites cabanes.",
+    "author": "Paul et Virginie — Bernardin de Saint-Pierre, 1788",
+    "cover": "https://covers.openlibrary.org/b/title/Paul%20et%20Virginie-M.jpg",
+    "description": "Deux enfants grandissent dans la nature sauvage de l'île Maurice dans une innocence idéale avant d'être séparés tragiquement. Roman préromantique célèbre pour son éloge de la nature et sa critique de la civilisation corrompue.",
+    "bio": "Écrivain français (1737–1814), disciple de Rousseau. Paul et Virginie, son roman le plus célèbre, fit de lui un précurseur du romantisme par son culte de la nature exotique et sa sensibilité mélancolique.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Bernardin_de_Saint-Pierre.jpg",
+    "completeWrongs": [
+      "la Star Academy.",
+      "débuté comme ça."
+    ]
+  },
+  {
+    "text": "Comment s'étaient-ils rencontrés ? Par hasard, comme tout le monde.",
+    "author": "Jacques le Fataliste et son maître — Denis Diderot, 1796",
+    "cover": "https://covers.openlibrary.org/b/title/Jacques%20le%20Fataliste%20et%20son%20ma%C3%AEtre-M.jpg",
+    "description": "Dialogue philosophique entre Jacques et son maître, qui voyagent sans destination en discourant sur le destin, la liberté et l'amour. Diderot multiplie les histoires dans l'histoire dans un jeu constant avec le lecteur. Roman expérimental et jubilatoire, ancêtre des récits postmodernes.",
+    "bio": "Philosophe et écrivain français (1713–1784), directeur de l'Encyclopédie, projet monumental des Lumières. Romancier expérimental (Jacques le Fataliste, Le Neveu de Rameau), il a anticipé de nombreuses techniques du roman moderne.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Denis_Diderot.jpg",
+    "completeWrongs": [
+      "raconte cette histoire.",
+      "distinguer du reste de l'Amérique."
+    ]
+  },
+  {
+    "text": "Je cherche à me rendre compte d'une passion dont les développements sincères sont beaux.",
+    "author": "De l'amour — Stendhal, 1822",
+    "cover": "https://covers.openlibrary.org/b/title/De%20l%27amour-M.jpg",
+    "description": "Stendhal analyse l'amour comme phénomène psychologique en distinguant quatre types et invente le concept de « cristallisation ». Mi-essai, mi-autobiographie, c'est l'œuvre la plus personnelle et la plus étrange de Stendhal.",
+    "bio": "Henri Beyle, dit Stendhal (1783–1842), romancier français, auteur du Rouge et le Noir et de La Chartreuse de Parme. Pionnier du réalisme psychologique, il annonçait : « Je serai compris vers 1880. »",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Stendhal.jpg",
+    "completeWrongs": [
+      "ruines de deux petites cabanes.",
+      "de son ressac."
+    ]
+  },
+  {
+    "text": "Il y a aujourd'hui trois cent quarante-huit ans six mois et dix-neuf jours que les Parisiens s'éveillèrent au bruit de toutes les cloches sonnant à grande volée dans la triple enceinte de la Cité, de l'Université et de la Ville.",
+    "author": "Notre-Dame de Paris — Victor Hugo, 1831",
+    "cover": "https://covers.openlibrary.org/b/title/Notre-Dame%20de%20Paris-M.jpg",
+    "description": "Dans le Paris médiéval, l'archidiacre Frollo et le sonneur Quasimodo aiment tous deux la gitane Esmeralda, avec Hugo faisant de la cathédrale le personnage central. Monument du romantisme français et plaidoyer pour la préservation du patrimoine architectural.",
+    "bio": "Écrivain, poète et homme politique français (1802–1885), figure tutélaire du romantisme. Auteur des Misérables, de Notre-Dame de Paris et de nombreux recueils poétiques, il fut aussi un opposant farouche à Napoléon III.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Victor_Hugo.jpg",
+    "completeWrongs": [
+      "des oiseaux morts.",
+      "c'est où je suis né."
+    ]
+  },
+  {
+    "text": "Vers la fin du mois d'octobre dernier, un jeune homme entra dans le Palais-Royal au moment où les maisons de jeu s'ouvraient, conformément à la loi qui protège une passion par nature incurable.",
+    "author": "La Peau de chagrin — Honoré de Balzac, 1831",
+    "cover": "https://covers.openlibrary.org/b/title/La%20Peau%20de%20chagrin-M.jpg",
+    "description": "Raphaël de Valentin reçoit une peau de chagrin qui exauce ses désirs mais rétrécit à chaque vœu, réduisant d'autant sa vie. Allégorie de la dépense de l'énergie vitale, premier grand roman fantastique de Balzac.",
+    "bio": "Romancier français (1799–1850), auteur de La Comédie humaine, vaste fresque de plus de 90 romans et nouvelles décrivant la société française du XIXe siècle. Considéré comme le fondateur du roman réaliste moderne.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Honor%C3%A9_de_Balzac.jpg",
+    "completeWrongs": [
+      "attendant l'épuisement de ses ressources.",
+      "vie allait changer."
+    ]
+  },
+  {
+    "text": "Il se trouve dans certaines villes de province des maisons dont la vue inspire une mélancolie égale à celle que provoquent les cloîtres les plus sombres, les landes les plus ternes ou les ruines les plus tristes.",
+    "author": "Eugénie Grandet — Honoré de Balzac, 1833",
+    "cover": "https://covers.openlibrary.org/b/title/Eug%C3%A9nie%20Grandet-M.jpg",
+    "description": "Eugénie Grandet sacrifie sa fortune par amour pour son cousin Charles, qui l'abandonnera pour une héritière plus avantageuse. Portrait impitoyable de l'avarice et de la médiocrité provinciale.",
+    "bio": "Romancier français (1799–1850), auteur de La Comédie humaine, vaste fresque de plus de 90 romans et nouvelles décrivant la société française du XIXe siècle. Considéré comme le fondateur du roman réaliste moderne.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Honor%C3%A9_de_Balzac.jpg",
+    "completeWrongs": [
+      "personne pour m'attendre.",
+      "d'être importun ?"
+    ]
+  },
+  {
+    "text": "Madame Vauquer, née de Conflans, est une vieille femme qui, depuis quarante ans, tient à Paris une pension bourgeoise établie rue Neuve-Sainte-Geneviève, entre le quartier Latin et le faubourg Saint-Marceau.",
+    "author": "Le Père Goriot — Honoré de Balzac, 1835",
+    "cover": "https://covers.openlibrary.org/b/title/Le%20P%C3%A8re%20Goriot-M.jpg",
+    "description": "Le père Goriot a tout sacrifié à ses deux filles qui l'ont abandonné dans une pension misérable, pendant que Rastignac observe la corruption parisienne. Roman fondateur sur la société de l'argent.",
+    "bio": "Romancier français (1799–1850), auteur de La Comédie humaine, vaste fresque de plus de 90 romans et nouvelles décrivant la société française du XIXe siècle. Considéré comme le fondateur du roman réaliste moderne.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Honor%C3%A9_de_Balzac.jpg",
+    "completeWrongs": [
+      "la presque totalité du quai.",
+      "né sans histoire."
+    ]
+  },
+  {
+    "text": "À l'époque où commence cette histoire, la presse de Stanhope et les rouleaux à distribuer l'encre ne fonctionnaient pas encore dans les petites imprimeries de province.",
+    "author": "Illusions perdues — Honoré de Balzac, 1837",
+    "cover": "https://covers.openlibrary.org/b/title/Illusions%20perdues-M.jpg",
+    "description": "Lucien de Rubempré monte à Paris pour conquérir la gloire littéraire mais découvre que le monde des lettres est corrompu par les intérêts financiers. Le roman le plus vaste et le plus moderne de La Comédie humaine.",
+    "bio": "Romancier français (1799–1850), auteur de La Comédie humaine, vaste fresque de plus de 90 romans et nouvelles décrivant la société française du XIXe siècle. Considéré comme le fondateur du roman réaliste moderne.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Honor%C3%A9_de_Balzac.jpg",
+    "completeWrongs": [
+      "rien de lui.",
+      "moyen de Princeton."
+    ]
+  },
+  {
+    "text": "Je descendais le dernier coteau du Canigou, et, bien que le soleil fût déjà couché, je distinguais dans la plaine les maisons de la petite ville d'Ille, vers laquelle je me dirigeais.",
+    "author": "La Vénus d'Ille — Prosper Mérimée, 1837",
+    "cover": "https://covers.openlibrary.org/b/title/La%20V%C3%A9nus%20d%27Ille-M.jpg",
+    "description": "Un archéologue découvre une statue antique de Vénus au regard inquiétant et le fils du propriétaire y glisse sa bague de fiançailles par plaisanterie. Nouvelle fantastique parfaite jouant avec ambiguïté entre explication rationnelle et surnaturel.",
+    "bio": "Écrivain et archéologue français (1803–1870), auteur de nouvelles classiques (Carmen, Colomba, La Vénus d'Ille). Inspecteur des monuments historiques, il a contribué à la sauvegarde du patrimoine français.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Prosper_M%C3%A9rim%C3%A9e.jpg",
+    "completeWrongs": [
+      "une proposition de la France.",
+      "comme les autres."
+    ]
+  },
+  {
+    "text": "Le 15 mai 1796, le général Bonaparte fit son entrée dans Milan à la tête de cette jeune armée qui venait de passer le pont de Lodi, et d'apprendre au monde qu'après tant de siècles César et Alexandre avaient un successeur.",
+    "author": "La Chartreuse de Parme — Stendhal, 1839",
+    "cover": "https://covers.openlibrary.org/b/title/La%20Chartreuse%20de%20Parme-M.jpg",
+    "description": "Fabrice del Dongo traverse les guerres napoléoniennes puis les intrigues de la cour de Parme, guidé par l'amour et l'ambition. Chef-d'œuvre de Stendhal écrit en 52 jours, roman de l'énergie et de la passion.",
+    "bio": "Henri Beyle, dit Stendhal (1783–1842), romancier français, auteur du Rouge et le Noir et de La Chartreuse de Parme. Pionnier du réalisme psychologique, il annonçait : « Je serai compris vers 1880. »",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Stendhal.jpg",
+    "completeWrongs": [
+      "conditions de réalité absolue.",
+      "déjà plus de mon enfance."
+    ]
+  },
+  {
+    "text": "À l'automne de 182…, le colonel Sir Thomas Nevil, officier distingué de l'armée anglaise, descendit avec sa fille à Ajaccio, après une courte traversée depuis Livourne.",
+    "author": "Colomba — Prosper Mérimée, 1841",
+    "cover": "https://covers.openlibrary.org/b/title/Colomba-M.jpg",
+    "description": "Orso della Rebbia revient en Corse et se retrouve pris entre sa sœur Colomba qui réclame vengeance et ses propres valeurs de civilisé. Mérimée peint la Corse et la vendetta avec une précision ethnologique fascinante.",
+    "bio": "Écrivain et archéologue français (1803–1870), auteur de nouvelles classiques (Carmen, Colomba, La Vénus d'Ille). Inspecteur des monuments historiques, il a contribué à la sauvegarde du patrimoine français.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Prosper_M%C3%A9rim%C3%A9e.jpg",
+    "completeWrongs": [
+      "à sa façon.",
+      "forêt de Saudraie en Astillé."
+    ]
+  },
+  {
+    "text": "Vers la fin du mois de janvier 1824, l'Opéra donnait un bal masqué.",
+    "author": "Splendeurs et misères des courtisanes — Honoré de Balzac, 1843",
+    "cover": "https://covers.openlibrary.org/b/title/Splendeurs%20et%20mis%C3%A8res%20des%20courtisanes-M.jpg",
+    "description": "Vaste roman de Balzac suivant le destin de Lucien de Rubempré et de l'escroc Vautrin dans les milieux parisiens du crime et de la haute société. L'amour fatal de Lucien pour la courtisane Esther conduit les deux personnages à leur perte. Un des romans les plus feuilletonesques et les plus noirs de La Comédie humaine.",
+    "bio": "Romancier français (1799–1850), auteur de La Comédie humaine, vaste fresque de plus de 90 romans et nouvelles décrivant la société française du XIXe siècle. Considéré comme le fondateur du roman réaliste moderne.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Honor%C3%A9_de_Balzac.jpg",
+    "completeWrongs": [
+      "de poisson depuis quatre-vingt-quatre jours.",
+      "comptoir en bois."
+    ]
+  },
+  {
+    "text": "Le premier lundi du mois d'avril 1625, le bourg de Meung, où naquit l'auteur du Roman de la Rose, semblait être dans une révolution aussi entière que si les huguenots en eussent fait une seconde Rochelle.",
+    "author": "Les Trois Mousquetaires — Alexandre Dumas, 1844",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Trois%20Mousquetaires-M.jpg",
+    "description": "D'Artagnan arrive à Paris et se lie d'amitié avec les trois mousquetaires pour défendre la reine contre les intrigues du Cardinal de Richelieu. Roman d'aventures porté par le fameux « Tous pour un, un pour tous ». L'un des romans les plus lus au monde.",
+    "bio": "Romancier et dramaturge français (1802–1870), auteur des Trois Mousquetaires et du Comte de Monte-Cristo, parmi les romans d'aventures les plus lus au monde. Il collaborait avec de nombreux co-auteurs dans un atelier productif.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Alexandre_Dumas.jpg",
+    "completeWrongs": [
+      "Je voulais disparaître.",
+      "à la con."
+    ]
+  },
+  {
+    "text": "J'avais toujours soupçonné les géographes de ne savoir ce qu'ils disent lorsqu'ils placent le champ de bataille de Munda dans le pays des Bastuli-Pœni, près de la moderne Monda, à quelque deux lieues au nord de Marbella.",
+    "author": "Carmen — Prosper Mérimée, 1845",
+    "cover": "https://covers.openlibrary.org/b/title/Carmen-M.jpg",
+    "description": "Un officier de dragons raconte sa rencontre avec Carmen, gitane libre et fatale, qui le mène à sa perte. Mérimée construit le mythe de la femme fatale qui a inspiré l'opéra le plus célèbre au monde.",
+    "bio": "Écrivain et archéologue français (1803–1870), auteur de nouvelles classiques (Carmen, Colomba, La Vénus d'Ille). Inspecteur des monuments historiques, il a contribué à la sauvegarde du patrimoine français.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Prosper_M%C3%A9rim%C3%A9e.jpg",
+    "completeWrongs": [
+      "les gros seins.",
+      "qui portait un grand pupitre."
+    ]
+  },
+  {
+    "text": "En 1838, l'une des rues les plus célèbres du quartier Saint-Germain, la rue de l'Université, voyait revenir vers dix heures du soir, et dans le silence qui permettait d'entendre les pas des promeneurs attardés, une femme de trente ans environ.",
+    "author": "La Cousine Bette — Honoré de Balzac, 1846",
+    "cover": "https://covers.openlibrary.org/b/title/La%20Cousine%20Bette-M.jpg",
+    "description": "Lisbeth Fischer nourrit en secret une haine froide contre sa famille bourgeoise et manipule dans l'ombre pour assouvir sa vengeance. L'un des romans les plus sombres de Balzac, portrait magistral de la rancœur.",
+    "bio": "Romancier français (1799–1850), auteur de La Comédie humaine, vaste fresque de plus de 90 romans et nouvelles décrivant la société française du XIXe siècle. Considéré comme le fondateur du roman réaliste moderne.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Honor%C3%A9_de_Balzac.jpg",
+    "completeWrongs": [
+      "par la curiosité.",
+      "prie de m'écouter."
+    ]
+  },
+  {
+    "text": "Je suis né le 4 septembre 1768, dans la ville de Saint-Malo.",
+    "author": "Mémoires d'outre-tombe — François-René de Chateaubriand, 1849",
+    "cover": "https://covers.openlibrary.org/b/title/M%C3%A9moires%20d%27outre-tombe-M.jpg",
+    "description": "Vaste autobiographie de Chateaubriand couvrant sa jeunesse bretonne, ses voyages et sa vie politique, rédigée pour être publiée après sa mort. Écriture majestueuse et mélancolique, portée par le sentiment de la fuite du temps.",
+    "bio": "Écrivain et homme politique français (1768–1848), fondateur du romantisme littéraire français avec Atala et René. Ses Mémoires d'outre-tombe sont considérés comme son chef-d'œuvre, monument de la langue française.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Fran%C3%A7ois-Ren%C3%A9_de_Chateaubriand.jpg",
+    "completeWrongs": [
+      "vue, j'ai su.",
+      "ne suis pas son assassin."
+    ]
+  },
+  {
+    "text": "Aujourd'hui, 4 septembre 1856.",
+    "author": "Les Contemplations — Victor Hugo, 1856",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Contemplations-M.jpg",
+    "description": "Recueil en deux parties séparées par la mort de la fille de Hugo, Léopoldine. Hugo explore le deuil, la mémoire et l'au-delà dans une langue d'une puissance exceptionnelle. Son œuvre poétique la plus personnelle et la plus bouleversante.",
+    "bio": "Écrivain, poète et homme politique français (1802–1885), figure tutélaire du romantisme. Auteur des Misérables, de Notre-Dame de Paris et de nombreux recueils poétiques, il fut aussi un opposant farouche à Napoléon III.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Victor_Hugo.jpg",
+    "completeWrongs": [
+      "une petite ville.",
+      "fort Bastiani, sa première affectation."
+    ]
+  },
+  {
+    "text": "Nous étions à l'étude, quand le Proviseur entra, suivi d'un nouveau habillé en bourgeois et d'un garçon de classe qui portait un grand pupitre.",
+    "author": "Madame Bovary — Gustave Flaubert, 1857",
+    "cover": "https://covers.openlibrary.org/b/title/Madame%20Bovary-M.jpg",
+    "description": "Emma Bovary cherche l'amour romantique dans des liaisons adultères qui la conduisent à la ruine, en province. Flaubert invente le style indirect libre pour entrer dans la conscience de son personnage. Roman qui a redéfini les possibilités de la prose romanesque.",
+    "bio": "Romancier français (1821–1880), auteur de Madame Bovary et L'Éducation sentimentale. Son souci absolu du style (la « gueuloir » pour tester ses phrases) a défini le réalisme littéraire et annoncé le modernisme.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Gustave_Flaubert.jpg",
+    "completeWrongs": [
+      "pays en guerre.",
+      "de son ressac."
+    ]
+  },
+  {
+    "text": "La sottise, l'erreur, le péché, la lésine, occupent nos esprits et travaillent nos corps, et nous alimentons nos aimables remords, comme les mendiants nourrissent leur vermine.",
+    "author": "Les Fleurs du mal — Charles Baudelaire, 1857",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Fleurs%20du%20mal-M.jpg",
+    "description": "Baudelaire explore la beauté, le péché, l'idéal et le spleen à travers un voyage spirituel entre le Ciel et l'Enfer. Condamné en 1857 pour « outrage à la morale », il a révolutionné la poésie française par sa musicalité et ses correspondances symboliques.",
+    "bio": "Poète français (1821–1867), auteur des Fleurs du mal et du Spleen de Paris. Son œuvre, condamnée à sa parution, a révolutionné la poésie française par sa musicalité, ses correspondances symboliques et son exploration du mal et de la beauté. Fondateur de la modernité poétique.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Charles_Baudelaire.jpg",
+    "completeWrongs": [
+      "choisir un autre livre.",
+      "envie de se marier."
+    ]
+  },
+  {
+    "text": "La Nature est un temple où de vivants piliers laissent parfois sortir de confuses paroles.",
+    "author": "Correspondances — Charles Baudelaire, 1857",
+    "cover": "https://covers.openlibrary.org/b/title/Correspondances-M.jpg",
+    "description": "Sonnet fondateur de la poétique baudelairienne posant l'idée que la nature est un réseau de symboles où les sensations se répondent mystérieusement. Cette synesthésie poétique a influencé tout le symbolisme puis le surréalisme.",
+    "bio": "Poète français (1821–1867), auteur des Fleurs du mal et du Spleen de Paris. Son œuvre, condamnée à sa parution, a révolutionné la poésie française par sa musicalité, ses correspondances symboliques et son exploration du mal et de la beauté. Fondateur de la modernité poétique.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Charles_Baudelaire.jpg",
+    "completeWrongs": [
+      "la rentrée des classes.",
+      "drogues commencèrent à agir."
+    ]
+  },
+  {
+    "text": "Les sanglots longs des violons de l'automne blessent mon cœur d'une langueur monotone.",
+    "author": "Poèmes saturniens — Paul Verlaine, 1866",
+    "cover": "https://covers.openlibrary.org/b/title/Po%C3%A8mes%20saturniens-M.jpg",
+    "description": "Premier recueil de Verlaine déjà traversé par une mélancolie personnelle malgré l'influence parnassienne. L'« Automne » et ses « sanglots longs des violons » sont parmi les vers les plus célèbres de la langue française.",
+    "bio": "Poète français (1844–1896), figure centrale du symbolisme avec Rimbaud dont il fut l'amant. Sa poésie musicale et mélancolique a révolutionné la versification française.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Paul_Verlaine.jpg",
+    "completeWrongs": [
+      "qui m'a violée.",
+      "bonne foi, lecteur."
+    ]
+  },
+  {
+    "text": "Au bout de la rue Guénégaud, lorsqu'on vient des quais, on trouve le passage du Pont-Neuf, une sorte de corridor étroit et sombre qui va de la rue Mazarine à la rue de Seine.",
+    "author": "Thérèse Raquin — Émile Zola, 1866",
+    "cover": "https://covers.openlibrary.org/b/title/Th%C3%A9r%C3%A8se%20Raquin-M.jpg",
+    "description": "Thérèse et son amant Laurent noient le mari complaisant pour être libres, mais le remords les ronge jusqu'à la folie. Roman naturaliste au noir absolu, où Zola analyse les tempéraments comme des mécanismes physiologiques.",
+    "bio": "Romancier français (1840–1902), chef de file du naturalisme et auteur du cycle des Rougon-Macquart. Son engagement dans l'affaire Dreyfus (J'accuse) en fit aussi une figure politique majeure.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/%C3%89mile_Zola.jpg",
+    "completeWrongs": [
+      "au fond de la mer.",
+      "Je me souviens."
+    ]
+  },
+  {
+    "text": "Qui d'entre nous n'a pas, dans ses jours d'ambition, rêvé le miracle d'une prose poétique, musicale sans rythme et sans rime, assez souple et assez heurtée pour s'adapter aux mouvements lyriques de l'âme ?",
+    "author": "Le Spleen de Paris — Charles Baudelaire, 1869",
+    "cover": "https://covers.openlibrary.org/b/title/Le%20Spleen%20de%20Paris-M.jpg",
+    "description": "Recueil de « petits poèmes en prose » où Baudelaire expérimente une forme nouvelle pour saisir la modernité urbaine et la solitude dans la foule. A ouvert la voie au symbolisme et à toute la poésie moderne.",
+    "bio": "Poète français (1821–1867), auteur des Fleurs du mal et du Spleen de Paris. Son œuvre, condamnée à sa parution, a révolutionné la poésie française par sa musicalité, ses correspondances symboliques et son exploration du mal et de la beauté. Fondateur de la modernité poétique.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Charles_Baudelaire.jpg",
+    "completeWrongs": [
+      "les ruines les plus tristes.",
+      "faisait déjà chaud."
+    ]
+  },
+  {
+    "text": "Pendant la guerre fédérale des États-Unis, un nouveau club très influent s'établit dans la ville de Baltimore, en plein Maryland.",
+    "author": "De la Terre à la Lune — Jules Verne, 1869",
+    "cover": "https://covers.openlibrary.org/b/title/De%20la%20Terre%20%C3%A0%20la%20Lune-M.jpg",
+    "description": "Le Gun Club de Baltimore décide d'envoyer un obus habité vers la Lune dans un récit mêlant calculs scientifiques et aventure fantastique. Verne y imagine avec une précision troublante certains aspects des futures missions Apollo.",
+    "bio": "Écrivain français (1828–1905), père de la science-fiction moderne avec ses Voyages extraordinaires. Auteur prolixe (80 romans), il anticipa avec une précision remarquable les technologies du XXe siècle.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jules_Verne.jpg",
+    "completeWrongs": [
+      "qui n'avait rien.",
+      "au fond de la mer."
+    ]
+  },
+  {
+    "text": "L'année 1866 fut marquée par un événement bizarre, un phénomène inexpliqué et inexplicable que personne n'a sans doute oublié.",
+    "author": "Vingt mille lieues sous les mers — Jules Verne, 1870",
+    "cover": "https://covers.openlibrary.org/b/title/Vingt%20mille%20lieues%20sous%20les%20mers-M.jpg",
+    "description": "Le capitaine Nemo et son mystérieux Nautilus emmènent trois naufragés dans un voyage sous-marin autour du globe. Roman d'aventures et d'invention technologique, un des romans les plus traduits de l'histoire.",
+    "bio": "Écrivain français (1828–1905), père de la science-fiction moderne avec ses Voyages extraordinaires. Auteur prolixe (80 romans), il anticipa avec une précision remarquable les technologies du XXe siècle.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jules_Verne.jpg",
+    "completeWrongs": [
+      "pays en guerre.",
+      "passer le pont de Lodi."
+    ]
+  },
+  {
+    "text": "C'est un trou de verdure où chante une rivière accrochant follement aux herbes des haillons d'argent.",
+    "author": "Le Dormeur du val — Arthur Rimbaud, 1870",
+    "cover": "https://covers.openlibrary.org/b/title/Le%20Dormeur%20du%20val-M.jpg",
+    "description": "Sonnet de Rimbaud décrivant un jeune soldat allongé dans la nature, bouche ouverte, en apparence endormi. Les deux derniers mots — « deux trous rouges » — révèlent brutalement qu'il est mort. Un des poèmes les plus efficaces de la littérature française sur l'horreur de la guerre.",
+    "bio": "Poète français (1854–1891), génie précoce qui révolutionna la poésie avant d'y renoncer à 21 ans pour devenir commerçant en Afrique. Une Saison en enfer et Les Illuminations ont ouvert la voie au symbolisme et au surréalisme.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Arthur_Rimbaud.jpg",
+    "completeWrongs": [
+      "s'appelait Joseph Pagnol.",
+      "sur la femme."
+    ]
+  },
+  {
+    "text": "Monsieur Phileas Fogg demeurait, en 1872, au no 7 de Saville-row, Burlington Gardens, la maison dans laquelle Sheridan mourut en 1814.",
+    "author": "Le Tour du monde en 80 jours — Jules Verne, 1872",
+    "cover": "https://covers.openlibrary.org/b/title/Le%20Tour%20du%20monde%20en%2080%20jours-M.jpg",
+    "description": "Le flegmatique Phileas Fogg parie qu'il peut faire le tour du monde en 80 jours et part immédiatement avec son valet Passepartout. La plus populaire des œuvres de Verne, portée par un suspense haletant jusqu'aux dernières pages.",
+    "bio": "Écrivain français (1828–1905), père de la science-fiction moderne avec ses Voyages extraordinaires. Auteur prolixe (80 romans), il anticipa avec une précision remarquable les technologies du XXe siècle.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jules_Verne.jpg",
+    "completeWrongs": [
+      "de Gabriel, notre fils aîné.",
+      "commencé par erreur."
+    ]
+  },
+  {
+    "text": "Les maraîchers de la banlieue avaient apporté leurs légumes.",
+    "author": "Le Ventre de Paris — Émile Zola, 1873",
+    "cover": "https://covers.openlibrary.org/b/title/Le%20Ventre%20de%20Paris-M.jpg",
+    "description": "Florent revient à Paris depuis Cayenne et se cache parmi les Halles, temple de l'embourgeoisement. Zola peint les Halles comme un ventre géant symbolisant la prospérité satisfaite du Second Empire.",
+    "bio": "Romancier français (1840–1902), chef de file du naturalisme et auteur du cycle des Rougon-Macquart. Son engagement dans l'affaire Dreyfus (J'accuse) en fit aussi une figure politique majeure.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/%C3%89mile_Zola.jpg",
+    "completeWrongs": [
+      "conditions de réalité absolue.",
+      "d'Afrique, ni d'Europe, ni d'Arabie."
+    ]
+  },
+  {
+    "text": "Va te coucher, rimeur.",
+    "author": "Les Amours jaunes — Tristan Corbière, 1873",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Amours%20jaunes-M.jpg",
+    "description": "Unique recueil de Tristan Corbière, mêlant argot marin, ironie bretonne et mélancolie amoureuse dans une langue désarticulée et moderne. Méconnu à sa parution en 1873, il fut révélé par Verlaine comme un des « poètes maudits ». Son influence sur Laforgue et Eliot fut considérable.",
+    "bio": "Poète breton (1845–1875), auteur des Amours jaunes, recueil mêlant ironie, mélancolie et argot maritime. Méconnu de son vivant, il fut redécouvert par Verlaine dans Les Poètes maudits.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Tristan_Corbi%C3%A8re.jpg",
+    "completeWrongs": [
+      "le sens bien.",
+      "au travers ?"
+    ]
+  },
+  {
+    "text": "Dans les derniers jours de mai 1793, un des bataillons parisiens amenés en Bretagne par Santerre fouillait la forêt de Saudraie en Astillé.",
+    "author": "Quatrevingt-treize — Victor Hugo, 1874",
+    "cover": "https://covers.openlibrary.org/b/title/Quatrevingt-treize-M.jpg",
+    "description": "La guerre de Vendée en 1793 opposant républicains et royalistes, incarnée par trois personnages qui représentent les contradictions de la Révolution. Dernier roman de Hugo, méditation sur la violence de l'Histoire.",
+    "bio": "Écrivain, poète et homme politique français (1802–1885), figure tutélaire du romantisme. Auteur des Misérables, de Notre-Dame de Paris et de nombreux recueils poétiques, il fut aussi un opposant farouche à Napoléon III.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Victor_Hugo.jpg",
+    "completeWrongs": [
+      "était ma place.",
+      "maisons de P…, m'avaient envoyé."
+    ]
+  },
+  {
+    "text": "Il pleure dans mon cœur comme il pleut sur la ville.",
+    "author": "Romances sans paroles — Paul Verlaine, 1874",
+    "cover": "https://covers.openlibrary.org/b/title/Romances%20sans%20paroles-M.jpg",
+    "description": "Recueil de Verlaine écrit en partie pendant sa liaison avec Rimbaud et sa prison de Mons. La musicalité impressionniste y atteint son sommet, avec des poèmes qui semblent dissoudre le sens dans la sonorité. « Il pleure dans mon cœur » est un des vers les plus célèbres de la langue française.",
+    "bio": "Poète français (1844–1896), figure centrale du symbolisme avec Rimbaud dont il fut l'amant. Sa poésie musicale et mélancolique a révolutionné la versification française.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Paul_Verlaine.jpg",
+    "completeWrongs": [
+      "de la Franche-Comté.",
+      "était bien ciré."
+    ]
+  },
+  {
+    "text": "Le ciel était-il en feu ?",
+    "author": "L'Île mystérieuse — Jules Verne, 1874",
+    "cover": "https://covers.openlibrary.org/b/title/L%27%C3%8Ele%20myst%C3%A9rieuse-M.jpg",
+    "description": "Cinq prisonniers nordistes s'échappent en ballon pendant la guerre de Sécession et atterrissent sur une île déserte du Pacifique. Ils y construisent progressivement une civilisation complète, aidés en secret par le capitaine Nemo qui se cache dans une grotte sous-marine. Roman de la débrouillardise humaine et suite cachée de Vingt mille lieues sous les mers.",
+    "bio": "Écrivain français (1828–1905), père de la science-fiction moderne avec ses Voyages extraordinaires. Auteur prolixe (80 romans), il anticipa avec une précision remarquable les technologies du XXe siècle.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jules_Verne.jpg",
+    "completeWrongs": [
+      "heures du matin.",
+      "entra dans Bléville."
+    ]
+  },
+  {
+    "text": "Ce que je vais écrire maintenant, je n'ai jamais voulu l'écrire.",
+    "author": "Le Petit Chose — Alphonse Daudet, 1877",
+    "cover": "https://covers.openlibrary.org/b/title/Le%20Petit%20Chose-M.jpg",
+    "description": "Roman autobiographique de Daudet racontant les années de misère et d'humiliation d'un jeune homme de bonne famille réduit à la pauvreté. Portrait sensible d'une jeunesse écrasée par la réalité.",
+    "bio": "Écrivain français (1840–1897), connu pour ses Lettres de mon moulin et Tartarin de Tarascon. Romancier naturaliste modéré, il peignit avec tendresse et ironie la Provence et les humbles.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Alphonse_Daudet.jpg",
+    "completeWrongs": [
+      "faire ça ?",
+      "Nantes ce jour-là."
+    ]
+  },
+  {
+    "text": "À neuf heures du soir, la salle du théâtre des Variétés était encore vide.",
+    "author": "Nana — Émile Zola, 1880",
+    "cover": "https://covers.openlibrary.org/b/title/Nana-M.jpg",
+    "description": "Nana, fille de l'Assommoir, devient une grande courtisane qui ruine et détruit les hommes qui se jettent à ses pieds. Zola fait d'elle l'incarnation de la corruption de la société du Second Empire.",
+    "bio": "Romancier français (1840–1902), chef de file du naturalisme et auteur du cycle des Rougon-Macquart. Son engagement dans l'affaire Dreyfus (J'accuse) en fit aussi une figure politique majeure.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/%C3%89mile_Zola.jpg",
+    "completeWrongs": [
+      "personnage de fiction.",
+      "pars, cher Théramène."
+    ]
+  },
+  {
+    "text": "Pendant plusieurs jours de suite des lambeaux d'armée en déroute avaient traversé la ville.",
+    "author": "Boule de suif — Guy de Maupassant, 1880",
+    "cover": "https://covers.openlibrary.org/b/title/Boule%20de%20suif-M.jpg",
+    "description": "Lors de la fuite devant l'invasion prussienne de 1870, des bourgeois normands exploitent le sacrifice d'une prostituée pour leur propre confort, puis la méprisent. Première nouvelle de Maupassant, chef-d'œuvre de l'ironie sociale.",
+    "bio": "Nouvelliste et romancier français (1850–1893), auteur de plus de 300 nouvelles et 6 romans. Disciple de Flaubert, il maîtrisait l'art du récit bref avec une précision et une économie inégalées. Il mourut de la syphilis à 42 ans.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Guy_de_Maupassant.jpg",
+    "completeWrongs": [
+      "une mère si belle !\"",
+      "les mendiants nourrissent leur vermine."
+    ]
+  },
+  {
+    "text": "Jeanne, après avoir fait ses malles, s'approcha de la fenêtre, mais la pluie ne cessait pas.",
+    "author": "Une vie — Guy de Maupassant, 1883",
+    "cover": "https://covers.openlibrary.org/b/title/Une%20vie-M.jpg",
+    "description": "Jeanne, femme romantique et naïve, voit ses illusions se briser face à un mari médiocre, un fils ingrat et la monotonie normande. Maupassant peint avec précision le destin banal et écrasant d'une vie de femme au XIXe siècle.",
+    "bio": "Nouvelliste et romancier français (1850–1893), auteur de plus de 300 nouvelles et 6 romans. Disciple de Flaubert, il maîtrisait l'art du récit bref avec une précision et une économie inégalées. Il mourut de la syphilis à 42 ans.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Guy_de_Maupassant.jpg",
+    "completeWrongs": [
+      "se sont mis debout.",
+      "où tous les vins coulaient."
+    ]
+  },
+  {
+    "text": "Denise était venue à pied de la gare Saint-Lazare, où un train de Cherbourg l'avait débarquée avec ses deux frères, après une nuit passée sur la dure banquette d'un wagon de troisième classe.",
+    "author": "Au Bonheur des Dames — Émile Zola, 1883",
+    "cover": "https://covers.openlibrary.org/b/title/Au%20Bonheur%20des%20Dames-M.jpg",
+    "description": "Denise entre comme vendeuse au grand magasin d'Octave Mouret qui révolutionne le commerce de détail. Zola décrit avec fascination la naissance de la grande distribution et son écrasement des petits commerçants.",
+    "bio": "Romancier français (1840–1902), chef de file du naturalisme et auteur du cycle des Rougon-Macquart. Son engagement dans l'affaire Dreyfus (J'accuse) en fit aussi une figure politique majeure.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/%C3%89mile_Zola.jpg",
+    "completeWrongs": [
+      "de bonne heure.",
+      "recherche d'un homme."
+    ]
+  },
+  {
+    "text": "À la fois pourri et revivifié, le sang des des Esseintes se montrait, après des croisements de siècles, enfin épuré.",
+    "author": "À rebours — Joris-Karl Huysmans, 1884",
+    "cover": "https://covers.openlibrary.org/b/title/%C3%80%20rebours-M.jpg",
+    "description": "Des Esseintes, aristocrate névrosé, se retire du monde pour créer un univers artificiel et raffiné, rejetant toute nature. Manifeste du mouvement décadent qui a fasciné Oscar Wilde et toute une génération d'esthètes.",
+    "bio": "Romancier français (1848–1907), passé du naturalisme zolien au décadentisme avec À rebours, puis à un catholicisme mystique avec En route. Figure clé de la littérature fin de siècle.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Joris-Karl_Huysmans.jpg",
+    "completeWrongs": [
+      "pas à dormir.",
+      "mouvements lyriques de l'âme ?"
+    ]
+  },
+  {
+    "text": "De la musique avant toute chose, et pour cela préfère l'Impair.",
+    "author": "Art poétique — Paul Verlaine, 1884",
+    "cover": "https://covers.openlibrary.org/b/title/Art%20po%C3%A9tique-M.jpg",
+    "description": "Poème de Verlaine qui définit sa conception : musique avant tout, imprécision, nuance et fuite de l'éloquence. « De la musique avant toute chose » est devenu le credo du symbolisme.",
+    "bio": "Poète français (1844–1896), figure centrale du symbolisme avec Rimbaud dont il fut l'amant. Sa poésie musicale et mélancolique a révolutionné la versification française.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Paul_Verlaine.jpg",
+    "completeWrongs": [
+      "était bien ciré.",
+      "né à Dublin."
+    ]
+  },
+  {
+    "text": "En regardant la plaine, je me sentais envahi par la curiosité.",
+    "author": "Les Illuminations — Arthur Rimbaud, 1886",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Illuminations-M.jpg",
+    "description": "Recueil de poèmes en prose de Rimbaud, publié à titre posthume par Verlaine. Les textes fragmentaires et hallucinés décrivent des visions, des métamorphoses et des paysages impossibles dans une langue d'une modernité absolue. Texte fondateur du symbolisme et de toute la poésie du XXe siècle.",
+    "bio": "Poète français (1854–1891), génie précoce qui révolutionna la poésie avant d'y renoncer à 21 ans pour devenir commerçant en Afrique. Une Saison en enfer et Les Illuminations ont ouvert la voie au symbolisme et au surréalisme.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Arthur_Rimbaud.jpg",
+    "completeWrongs": [
+      "l'édition de Dom J. Mabillon.",
+      "qui précède une grosse pluie."
+    ]
+  },
+  {
+    "text": "Claude, qui avait passé la nuit sur une banquette de la gare de Lyon, à attendre le premier train de Plassans, se retrouva sur le trottoir de la rue de Lyon, dans les ténèbres froides de novembre.",
+    "author": "L'Œuvre — Émile Zola, 1886",
+    "cover": "https://covers.openlibrary.org/b/title/L%27%C5%92uvre-M.jpg",
+    "description": "Claude Lantier, peintre de génie mais incapable d'achever son chef-d'œuvre, s'épuise dans une lutte contre l'idéal impossible et finit par se pendre devant sa toile inachevée. Zola dresse un portrait cruel de l'artiste raté, inspiré de Cézanne dont il perdit l'amitié après ce roman. Dixième volume des Rougon-Macquart.",
+    "bio": "Romancier français (1840–1902), chef de file du naturalisme et auteur du cycle des Rougon-Macquart. Son engagement dans l'affaire Dreyfus (J'accuse) en fit aussi une figure politique majeure.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/%C3%89mile_Zola.jpg",
+    "completeWrongs": [
+      "été que violence.",
+      "raconte cette histoire."
+    ]
+  },
+  {
+    "text": "8 mai. — Quelle journée admirable !",
+    "author": "Le Horla — Guy de Maupassant, 1887",
+    "cover": "https://covers.openlibrary.org/b/title/Le%20Horla-M.jpg",
+    "description": "Le narrateur perçoit une présence invisible qui l'observe et le fait agir contre sa volonté, dans une ambiguïté parfaite entre folie et surnaturel. Écrite alors que Maupassant sombrait lui-même dans la folie, un des sommets de la littérature fantastique.",
+    "bio": "Nouvelliste et romancier français (1850–1893), auteur de plus de 300 nouvelles et 6 romans. Disciple de Flaubert, il maîtrisait l'art du récit bref avec une précision et une économie inégalées. Il mourut de la syphilis à 42 ans.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Guy_de_Maupassant.jpg",
+    "completeWrongs": [
+      "dans ce café.",
+      "entre deux mondes."
+    ]
+  },
+  {
+    "text": "— Zut ! s'écria tout à coup le père Roland, qui depuis un quart d'heure demeurait immobile, les yeux fixés sur l'eau, et soulevait de temps en temps, d'un mouvement très léger, sa ligne descendue au fond de la mer.",
+    "author": "Pierre et Jean — Guy de Maupassant, 1890",
+    "cover": "https://covers.openlibrary.org/b/title/Pierre%20et%20Jean-M.jpg",
+    "description": "Les deux frères Rolland sont mis en concurrence par un héritage qui fait naître chez Pierre le soupçon horrible que Jean n'est pas le fils de leur père. Roman de la jalousie et de la vérité familiale refoulée.",
+    "bio": "Nouvelliste et romancier français (1850–1893), auteur de plus de 300 nouvelles et 6 romans. Disciple de Flaubert, il maîtrisait l'art du récit bref avec une précision et une économie inégalées. Il mourut de la syphilis à 42 ans.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Guy_de_Maupassant.jpg",
+    "completeWrongs": [
+      "regarder la mer.",
+      "district, Fiodor Pavlovitch Karamazov."
+    ]
+  },
+  {
+    "text": "Mon père tenait une rôtisserie à l'enseigne de la Reine Pédauque.",
+    "author": "La Rôtisserie de la reine Pédauque — Anatole France, 1893",
+    "cover": "https://covers.openlibrary.org/b/title/La%20R%C3%B4tisserie%20de%20la%20reine%20P%C3%A9dauque-M.jpg",
+    "description": "L'abbé Coignard, érudit libertin, entraîne le jeune Jacques dans les aventures occultes du mystérieux M. d'Astarac. Anatole France évoque avec une ironie érudite le XVIIIe siècle des illuminés.",
+    "bio": "Écrivain français (1844–1924), Prix Nobel 1921. Figure de l'esprit républicain et laïque, dreyfusard engagé, il écrira une œuvre ironique et érudite mêlant histoire, philosophie et fiction.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Anatole_France.jpg",
+    "completeWrongs": [
+      "méritait presque ce nom.",
+      "et les explorateurs."
+    ]
+  },
+  {
+    "text": "UN COUP DE DÉS JAMAIS N'ABOLIRA LE HASARD.",
+    "author": "Un coup de dés jamais n'abolira le hasard — Stéphane Mallarmé, 1895",
+    "cover": "https://covers.openlibrary.org/b/title/Un%20coup%20de%20d%C3%A9s%20jamais%20n%27abolira%20le%20hasard-M.jpg",
+    "description": "Mallarmé dispose les mots sur la page comme une partition musicale, jouant de la typographie et des blancs pour créer une œuvre totale. L'œuvre la plus radicale et la plus influente de la poésie française, fondatrice de la poésie visuelle.",
+    "bio": "Poète symboliste français (1842–1898), auteur d'une œuvre difficile et hermétique cherchant à « rendre un effet de surprise » avec les mots. Un coup de dés jamais n'abolira le hasard révolutionna la typographie poétique.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/St%C3%A9phane_Mallarm%C3%A9.jpg",
+    "completeWrongs": [
+      "comme une orange.",
+      "était une fois."
+    ]
+  },
+  {
+    "text": "La salle du théâtre de Bourgogne.",
+    "author": "Cyrano de Bergerac — Edmond Rostand, 1897",
+    "cover": "https://covers.openlibrary.org/b/title/Cyrano%20de%20Bergerac-M.jpg",
+    "description": "Cyrano, poète brillant et laid, prête sa voix et ses vers à Christian pour séduire Roxane qu'il aime en secret. Pièce en vers d'une virtuosité éblouissante, portant le personnage le plus romanesque du théâtre français.",
+    "bio": "Dramaturge français (1868–1918), auteur de Cyrano de Bergerac, la pièce la plus jouée du répertoire français. Il incarne le néo-romantisme de la fin du XIXe siècle.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Edmond_Rostand.jpg",
+    "completeWrongs": [
+      "à l'aéroport de Hambourg.",
+      "moyen de Princeton."
+    ]
+  },
+  {
+    "text": "Je suis un enfant trouvé.",
+    "author": "Sans famille — Hector Malot, 1897",
+    "cover": "https://covers.openlibrary.org/b/title/Sans%20famille-M.jpg",
+    "description": "Rémi, enfant trouvé vendu à un vieux saltimbanque, voyage sur les routes de France avec ses chiens savants. Roman d'apprentissage sentimental, classique de la littérature jeunesse mondiale.",
+    "bio": "Romancier français (1830–1907), auteur prolifique dont Sans famille (1878) reste le chef-d'œuvre. Roman d'aventures et de sentiments, c'est un classique de la littérature jeunesse.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Hector_Malot.jpg",
+    "completeWrongs": [
+      "être quelqu'un d'autre.",
+      "vue sur le ciel."
+    ]
+  },
+  {
+    "text": "Ma maîtresse a une bouche en cœur et des joues roses, lisses et tendres comme celles d'un tout petit enfant.",
+    "author": "Claudine à l'école — Colette, 1900",
+    "cover": "https://covers.openlibrary.org/b/title/Claudine%20%C3%A0%20l%27%C3%A9cole-M.jpg",
+    "description": "Claudine raconte avec malice sa vie au collège, ses amitiés passionnées et sa relation trouble avec la directrice. Colette invente un personnage féminin libre et sensuel, publié sous le nom de son mari Willy.",
+    "bio": "Écrivaine française (1873–1954), auteure de la série des Claudine, de Gigi et de La Chatte. Sa prose sensuelle évoque la nature, les animaux et la féminité avec une liberté et une précision inimitables.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Colette.jpg",
+    "completeWrongs": [
+      "était une fois.",
+      "né à Dublin."
+    ]
+  },
+  {
+    "text": "Le grondement du fleuve montait derrière la maison.",
+    "author": "Jean-Christophe — Romain Rolland, 1904",
+    "cover": "https://covers.openlibrary.org/b/title/Jean-Christophe-M.jpg",
+    "description": "Roman-fleuve retraçant la vie de Jean-Christophe Krafft, musicien allemand de génie qui conquiert Paris et cherche à réconcilier les cultures française et allemande. Prix Nobel à Romain Rolland, œuvre-monde influente dans le premier XXe siècle.",
+    "bio": "Écrivain et musicologue français (1866–1944), Prix Nobel 1915. Auteur du roman-fleuve Jean-Christophe (10 volumes) et d'une biographie de Beethoven, il fut aussi un pacifiste engagé pendant la Grande Guerre.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Romain_Rolland.jpg",
+    "completeWrongs": [
+      "district, Fiodor Pavlovitch Karamazov.",
+      "finit sans moi."
+    ]
+  },
+  {
+    "text": "Il arriva chez nous un dimanche de novembre 189…",
+    "author": "Le Grand Meaulnes — Alain-Fournier, 1913",
+    "cover": "https://covers.openlibrary.org/b/title/Le%20Grand%20Meaulnes-M.jpg",
+    "description": "Un adolescent mystérieux découvre par accident un domaine enchanté et y rencontre Yvonne de Galais qu'il cherchera toute sa vie. Seul roman d'Alain-Fournier, mort en 1914 : chef-d'œuvre mélancolique de la littérature française.",
+    "bio": "Henri-Alban Fournier, dit Alain-Fournier (1886–1914), n'écrivit qu'un seul roman, Le Grand Meaulnes, avant de mourir à 27 ans lors de la Première Guerre mondiale. Ce roman unique est devenu un classique mélancolique de la littérature française.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Alain-Fournier.jpg",
+    "completeWrongs": [
+      "maisons de P…, m'avaient envoyé.",
+      "une mère si belle !\""
+    ]
+  },
+  {
+    "text": "À la fin tu es las de ce monde ancien.",
+    "author": "Alcools — Guillaume Apollinaire, 1913",
+    "cover": "https://covers.openlibrary.org/b/title/Alcools-M.jpg",
+    "description": "Apollinaire abolit la ponctuation et mêle lyrisme moderne, nostalgie et références mythologiques. De « Zone » au « Pont Mirabeau », il invente une poésie de la simultanéité et du mouvement. Un des recueils fondateurs de la poésie du XXe siècle.",
+    "bio": "Poète franco-polonais (1880–1918), figure centrale des avant-gardes parisiennes du début du XXe siècle. Il théorisa le cubisme, inventa le mot « surréalisme » et révolutionna la poésie avec Alcools et Calligrammes.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Guillaume_Apollinaire.jpg",
+    "completeWrongs": [
+      "mouvements lyriques de l'âme ?",
+      "père l'emmena voir la glace."
+    ]
+  },
+  {
+    "text": "En ce temps-là j'étais en mon adolescence j'avais à peine seize ans et je ne me souvenais déjà plus de mon enfance.",
+    "author": "La Prose du Transsibérien et de la petite Jehanne de France — Blaise Cendrars, 1913",
+    "cover": "https://covers.openlibrary.org/b/title/La%20Prose%20du%20Transsib%C3%A9rien%20et%20de%20la%20petite%20Jehanne%20de%20France-M.jpg",
+    "description": "Long poème de Cendrars décrivant un voyage en Transsibérien pendant la guerre russo-japonaise, accompagné d'une jeune prostituée. Publié comme un « livre simultané » avec Sonia Delaunay, il révolutionne la typographie poétique.",
+    "bio": "Écrivain franco-suisse (1887–1961), poète et romancier aventurier qui se coupa la main droite dans la Grande Guerre. Auteur de La Prose du Transsibérien et de L'Or, il incarne une écriture du mouvement et du voyage.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Blaise_Cendrars.jpg",
+    "completeWrongs": [
+      "Je me souviens.",
+      "qui portait un grand pupitre."
+    ]
+  },
+  {
+    "text": "L'avant-veille du jour où commence cette histoire, Anthime Armand-Dubois, en tournée à Rome pour les intérêts de la Franc-Maçonnerie, s'y trouvait retenu par une crise de sciatique.",
+    "author": "Les Caves du Vatican — André Gide, 1914",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Caves%20du%20Vatican-M.jpg",
+    "description": "La rumeur court que le Pape a été remplacé par un imposteur, déclenchant une série d'escroqueries. Lafcadio commet un meurtre gratuit pour éprouver sa liberté absolue. Roman de l'acte gratuit, précurseur de l'existentialisme.",
+    "bio": "Écrivain français (1869–1951), Prix Nobel 1947. Cofondateur de la NRF, il écrivit une œuvre sur la libération morale et l'homosexualité, de L'Immoraliste aux Faux-Monnayeurs, sous le regard d'un protestantisme tourmenté.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Andr%C3%A9_Gide.jpg",
+    "completeWrongs": [
+      "mort deux fois.",
+      "de la castration."
+    ]
+  },
+  {
+    "text": "Je vais encourir le reproche d'avoir été un monstre.",
+    "author": "Le Diable au corps — Raymond Radiguet, 1923",
+    "cover": "https://covers.openlibrary.org/b/title/Le%20Diable%20au%20corps-M.jpg",
+    "description": "Un lycéen de 17 ans noue une liaison avec Marthe, dont le mari est au front, pendant la Première Guerre mondiale. Publié à 20 ans par Radiguet, c'est un des romans les plus précoces et les plus accomplis de la littérature française.",
+    "bio": "Romancier français (1903–1923), mort de la fièvre typhoïde à 20 ans. Il écrivit deux romans d'une maturité stupéfiante, Le Diable au corps et Le Bal du comte d'Orgel, révélant un style classique et froid unique.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Raymond_Radiguet.jpg",
+    "completeWrongs": [
+      "jour le jour.",
+      "qui semblait toujours légèrement méprisant."
+    ]
+  },
+  {
+    "text": "Tant va la croyance à la vie, à ce que la vie a de plus précaire, la vraie vie, s'entend, qu'à la fin cette croyance se perd.",
+    "author": "Manifeste du surréalisme — André Breton, 1924",
+    "cover": "https://covers.openlibrary.org/b/title/Manifeste%20du%20surr%C3%A9alisme-M.jpg",
+    "description": "Breton définit le surréalisme comme automatisme psychique libérant la pensée du contrôle de la raison. Il théorise la puissance du rêve et de l'inconscient contre la logique bourgeoise. Texte fondateur d'un des mouvements artistiques les plus influents du XXe siècle.",
+    "bio": "Poète et théoricien français (1896–1966), fondateur et animateur du surréalisme. Auteur des Manifestes du surréalisme et de Nadja, il fut le « pape » d'un mouvement qui a bouleversé toutes les formes d'expression artistique.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Andr%C3%A9_Breton.jpg",
+    "completeWrongs": [
+      "jour le jour.",
+      "souviens de tout."
+    ]
+  },
+  {
+    "text": "Boris Ville, maintenant, habitait le quartier de l'Odéon ; mais, en traversant le Luxembourg pour se rendre chez son grand-père, il lui fallait passer devant le lycée.",
+    "author": "Les Faux-Monnayeurs — André Gide, 1925",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Faux-Monnayeurs-M.jpg",
+    "description": "Gide crée une mise en abyme vertigineuse où un écrivain tient le journal de la création d'un roman intitulé Les Faux-Monnayeurs. Au centre, des adolescents découvrent la sexualité et la trahison. Le roman le plus construit et le plus ambitieux de Gide.",
+    "bio": "Écrivain français (1869–1951), Prix Nobel 1947. Cofondateur de la NRF, il écrivit une œuvre sur la libération morale et l'homosexualité, de L'Immoraliste aux Faux-Monnayeurs, sous le regard d'un protestantisme tourmenté.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Andr%C3%A9_Gide.jpg",
+    "completeWrongs": [
+      "jour le jour.",
+      "journée admirable !"
+    ]
+  },
+  {
+    "text": "La nuit était douce et pluvieuse.",
+    "author": "Sous le soleil de Satan — Georges Bernanos, 1926",
+    "cover": "https://covers.openlibrary.org/b/title/Sous%20le%20soleil%20de%20Satan-M.jpg",
+    "description": "L'abbé Donissan affronte Satan lors d'une nuit hallucinée sur la route de campagne. Premier roman de Bernanos, plongeant dans les abîmes de la vie spirituelle avec violence et beauté. Roman catholique fondamental sur la sainteté et la lutte contre le Mal.",
+    "bio": "Romancier catholique français (1888–1948), auteur de Sous le soleil de Satan et du Journal d'un curé de campagne. Son œuvre explore avec une force mystique la grâce, le péché et la sainteté.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Georges_Bernanos.jpg",
+    "completeWrongs": [
+      "habillé en bourgeois.",
+      "le campus vers l'ouest."
+    ]
+  },
+  {
+    "text": "La terre est bleue comme une orange.",
+    "author": "Capitale de la douleur — Paul Éluard, 1926",
+    "cover": "https://covers.openlibrary.org/b/title/Capitale%20de%20la%20douleur-M.jpg",
+    "description": "Recueil majeur de Paul Éluard, écrit après sa séparation de Gala qui l'a quitté pour Dali. La douleur de la perte y est transfigurée en images surréalistes d'une beauté fulgurante. « La terre est bleue comme une orange » est un des vers les plus célèbres du surréalisme.",
+    "bio": "Poète français (1895–1952), figure majeure du surréalisme puis de la poésie de la Résistance. Auteur de Capitale de la douleur et de Liberté, il a transformé l'amour et l'engagement politique en images d'une beauté et d'une clarté uniques.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Paul_%C3%89luard.jpg",
+    "completeWrongs": [
+      "il se trouva arrêté.",
+      "je pensais finir mes jours."
+    ]
+  },
+  {
+    "text": "L'avocat ouvrit une porte.",
+    "author": "Thérèse Desqueyroux — François Mauriac, 1927",
+    "cover": "https://covers.openlibrary.org/b/title/Th%C3%A9r%C3%A8se%20Desqueyroux-M.jpg",
+    "description": "Thérèse Desqueyroux a tenté d'empoisonner son mari Bernard et retourne dans la cage conjugale après son acquittement. Mauriac dissèque avec précision l'âme d'une femme qui ne peut ni s'expliquer ni se comprendre elle-même.",
+    "bio": "Romancier et essayiste français (1885–1970), Prix Nobel 1952. Ses romans (Thérèse Desqueyroux, Genitrix) décrivent avec une lucidité sans pitié la bourgeoisie catholique bordelaise et ses hypocrisies.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Fran%C3%A7ois_Mauriac.jpg",
+    "completeWrongs": [
+      "pas soutenu un petit rhume.",
+      "qui n'avait rien."
+    ]
+  },
+  {
+    "text": "La neige tombait.",
+    "author": "Les Enfants terribles — Jean Cocteau, 1929",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Enfants%20terribles-M.jpg",
+    "description": "Paul et Élisabeth vivent reclus dans leur monde imaginaire tyrannique, refusant toute intrusion de la réalité. Roman de la fascination fraternelle et de la claustration volontaire, d'une beauté cruelle.",
+    "bio": "Artiste français polymorphe (1889–1963), poète, romancier, dramaturge, cinéaste. Figure de la modernité artistique parisienne, ami de Picasso, Diaghilev et Piaf, il créa des œuvres dans tous les domaines.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jean_Cocteau.jpg",
+    "completeWrongs": [
+      "pistolero le suivait.",
+      "maman est morte."
+    ]
+  },
+  {
+    "text": "Je pars pour l'Équateur.",
+    "author": "Ecuador — Henri Michaux, 1929",
+    "cover": "https://covers.openlibrary.org/b/title/Ecuador-M.jpg",
+    "description": "Journal de voyage de Henri Michaux lors d'une expédition en Équateur en 1927, mêlant observations ironiques sur les pays traversés et réflexions sur sa propre étrangeté au monde. Premier livre de Michaux, il annonce son œuvre entière : un regard décalé et mal à l'aise face à la réalité.",
+    "bio": "Poète et peintre belge (1899–1984), auteur d'Ecuador, de Plume et d'Un barbare en Asie. Son œuvre explore l'étrangeté du moi et du monde, notamment à travers des expériences de drogues hallucinogènes comme la mescaline.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Henri_Michaux.jpg",
+    "completeWrongs": [
+      "qui portait un grand pupitre.",
+      "jour le jour."
+    ]
+  },
+  {
+    "text": "Qui suis-je ?",
+    "author": "Nadja — André Breton, 1930",
+    "cover": "https://covers.openlibrary.org/b/title/Nadja-M.jpg",
+    "description": "Breton raconte sa rencontre avec Nadja, jeune femme mystérieuse et visionnaire qui erre dans Paris. Roman du hasard objectif et de l'amour fou, il questionne les frontières entre génie et folie. Texte fondateur du surréalisme, mi-roman mi-enquête autobiographique.",
+    "bio": "Poète et théoricien français (1896–1966), fondateur et animateur du surréalisme. Auteur des Manifestes du surréalisme et de Nadja, il fut le « pape » d'un mouvement qui a bouleversé toutes les formes d'expression artistique.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Andr%C3%A9_Breton.jpg",
+    "completeWrongs": [
+      "avait trente ans.",
+      "méritait presque ce nom."
+    ]
+  },
+  {
+    "text": "Les champs d'Argentine plongeaient vers la nuit.",
+    "author": "Vol de nuit — Antoine de Saint-Exupéry, 1931",
+    "cover": "https://covers.openlibrary.org/b/title/Vol%20de%20nuit-M.jpg",
+    "description": "Rivière envoie ses pilotes dans la nuit et l'orage, pendant que Fabien lutte seul dans les ténèbres au-dessus des Andes. Roman de l'héroïsme et du sacrifice, premier grand succès de Saint-Exupéry.",
+    "bio": "Aviateur et écrivain français (1900–1944), disparu en mission au-dessus de la Méditerranée. Auteur du Petit Prince et de Vol de nuit, il a uni l'aventure aéronautique à une réflexion humaniste sur l'amitié et la responsabilité.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Antoine_de_Saint-Exup%C3%A9ry.jpg",
+    "completeWrongs": [
+      "pas une chaise de travers.",
+      "et la plaine jusqu'aux montagnes."
+    ]
+  },
+  {
+    "text": "Le vent s'engouffrait par rafales dans la grand-rue de Concarneau, absolument déserte à onze heures du soir.",
+    "author": "Le Chien jaune — Georges Simenon, 1931",
+    "cover": "https://covers.openlibrary.org/b/title/Le%20Chien%20jaune-M.jpg",
+    "description": "À Concarneau, des notables sont abattus un à un par un tireur invisible, pendant qu'un chien jaune rôde autour de l'auberge. Maigret mène l'enquête dans cette ville bretonne fermée sur ses secrets. Un des premiers et des meilleurs Maigret, d'une atmosphère incomparable.",
+    "bio": "Romancier belge (1903–1989), l'un des auteurs les plus prolixes du XXe siècle avec plus de 200 romans. Créateur du commissaire Maigret, il est aussi l'auteur de « romans durs » d'une précision psychologique sombre.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Georges_Simenon.jpg",
+    "completeWrongs": [
+      "un enfant trouvé.",
+      "en feu ?"
+    ]
+  },
+  {
+    "text": "Maigret regardait le condamné à mort avec une curiosité dont il n'était pas très fier.",
+    "author": "La Tête d'un homme — Georges Simenon, 1931",
+    "cover": "https://covers.openlibrary.org/b/title/La%20T%C3%AAte%20d%27un%20homme-M.jpg",
+    "description": "Maigret assiste à l'exécution d'un condamné à mort et comprend que celui-ci est peut-être innocent. Il doit démêler la vérité avant qu'il ne soit trop tard dans un Paris nocturne et pluvieux. Un des Maigret les plus dramatiques et les plus psychologiques.",
+    "bio": "Romancier belge (1903–1989), l'un des auteurs les plus prolixes du XXe siècle avec plus de 200 romans. Créateur du commissaire Maigret, il est aussi l'auteur de « romans durs » d'une précision psychologique sombre.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Georges_Simenon.jpg",
+    "completeWrongs": [
+      "être quelqu'un d'autre.",
+      "les mœurs les plus douces."
+    ]
+  },
+  {
+    "text": "Un télégramme d'une dizaine de mots, qui venait d'arriver à la P.J., et qui bouleversait déjà les services les plus importants de la police internationale.",
+    "author": "Pietr le Letton — Georges Simenon, 1931",
+    "cover": "https://covers.openlibrary.org/b/title/Pietr%20le%20Letton-M.jpg",
+    "description": "Premier roman du commissaire Maigret publié en volume, il traque un escroc international dans les hôtels parisiens. Simenon installe dès ce premier opus l'atmosphère brumeuse et la méthode intuitive de son commissaire. Fondateur d'une des grandes séries policières de la littérature mondiale.",
+    "bio": "Romancier belge (1903–1989), l'un des auteurs les plus prolixes du XXe siècle avec plus de 200 romans. Créateur du commissaire Maigret, il est aussi l'auteur de « romans durs » d'une précision psychologique sombre.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Georges_Simenon.jpg",
+    "completeWrongs": [
+      "un enfant trouvé.",
+      "bonne foi, lecteur."
+    ]
+  },
+  {
+    "text": "Ma paroisse est une paroisse comme les autres.",
+    "author": "Journal d'un curé de campagne — Georges Bernanos, 1932",
+    "cover": "https://covers.openlibrary.org/b/title/Journal%20d%27un%20cur%C3%A9%20de%20campagne-M.jpg",
+    "description": "Un jeune curé de campagne maladroit et incompris consigne dans son journal ses luttes spirituelles et ses échecs humains dans un village hostile. Bernanos peint avec une tendresse poignante un saint sans le savoir, consumé par la grâce. Adapté au cinéma par Robert Bresson dans un chef-d'œuvre.",
+    "bio": "Romancier catholique français (1888–1948), auteur de Sous le soleil de Satan et du Journal d'un curé de campagne. Son œuvre explore avec une force mystique la grâce, le péché et la sainteté.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Georges_Bernanos.jpg",
+    "completeWrongs": [
+      "une terre sèche et désolée.",
+      "jamais voulu l'écrire."
+    ]
+  },
+  {
+    "text": "Tchen tenterait-il de lever la moustiquaire ?",
+    "author": "La Condition humaine — André Malraux, 1933",
+    "cover": "https://covers.openlibrary.org/b/title/La%20Condition%20humaine-M.jpg",
+    "description": "Shanghai, 1927 : des révolutionnaires communistes préparent l'insurrection en sachant que Tchang Kaï-chek les trahira. Malraux explore la fraternité dans l'action et la dignité face à la mort. Prix Goncourt 1933.",
+    "bio": "Romancier et homme politique français (1901–1976), auteur de La Condition humaine et de L'Espoir. Aventurier, résistant, il fut ministre de la Culture sous de Gaulle et l'un des grands intellectuels engagés du XXe siècle.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Andr%C3%A9_Malraux.jpg",
+    "completeWrongs": [
+      "de Baltimore, en plein Maryland.",
+      "au fond de la mer."
+    ]
+  },
+  {
+    "text": "Avec Gilbert Barbentane, il y avait toujours quelque chose qui ne marchait pas.",
+    "author": "Les Cloches de Bâle — Louis Aragon, 1934",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Cloches%20de%20B%C3%A2le-M.jpg",
+    "description": "Premier volume du cycle romanesque d'Aragon retraçant la France des années 1900 à 1912, jusqu'au congrès de Bâle contre la guerre. Point de départ d'une saga majeure.",
+    "bio": "Poète et romancier français (1897–1982), cofondateur du surréalisme puis figure majeure du réalisme socialiste. Ses poèmes de la Résistance (Les Yeux d'Elsa) l'ont rendu populaire, et son cycle romanesque Le Monde réel reste majeur.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Louis_Aragon.jpg",
+    "completeWrongs": [
+      "sincères sont beaux.",
+      "s'en alla dans la montagne."
+    ]
+  },
+  {
+    "text": "Le mieux serait d'écrire les événements au jour le jour.",
+    "author": "La Nausée — Jean-Paul Sartre, 1938",
+    "cover": "https://covers.openlibrary.org/b/title/La%20Naus%C3%A9e-M.jpg",
+    "description": "Antoine Roquentin éprouve une nausée existentielle face à l'absurde existence des choses et des êtres. Premier roman de Sartre, formulant de façon concrète les thèses de l'existentialisme.",
+    "bio": "Philosophe et romancier français (1905–1980), père de l'existentialisme. Auteur de La Nausée, Huis clos et L'Être et le Néant, il refusa le Prix Nobel en 1964. Figure centrale de l'intellectuel engagé du XXe siècle.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jean-Paul_Sartre.jpg",
+    "completeWrongs": [
+      "ces pages le dira.",
+      "né à Dublin."
+    ]
+  },
+  {
+    "text": "Aujourd'hui, maman est morte.",
+    "author": "L'Étranger — Albert Camus, 1942",
+    "cover": "https://covers.openlibrary.org/b/title/L%27%C3%89tranger-M.jpg",
+    "description": "Meursault, employé d'Alger, apprend la mort de sa mère puis tue un Arabe sur une plage sous le soleil aveuglant. Jugé moins pour le meurtre que pour son indifférence émotionnelle, il est condamné à mort. Roman de l'absurde de Camus, phrase d'ouverture la plus célèbre de la littérature française.",
+    "bio": "Romancier et philosophe français d'Algérie (1913–1960), Prix Nobel 1957. Auteur de L'Étranger, La Peste et Le Mythe de Sisyphe, il a théorisé l'absurde et la révolte en s'opposant à la fois au nihilisme et à l'engagement communiste.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Albert_Camus.jpg",
+    "completeWrongs": [
+      "et 4 juin.",
+      "et la plaine jusqu'aux montagnes."
+    ]
+  },
+  {
+    "text": "Il n'y a qu'un problème philosophique vraiment sérieux : c'est le suicide.",
+    "author": "Le Mythe de Sisyphe — Albert Camus, 1942",
+    "cover": "https://covers.openlibrary.org/b/title/Le%20Mythe%20de%20Sisyphe-M.jpg",
+    "description": "Camus part de la question fondamentale du suicide pour développer sa philosophie de l'absurde : la vie n'a pas de sens, mais il faut imaginer Sisyphe heureux. Essai philosophique qui pose les bases de la pensée camusienne. Publié la même année que L'Étranger, il en est le pendant théorique.",
+    "bio": "Romancier et philosophe français d'Algérie (1913–1960), Prix Nobel 1957. Auteur de L'Étranger, La Peste et Le Mythe de Sisyphe, il a théorisé l'absurde et la révolte en s'opposant à la fois au nihilisme et à l'engagement communiste.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Albert_Camus.jpg",
+    "completeWrongs": [
+      "pas soutenu un petit rhume.",
+      "à la rue de Seine."
+    ]
+  },
+  {
+    "text": "Lorsque j'avais six ans j'ai vu, une fois, une magnifique image, dans un livre sur la Forêt Vierge qui s'appelait « Histoires vécues ».",
+    "author": "Le Petit Prince — Antoine de Saint-Exupéry, 1943",
+    "cover": "https://covers.openlibrary.org/b/title/Le%20Petit%20Prince-M.jpg",
+    "description": "Un aviateur échoué dans le Sahara rencontre un petit prince qui lui parle de sa rose et de ses voyages entre planètes. Conte philosophique sur l'amour et le regard de l'enfance. Le livre français le plus traduit et lu au monde.",
+    "bio": "Aviateur et écrivain français (1900–1944), disparu en mission au-dessus de la Méditerranée. Auteur du Petit Prince et de Vol de nuit, il a uni l'aventure aéronautique à une réflexion humaniste sur l'amitié et la responsabilité.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Antoine_de_Saint-Exup%C3%A9ry.jpg",
+    "completeWrongs": [
+      "une mère si belle !\"",
+      "de Smyrne, Trieste et Naples."
+    ]
+  },
+  {
+    "text": "Il faut avoir été prisonnier de guerre pour savoir ce que c'est que d'attendre.",
+    "author": "120, rue de la Gare — Léo Malet, 1943",
+    "cover": "https://covers.openlibrary.org/b/title/120%2C%20rue%20de%20la%20Gare-M.jpg",
+    "description": "Nestor Burma, détective privé et premier héros du roman noir français, sort d'un camp de prisonniers en Allemagne et enquête sur un meurtre mystérieux lié à une adresse parisienne. Malet invente un personnage cynique et attachant dans un Paris de l'Occupation. Roman fondateur du polar français.",
+    "bio": "Romancier français (1909–1996), inventeur du détective Nestor Burma et de la série policière « Nouveaux Mystères de Paris ». Père du roman noir français, d'abord proche du surréalisme avant de se tourner vers le polar.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/L%C3%A9o_Malet.jpg",
+    "completeWrongs": [
+      "à l'aéroport de Hambourg.",
+      "n'a sans doute oublié."
+    ]
+  },
+  {
+    "text": "François Deschamps était né à Peyrane, dans le Vaucluse, le troisième jour de l'an 2052.",
+    "author": "Ravage — René Barjavel, 1943",
+    "cover": "https://covers.openlibrary.org/b/title/Ravage-M.jpg",
+    "description": "En 2052, l'électricité disparaît soudainement du monde, plongeant la civilisation dans un chaos apocalyptique. François Deschamps guide un groupe de survivants à travers la France dévastée vers le sud. Roman de science-fiction catastrophiste visionnaire, écrit pendant l'Occupation.",
+    "bio": "Romancier français de science-fiction (1911–1985), auteur de Ravage et La Nuit des temps. Son œuvre allie catastrophisme et humanisme, explorant les périls de la technologie pour la civilisation.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Ren%C3%A9_Barjavel.jpg",
+    "completeWrongs": [
+      "prie de m'écouter.",
+      "drogues commencèrent à agir."
+    ]
+  },
+  {
+    "text": "Alors voilà.",
+    "author": "Huis clos — Jean-Paul Sartre, 1944",
+    "cover": "https://covers.openlibrary.org/b/title/Huis%20clos-M.jpg",
+    "description": "Trois morts comprennent peu à peu qu'ils sont en Enfer et que leur torture sera de s'observer mutuellement éternellement. La formule « L'enfer, c'est les autres » synthétise la vision sartrienne. Pièce courte et implacable, un des textes les plus joués au monde.",
+    "bio": "Philosophe et romancier français (1905–1980), père de l'existentialisme. Auteur de La Nausée, Huis clos et L'Être et le Néant, il refusa le Prix Nobel en 1964. Figure centrale de l'intellectuel engagé du XXe siècle.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jean-Paul_Sartre.jpg",
+    "completeWrongs": [
+      "qui m'a violée.",
+      "été que violence."
+    ]
+  },
+  {
+    "text": "Au bout du petit matin bourgeonnant d'anses frêles les Antilles qui ont faim, les Antilles grêlées de petite vérole, les Antilles dynamitées d'alcool, échouées dans la boue de cette baie.",
+    "author": "Cahier d'un retour au pays natal — Aimé Césaire, 1945",
+    "cover": "https://covers.openlibrary.org/b/title/Cahier%20d%27un%20retour%20au%20pays%20natal-M.jpg",
+    "description": "Césaire retourne en Martinique et transcende la misère coloniale dans l'affirmation de la négritude. Texte fondateur du mouvement de la Négritude, d'une influence immense sur les littératures africaines et caribéennes.",
+    "bio": "Poète et homme politique martiniquais (1913–2008), cofondateur du mouvement de la Négritude avec Senghor. Son Cahier d'un retour au pays natal est un des textes politiques et poétiques les plus importants du XXe siècle.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Aim%C3%A9_C%C3%A9saire.jpg",
+    "completeWrongs": [
+      "lieues au nord de Marbella.",
+      "pas ce monde."
+    ]
+  },
+  {
+    "text": "Notre Père qui êtes aux cieux restez-y.",
+    "author": "Paroles — Jacques Prévert, 1946",
+    "cover": "https://covers.openlibrary.org/b/title/Paroles-M.jpg",
+    "description": "Recueil de Prévert mêlant humour, tendresse et révolte sociale. « Barbara », « Le cancre », « Déjeuner du matin » sont parmi les poèmes les plus récités de la langue française. Livre populaire vendu à des millions d'exemplaires.",
+    "bio": "Poète français (1900–1977), auteur de Paroles, recueil populaire vendu à des millions d'exemplaires. Scénariste de Marcel Carné (Les Enfants du paradis), il a aussi écrit pour la chanson et le cinéma.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jacques_Pr%C3%A9vert.jpg",
+    "completeWrongs": [
+      "de mille kilomètres.",
+      "vie allait changer."
+    ]
+  },
+  {
+    "text": "Dans l'S, à une heure d'affluence.",
+    "author": "Exercices de style — Raymond Queneau, 1946",
+    "cover": "https://covers.openlibrary.org/b/title/Exercices%20de%20style-M.jpg",
+    "description": "Queneau raconte 99 fois la même anecdote banale en 99 registres et styles différents. Exercice virtuose et ludique sur les ressources infinies du français, classique de l'Oulipo avant la lettre.",
+    "bio": "Écrivain français (1903–1976), cofondateur de l'Oulipo. Auteur de Zazie dans le métro et des Exercices de style, il a exploré avec humour et rigueur mathématique toutes les ressources de la langue française.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Raymond_Queneau.jpg",
+    "completeWrongs": [
+      "une terre sèche et désolée.",
+      "des monts Ngong."
+    ]
+  },
+  {
+    "text": "L'appartement de Colin avait ceci de particulier que le sol en était bien ciré.",
+    "author": "L'Écume des jours — Boris Vian, 1947",
+    "cover": "https://covers.openlibrary.org/b/title/L%27%C3%89cume%20des%20jours-M.jpg",
+    "description": "Colin et Chloé s'aiment dans un Paris poétique et fantaisiste, mais Chloé développe un nénuphar dans le poumon. Vian invente une langue surréaliste où coexistent poésie et tragédie de l'amour et de la mort. Roman culte des lycéens depuis soixante ans.",
+    "bio": "Écrivain, musicien et ingénieur français (1920–1959), figure de Saint-Germain-des-Prés. Auteur de L'Écume des jours et de J'irai cracher sur vos tombes, il incarne la liberté créative et la résistance aux conventions de l'après-guerre.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Boris_Vian.jpg",
+    "completeWrongs": [
+      "où tout bascule.",
+      "histoire malgré moi."
+    ]
+  },
+  {
+    "text": "Madame… Madame devrait mettre ses bijoux de pacotille.",
+    "author": "Les Bonnes — Jean Genet, 1947",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Bonnes-M.jpg",
+    "description": "Claire et Solange jouent en secret au jeu trouble de tuer leur patronne Madame dans un rituel répété. Pièce sur le masque, la servitude et la révolte, nourrie d'un fait divers réel. Une des pièces les plus dérangeantes du théâtre du XXe siècle.",
+    "bio": "Romancier et dramaturge français (1910–1986), ancien délinquant dont Sartre fit un saint dans Saint Genet. Auteur de Notre-Dame-des-Fleurs, Les Bonnes et Les Nègres, son œuvre sublime la marginalité et le crime.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jean_Genet.jpg",
+    "completeWrongs": [
+      "la moustiquaire ?",
+      "tout a commencé."
+    ]
+  },
+  {
+    "text": "Weidmann vous apparut dans une édition de cinq heures, la tête emmaillotée de bandelettes blanches, religieuse et encore aviateur blessé, tombé dans les blés un jour de colère.",
+    "author": "Notre-Dame-des-Fleurs — Jean Genet, 1947",
+    "cover": "https://covers.openlibrary.org/b/title/Notre-Dame-des-Fleurs-M.jpg",
+    "description": "Genet invente le monde de Divine, travesti vieillissant du Paris interlope, et de ses amants criminels. Prose poétique explosive sur la marginalité, la beauté du crime et le sacré, écrite clandestinement en prison.",
+    "bio": "Romancier et dramaturge français (1910–1986), ancien délinquant dont Sartre fit un saint dans Saint Genet. Auteur de Notre-Dame-des-Fleurs, Les Bonnes et Les Nègres, son œuvre sublime la marginalité et le crime.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jean_Genet.jpg",
+    "completeWrongs": [
+      "vraie source de vie quotidienne.",
+      "forêt de Saudraie en Astillé."
+    ]
+  },
+  {
+    "text": "Notre héritage n'est précédé d'aucun testament.",
+    "author": "Fureur et mystère — René Char, 1948",
+    "cover": "https://covers.openlibrary.org/b/title/Fureur%20et%20myst%C3%A8re-M.jpg",
+    "description": "Recueil central de René Char, résistant et poète, rassemblant des poèmes entre fragment aphoristique et lyrisme tendu. L'« Hypnos », journal du maquis en poèmes, en est le cœur. Sommet de la poésie française, salué par Heidegger et Camus.",
+    "bio": "Poète français (1907–1988), résistant dans le Vaucluse, auteur de Fureur et mystère. Sa poésie fragmentaire et aphoristique, entre violence et beauté, est une des plus importantes du XXe siècle. Ami de Camus et Heidegger.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Ren%C3%A9_Char.jpg",
+    "completeWrongs": [
+      "pars pour l'Équateur.",
+      "peu plus le panneau coulissant."
+    ]
+  },
+  {
+    "text": "J'ai longtemps hésité à écrire un livre sur la femme.",
+    "author": "Le Deuxième Sexe — Simone de Beauvoir, 1948",
+    "cover": "https://covers.openlibrary.org/b/title/Le%20Deuxi%C3%A8me%20Sexe-M.jpg",
+    "description": "Beauvoir analyse la condition féminine pour montrer que « la femme » est une construction sociale et non un destin biologique. Texte fondateur du féminisme moderne, il a provoqué un scandale à sa parution. « On ne naît pas femme, on le devient » reste une des citations les plus importantes du XXe siècle.",
+    "bio": "Philosophe et romancière française (1908–1986), compagne de Sartre. Auteure du Deuxième Sexe, texte fondateur du féminisme, et des Mandarins, Prix Goncourt 1954. Figure centrale de l'intellectuel engagé.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Simone_de_Beauvoir.jpg",
+    "completeWrongs": [
+      "ça s'est passé.",
+      "Impossible de dormir."
+    ]
+  },
+  {
+    "text": "Ce matin-là, pour la première fois depuis longtemps, Maigret se sentait presque intimidé.",
+    "author": "Mon ami Maigret — Georges Simenon, 1949",
+    "cover": "https://covers.openlibrary.org/b/title/Mon%20ami%20Maigret-M.jpg",
+    "description": "Un inspecteur anglais suit Maigret pour observer sa méthode dans une enquête à Porquerolles. Un des Maigret les plus intimes et les plus auto-réflexifs de Simenon.",
+    "bio": "Romancier belge (1903–1989), l'un des auteurs les plus prolixes du XXe siècle avec plus de 200 romans. Créateur du commissaire Maigret, il est aussi l'auteur de « romans durs » d'une précision psychologique sombre.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Georges_Simenon.jpg",
+    "completeWrongs": [
+      "le sens bien.",
+      "la honte des hommes."
+    ]
+  },
+  {
+    "text": "On ne naît pas femme : on le devient.",
+    "author": "Le Deuxième Sexe II — Simone de Beauvoir, 1949",
+    "cover": "https://covers.openlibrary.org/b/title/Le%20Deuxi%C3%A8me%20Sexe%20II-M.jpg",
+    "description": "Second volume consacré aux expériences concrètes de la féminité, montrant comment chaque étape de la vie féminine est conditionnée par le regard masculin. Plus charnel et concret que le premier, il a été le plus lu et le plus contesté.",
+    "bio": "Philosophe et romancière française (1908–1986), compagne de Sartre. Auteure du Deuxième Sexe, texte fondateur du féminisme, et des Mandarins, Prix Goncourt 1954. Figure centrale de l'intellectuel engagé.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Simone_de_Beauvoir.jpg",
+    "completeWrongs": [
+      "reconnaître un morceau de Chopin.",
+      "des oiseaux morts."
+    ]
+  },
+  {
+    "text": "Tiens, il est neuf heures.",
+    "author": "La Cantatrice chauve — Eugène Ionesco, 1950",
+    "cover": "https://covers.openlibrary.org/b/title/La%20Cantatrice%20chauve-M.jpg",
+    "description": "Deux couples bourgeois anglais échangent des platitudes absurdes dans un salon, dans une pièce sans intrigue ni cantatrice. Ionesco fait exploser le langage automatique et la bêtise conformiste dans un comique désespérant. Première pièce du théâtre de l'absurde, elle est jouée sans interruption au théâtre de la Huchette depuis 1957.",
+    "bio": "Dramaturge franco-roumain (1909–1994), cofondateur du théâtre de l'absurde avec Beckett. Auteur de La Cantatrice chauve, Les Chaises et Rhinocéros, il dénonce avec humour le langage automatique et la bêtise conformiste.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Eug%C3%A8ne_Ionesco.jpg",
+    "completeWrongs": [
+      "est venu vers moi.",
+      "vers laquelle je me dirigeais."
+    ]
+  },
+  {
+    "text": "Rien à faire.",
+    "author": "En attendant Godot — Samuel Beckett, 1952",
+    "cover": "https://covers.openlibrary.org/b/title/En%20attendant%20Godot-M.jpg",
+    "description": "Vladimir et Estragon attendent Godot sur une route déserte. Godot n'arrive pas. Ils reviendront demain. Beckett crée le chef-d'œuvre du théâtre de l'absurde avec une économie de moyens absolue et une profondeur infinie. La pièce la plus jouée et la plus commentée du XXe siècle.",
+    "bio": "Romancier et dramaturge irlandais d'expression française (1906–1989), Prix Nobel 1969. Auteur d'En attendant Godot, Molloy et L'Innommable, il pousse la forme romanesque et dramatique jusqu'au dépouillement absolu.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Samuel_Beckett.jpg",
+    "completeWrongs": [
+      "l'avait emmené découvrir la glace.",
+      "dans une famille d'employés."
+    ]
+  },
+  {
+    "text": "Dans la pénombre de la taverne, un homme s'accoude au comptoir en bois.",
+    "author": "Les Gommes — Alain Robbe-Grillet, 1953",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Gommes-M.jpg",
+    "description": "Un agent des services secrets enquête à Bruxelles sur un meurtre qui n'a peut-être pas eu lieu, dans une ville géométrique et répétitive. Premier roman de Robbe-Grillet, qui réécrit Œdipe en mode policier froid. Texte fondateur du Nouveau Roman.",
+    "bio": "Romancier et cinéaste français (1922–2008), chef de file théorique du Nouveau Roman. Auteur des Gommes et de La Jalousie, il théorisa le « chosisme » : décrire les objets sans les charger de sens humain.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Alain_Robbe-Grillet.jpg",
+    "completeWrongs": [
+      "une terre sèche et désolée.",
+      "traverse le ciel."
+    ]
+  },
+  {
+    "text": "J'étais enfant et je jouais près de la case de mon père.",
+    "author": "L'Enfant noir — Camara Laye, 1953",
+    "cover": "https://covers.openlibrary.org/b/title/L%27Enfant%20noir-M.jpg",
+    "description": "Camara Laye raconte son enfance en Haute-Guinée, entre la forge de son père, les génies protecteurs et l'école coloniale qui l'arrachera à son village. Premier grand roman autobiographique de l'Afrique subsaharienne francophone, d'une tendresse et d'une précision ethnographique remarquables.",
+    "bio": "Romancier guinéen (1928–1980), auteur de L'Enfant noir (1953), première œuvre africaine subsaharienne à connaître un succès international. Son roman autobiographique sur l'enfance mandingue reste un classique de la francophonie.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Camara_Laye.jpg",
+    "completeWrongs": [
+      "en user d'une autre façon.",
+      "personnage de fiction."
+    ]
+  },
+  {
+    "text": "Je suis dans la chambre de ma mère.",
+    "author": "Molloy — Samuel Beckett, 1953",
+    "cover": "https://covers.openlibrary.org/b/title/Molloy-M.jpg",
+    "description": "Deux récits en miroir : Molloy, vieillard infirme, cherche sa mère ; Moran, détective, part à sa recherche et lui ressemble de plus en plus. Beckett décompose le roman policier et le roman de quête pour ne laisser que la voix et le corps qui s'effondrent. Premier volume de la grande trilogie beckettienne.",
+    "bio": "Romancier et dramaturge irlandais d'expression française (1906–1989), Prix Nobel 1969. Auteur d'En attendant Godot, Molloy et L'Innommable, il pousse la forme romanesque et dramatique jusqu'au dépouillement absolu.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Samuel_Beckett.jpg",
+    "completeWrongs": [
+      "vraie source de vie quotidienne.",
+      "était bien ciré."
+    ]
+  },
+  {
+    "text": "Un verre à la main, Scriassine regardait les gens en face de lui avec ce sourire qui semblait toujours légèrement méprisant.",
+    "author": "Les Mandarins — Simone de Beauvoir, 1954",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Mandarins-M.jpg",
+    "description": "Le roman de Beauvoir, Prix Goncourt 1954, peint les intellectuels de Saint-Germain-des-Prés dans l'après-guerre. Anne et Henri, alter egos de Beauvoir et Camus, naviguent entre engagement politique et vie privée. Fresque des dilemmes moraux de la génération existentialiste.",
+    "bio": "Philosophe et romancière française (1908–1986), compagne de Sartre. Auteure du Deuxième Sexe, texte fondateur du féminisme, et des Mandarins, Prix Goncourt 1954. Figure centrale de l'intellectuel engagé.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Simone_de_Beauvoir.jpg",
+    "completeWrongs": [
+      "les images disparaîtront.",
+      "d'un wagon de troisième classe."
+    ]
+  },
+  {
+    "text": "Sur ce sentiment inconnu dont l'ennui, la douceur m'obsède, j'hésite à apposer le nom, le beau nom grave de tristesse.",
+    "author": "Bonjour tristesse — Françoise Sagan, 1954",
+    "cover": "https://covers.openlibrary.org/b/title/Bonjour%20tristesse-M.jpg",
+    "description": "Cécile, 17 ans, manœuvre pour empêcher le mariage de son père avec Anne, avec des conséquences tragiques qu'elle n'avait pas prévues. Sagan écrit à 18 ans ce roman sur la cruauté involontaire d'une adolescente. Scandale immédiat et succès mondial, Prix des Critiques 1954.",
+    "bio": "Romancière française (1935–2004), révélation à 18 ans avec Bonjour tristesse. Auteure d'une trentaine de romans légers et mélancoliques sur l'amour bourgeois, elle incarna une certaine liberté féminine dans la France des années 50-70.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Fran%C3%A7oise_Sagan.jpg",
+    "completeWrongs": [
+      "fort Bastiani, sa première affectation.",
+      "ne plus revenir."
+    ]
+  },
+  {
+    "text": "Je hais les voyages et les explorateurs.",
+    "author": "Tristes Tropiques — Claude Lévi-Strauss, 1955",
+    "cover": "https://covers.openlibrary.org/b/title/Tristes%20Tropiques-M.jpg",
+    "description": "Lévi-Strauss raconte ses expéditions au Brésil des années 1930 tout en construisant une réflexion sur le regard anthropologique et la destruction des cultures. Classique inclassable, mi-récit de voyage, mi-manifeste philosophique.",
+    "bio": "Anthropologue et ethnologue français (1908–2009), fondateur du structuralisme. Auteur de Tristes Tropiques et de La Pensée sauvage, il a révolutionné les sciences humaines en appliquant la linguistique à l'étude des mythes et des sociétés.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Claude_L%C3%A9vi-Strauss.jpg",
+    "completeWrongs": [
+      "ville de Saint-Malo.",
+      "mouvements lyriques de l'âme ?"
+    ]
+  },
+  {
+    "text": "Maintenant l'ombre du pilier — le pilier qui soutient l'angle sud-ouest du toit — divise en deux parties égales l'angle correspondant de la terrasse.",
+    "author": "La Jalousie — Alain Robbe-Grillet, 1957",
+    "cover": "https://covers.openlibrary.org/b/title/La%20Jalousie-M.jpg",
+    "description": "Un homme surveille obsessionnellement sa femme et son voisin dans un roman d'une froideur absolue. Robbe-Grillet décrit la jalousie comme une géométrie de regards et d'objets. Manifeste du Nouveau Roman, qui élimine toute psychologie.",
+    "bio": "Romancier et cinéaste français (1922–2008), chef de file théorique du Nouveau Roman. Auteur des Gommes et de La Jalousie, il théorisa le « chosisme » : décrire les objets sans les charger de sens humain.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Alain_Robbe-Grillet.jpg",
+    "completeWrongs": [
+      "herbes des haillons d'argent.",
+      "n'a sans doute oublié."
+    ]
+  },
+  {
+    "text": "Ma mère s'appelait Augustine Lansot, et mon père s'appelait Joseph Pagnol.",
+    "author": "La Gloire de mon père — Marcel Pagnol, 1957",
+    "cover": "https://covers.openlibrary.org/b/title/La%20Gloire%20de%20mon%20p%C3%A8re-M.jpg",
+    "description": "Pagnol raconte son enfance à Aubagne, ses premières années d'école et une mémorable partie de chasse avec son père instituteur. Écriture ensoleillée et tendre, portée par l'amour de la Provence. Premier volume des Souvenirs d'enfance.",
+    "bio": "Écrivain, dramaturge et cinéaste français (1895–1974), membre de l'Académie française. Auteur de la Trilogie marseillaise et des Souvenirs d'enfance, il a immortalisé la Provence dans une langue populaire et ensoleillée.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Marcel_Pagnol.jpg",
+    "completeWrongs": [
+      "qui portait un grand pupitre.",
+      "de la cuisine."
+    ]
+  },
+  {
+    "text": "Voulez-vous lire à haute voix ce qu'il y a d'écrit au-dessus de la porte, demanda la maîtresse.",
+    "author": "Moderato Cantabile — Marguerite Duras, 1958",
+    "cover": "https://covers.openlibrary.org/b/title/Moderato%20Cantabile-M.jpg",
+    "description": "Une femme bourgeoise revient plusieurs soirs dans un café populaire pour reconstituer avec un ouvrier les circonstances d'un crime passionnel. Duras crée une tension érotique et sociale dans l'espace entre les mots. Roman d'une économie absolue.",
+    "bio": "Romancière et cinéaste française (1914–1996), auteure de Moderato Cantabile, Hiroshima mon amour et L'Amant (Prix Goncourt 1984). Sa prose épurée et répétitive a créé un style unique, entre le roman et la poésie.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Marguerite_Duras.jpg",
+    "completeWrongs": [
+      "un enfant trouvé.",
+      "vraie source de vie quotidienne."
+    ]
+  },
+  {
+    "text": "Doukipudonktan, se demanda Gabriel excédé.",
+    "author": "Zazie dans le métro — Raymond Queneau, 1959",
+    "cover": "https://covers.openlibrary.org/b/title/Zazie%20dans%20le%20m%C3%A9tro-M.jpg",
+    "description": "Zazie débarque à Paris chez son oncle avec une idée fixe : prendre le métro en grève. Queneau invente une langue orale et phonétique pour raconter les tribulations surréalistes de cette enfant qui déjoue tous les clichés.",
+    "bio": "Écrivain français (1903–1976), cofondateur de l'Oulipo. Auteur de Zazie dans le métro et des Exercices de style, il a exploré avec humour et rigueur mathématique toutes les ressources de la langue française.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Raymond_Queneau.jpg",
+    "completeWrongs": [
+      "de mille kilomètres.",
+      "ne suis pas son assassin."
+    ]
+  },
+  {
+    "text": "Mon cher Marc, je me suis décidé à te raconter ma vie.",
+    "author": "Mémoires d'Hadrien — Marguerite Yourcenar, 1960",
+    "cover": "https://covers.openlibrary.org/b/title/M%C3%A9moires%20d%27Hadrien-M.jpg",
+    "description": "L'Empereur Hadrien vieillissant adresse à Marc Aurèle une longue lettre-testament retraçant sa vie et sa philosophie. Yourcenar reconstruit le monde antique vu de l'intérieur avec une érudition et une liberté extraordinaires.",
+    "bio": "Romancière française (1903–1987), première femme élue à l'Académie française. Auteure de Mémoires d'Hadrien et de L'Œuvre au noir, elle a reconstruit le monde antique et la Renaissance avec une érudition souveraine.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Marguerite_Yourcenar.jpg",
+    "completeWrongs": [
+      "ce monde ancien.",
+      "vraie source de vie quotidienne."
+    ]
+  },
+  {
+    "text": "En Alsace, aux environs de 1850, un instituteur accablé d'enfants consentit à devenir épicier.",
+    "author": "Les Mots — Jean-Paul Sartre, 1964",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Mots-M.jpg",
+    "description": "Sartre raconte son enfance et sa vocation d'écrivain qu'il démythifie rétrospectivement avec ironie. Autobiographie intellectuelle d'une élégance rare, écrite après avoir refusé le Prix Nobel.",
+    "bio": "Philosophe et romancier français (1905–1980), père de l'existentialisme. Auteur de La Nausée, Huis clos et L'Être et le Néant, il refusa le Prix Nobel en 1964. Figure centrale de l'intellectuel engagé du XXe siècle.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jean-Paul_Sartre.jpg",
+    "completeWrongs": [
+      "tourbillons devant le quai Saint-Bernard.",
+      "aux pattes de mouche."
+    ]
+  },
+  {
+    "text": "Cuba coule en flamme au milieu du lac Léman pendant que je descends au fond des choses.",
+    "author": "Prochain Épisode — Hubert Aquin, 1965",
+    "cover": "https://covers.openlibrary.org/b/title/Prochain%20%C3%89pisode-M.jpg",
+    "description": "Un révolutionnaire québécois en détention écrit un roman d'espionnage qui joue avec vertige sur les frontières entre fiction et réalité. Roman de la révolution québécoise et de la création littéraire. Texte fondateur de la littérature québécoise moderne.",
+    "bio": "Romancier québécois (1929–1977), auteur de Prochain Épisode. Figure du nationalisme québécois, son œuvre brève et expérimentale est fondatrice pour la littérature du Québec.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Hubert_Aquin.jpg",
+    "completeWrongs": [
+      "les fleurs elle-même.",
+      "reconnaître un morceau de Chopin."
+    ]
+  },
+  {
+    "text": "Bien des années plus tard, face au peloton d'exécution, le colonel Aureliano Buendía devait se rappeler ce lointain après-midi au cours duquel son père l'emmena voir la glace.",
+    "author": "Cent ans de solitude (trad.) — Gabriel García Márquez, 1967",
+    "cover": "https://covers.openlibrary.org/b/title/Cent%20ans%20de%20solitude%20%28trad.%29-M.jpg",
+    "description": "La saga de la famille Buendía fondant et habitant la ville de Macondo sur plusieurs générations, mêlant histoire réelle et événements merveilleux dans une prose éblouissante. García Márquez invente le réalisme magique et crée le roman latino-américain qui a changé la littérature mondiale. Prix Nobel 1982.",
+    "bio": "Romancier colombien (1927–2014), Prix Nobel 1982. Auteur de Cent ans de solitude et de L'Amour aux temps du choléra, il est le maître du réalisme magique et l'une des figures les plus influentes de la littérature mondiale du XXe siècle.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Gabriel_Garc%C3%ADa_M%C3%A1rquez.jpg",
+    "completeWrongs": [
+      "jolie et agréable.",
+      "seconde moitié du XXe siècle."
+    ]
+  },
+  {
+    "text": "Il y avait une semaine qu'avait fini dans la capitale Koné Ibrahima, de race malinké, ou disons-le en malinké : il n'avait pas soutenu un petit rhume.",
+    "author": "Les Soleils des indépendances — Ahmadou Kourouma, 1968",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Soleils%20des%20ind%C3%A9pendances-M.jpg",
+    "description": "Fama, prince malinké déchu dans une Afrique post-coloniale, erre entre la ville et le village ancestral. Kourouma invente une langue française imprégnée du malinké. Roman fondateur de la francophonie africaine.",
+    "bio": "Romancier ivoirien (1927–2003), auteur des Soleils des indépendances et d'Allah n'est pas obligé. Il révolutionna la langue française en l'imprégnant du malinké pour décrire les chaos post-coloniaux africains.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Ahmadou_Kourouma.jpg",
+    "completeWrongs": [
+      "à quelqu'un qu'il n'était pas.",
+      "et une reine…"
+    ]
+  },
+  {
+    "text": "Anton Voyl n'arrivait pas à dormir.",
+    "author": "La Disparition — Georges Perec, 1969",
+    "cover": "https://covers.openlibrary.org/b/title/La%20Disparition-M.jpg",
+    "description": "Anton Voyl disparaît et ses amis partent à sa recherche dans une enquête oulipienne où la lettre « e » est absente de bout en bout. Lipogramme virtuose de 300 pages sur le manque et la contrainte créatrice.",
+    "bio": "Romancier français (1936–1982), membre de l'Oulipo. Auteur de La Disparition (sans la lettre « e »), W ou le Souvenir d'enfance et La Vie mode d'emploi, il conjugue jeu formel et profondeur mémorielle sur la Shoah.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Georges_Perec.jpg",
+    "completeWrongs": [
+      "pose un homme.",
+      "Impossible de dormir."
+    ]
+  },
+  {
+    "text": "La première chose que je peux vous dire c'est qu'on vivait au sixième sans ascenseur et que pour Madame Rosa, avec tous ces kilos qu'elle portait sur elle et seulement deux jambes, c'était une vraie source de vie quotidienne.",
+    "author": "La Vie devant soi — Romain Gary (Émile Ajar), 1975",
+    "cover": "https://covers.openlibrary.org/b/title/La%20Vie%20devant%20soi-M.jpg",
+    "description": "Momo, enfant arabe, est élevé par Madame Rosa, vieille prostituée juive rescapée d'Auschwitz. Roman sur la tendresse entre les déracinés, écrit sous le pseudonyme d'Émile Ajar — qui cachait Romain Gary, déjà lauréat. Prix Goncourt 1975.",
+    "bio": "Romain Gary (1914–1980), romancier français d'origine lituanienne, seul auteur à avoir remporté deux fois le Prix Goncourt (sous son nom et sous le pseudonyme d'Émile Ajar). Auteur de La Vie devant soi et Les Cerfs-volants, il se suicida à 66 ans.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Romain_Gary_%28%C3%89mile_Ajar%29.jpg",
+    "completeWrongs": [
+      "vie allait changer.",
+      "qui me travailla."
+    ]
+  },
+  {
+    "text": "Liège, en ce mois de novembre 1529, bourdonnait de sourdes rumeurs.",
+    "author": "L'Œuvre au noir — Marguerite Yourcenar, 1975",
+    "cover": "https://covers.openlibrary.org/b/title/L%27%C5%92uvre%20au%20noir-M.jpg",
+    "description": "Zénon, médecin et philosophe alchimiste du XVIe siècle, parcourt l'Europe de la Renaissance en quête de liberté de pensée. Yourcenar reconstruit le climat intellectuel de la Renaissance avec une érudition éblouissante. Prix Femina 1968.",
+    "bio": "Romancière française (1903–1987), première femme élue à l'Académie française. Auteure de Mémoires d'Hadrien et de L'Œuvre au noir, elle a reconstruit le monde antique et la Renaissance avec une érudition souveraine.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Marguerite_Yourcenar.jpg",
+    "completeWrongs": [
+      "le monde croyait.",
+      "était encore vide."
+    ]
+  },
+  {
+    "text": "Georges Gerfaut avait quarante ans et quelques.",
+    "author": "Le Petit Bleu de la côte Ouest — Jean-Patrick Manchette, 1976",
+    "cover": "https://covers.openlibrary.org/b/title/Le%20Petit%20Bleu%20de%20la%20c%C3%B4te%20Ouest-M.jpg",
+    "description": "Georges Gerfaut, cadre parisien qui conduit la nuit pour fuir son ennui, sauve un blessé et se retrouve traqué par deux tueurs. Manchette utilise le roman noir comme outil de critique sociale. Chef-d'œuvre du néo-polar français.",
+    "bio": "Romancier français (1942–1995), rénovateur du roman noir français. Ses romans (Le Petit Bleu de la côte Ouest, Fatale) utilisent le polar comme critique sociale du capitalisme et de la violence des sociétés libérales.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jean-Patrick_Manchette.jpg",
+    "completeWrongs": [
+      "rien à dire.",
+      "de la cuisine."
+    ]
+  },
+  {
+    "text": "La femme sortit de la nuit et entra dans Bléville.",
+    "author": "Fatale — Jean-Patrick Manchette, 1977",
+    "cover": "https://covers.openlibrary.org/b/title/Fatale-M.jpg",
+    "description": "Aimée, femme mystérieuse, s'installe en province et liquide méthodiquement les notables les plus influents. Thriller minimaliste et fulgurant, allégorie d'un monde bourgeois corrompu.",
+    "bio": "Romancier français (1942–1995), rénovateur du roman noir français. Ses romans (Le Petit Bleu de la côte Ouest, Fatale) utilisent le polar comme critique sociale du capitalisme et de la violence des sociétés libérales.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jean-Patrick_Manchette.jpg",
+    "completeWrongs": [
+      "Puget Sound jusqu'à San Diego.",
+      "autres philosophes dans l'embarras."
+    ]
+  },
+  {
+    "text": "Oui, ça pourrait commencer ainsi, ici, comme ça, d'une manière un peu lourde et lente.",
+    "author": "La Vie mode d'emploi — Georges Perec, 1978",
+    "cover": "https://covers.openlibrary.org/b/title/La%20Vie%20mode%20d%27emploi-M.jpg",
+    "description": "Dans un immeuble parisien fictif, Perec décrit pièce par pièce les appartements et leurs habitants autour du puzzle de Bartlebooth. Roman-monde et somme encyclopédique régi par des contraintes oulipIennes complexes. Chef-d'œuvre absolu de la littérature française.",
+    "bio": "Romancier français (1936–1982), membre de l'Oulipo. Auteur de La Disparition (sans la lettre « e »), W ou le Souvenir d'enfance et La Vie mode d'emploi, il conjugue jeu formel et profondeur mémorielle sur la Shoah.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Georges_Perec.jpg",
+    "completeWrongs": [
+      "vue, j'ai su.",
+      "petits faits de routine."
+    ]
+  },
+  {
+    "text": "Ramatoulaye, j'ai appris hier le décès de ton mari.",
+    "author": "Une si longue lettre — Mariama Bâ, 1979",
+    "cover": "https://covers.openlibrary.org/b/title/Une%20si%20longue%20lettre-M.jpg",
+    "description": "Ramatoulaye, sénégalaise, écrit à son amie après la mort de son mari qui a pris une seconde femme jeune. Roman fondateur de la littérature africaine féminine sur la condition de la femme entre modernité et tradition.",
+    "bio": "Romancière sénégalaise (1929–1981), auteure d'Une si longue lettre. Son roman fondateur sur la condition de la femme africaine l'a imposée comme une des voix les plus importantes de la littérature africaine.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Mariama_B%C3%A2.jpg",
+    "completeWrongs": [
+      "traverse le ciel.",
+      "rien de lui."
+    ]
+  },
+  {
+    "text": "Le cap Horn.",
+    "author": "Vendredi ou les Limbes du Pacifique — Michel Tournier, 1980",
+    "cover": "https://covers.openlibrary.org/b/title/Vendredi%20ou%20les%20Limbes%20du%20Pacifique-M.jpg",
+    "description": "Robinson Crusoé, naufragé, recrée d'abord la civilisation occidentale puis se laisse transformer par l'île et Vendredi. Tournier réécrit le mythe colonial pour en inverser les valeurs. Roman philosophique et sensuel.",
+    "bio": "Romancier français (1924–2016), auteur de Vendredi ou les Limbes du Pacifique et du Roi des Aulnes (Prix Goncourt 1970). Il réécrit les grands mythes de la culture occidentale dans des romans philosophiques riches.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Michel_Tournier.jpg",
+    "completeWrongs": [
+      "une famille heureuse.",
+      "n'aura point d'imitateur."
+    ]
+  },
+  {
+    "text": "Martin Terrier avait trente ans.",
+    "author": "La Position du tireur couché — Jean-Patrick Manchette, 1981",
+    "cover": "https://covers.openlibrary.org/b/title/La%20Position%20du%20tireur%20couch%C3%A9-M.jpg",
+    "description": "Martin Terrier, tueur à gages, veut prendre sa retraite mais une dernière mission le ramène dans sa ville natale. Manchette explore la contradiction entre violence et aspiration à la normalité. Son roman le plus complexe.",
+    "bio": "Romancier français (1942–1995), rénovateur du roman noir français. Ses romans (Le Petit Bleu de la côte Ouest, Fatale) utilisent le polar comme critique sociale du capitalisme et de la violence des sociétés libérales.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jean-Patrick_Manchette.jpg",
+    "completeWrongs": [
+      "s'en alla dans la montagne.",
+      "te coucher, rimeur."
+    ]
+  },
+  {
+    "text": "Je ne suis rien.",
+    "author": "Rue des Boutiques Obscures — Patrick Modiano, 1982",
+    "cover": "https://covers.openlibrary.org/b/title/Rue%20des%20Boutiques%20Obscures-M.jpg",
+    "description": "Un homme amnésique qui travaille pour un détective cherche à reconstituer son identité passée. Modiano construit un roman de la mémoire lacunaire dans le Paris de l'Occupation. Prix Goncourt 1978.",
+    "bio": "Romancier français (né en 1945), Prix Nobel 2014. Ses romans hantés par l'Occupation et la mémoire fragmentée explorent l'identité perdue dans un Paris mélancolique.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Patrick_Modiano.jpg",
+    "completeWrongs": [
+      "un bal masqué.",
+      "recherche d'un homme."
+    ]
+  },
+  {
+    "text": "Mon père est mort deux mois après l'agrégation de lettres que je venais d'obtenir.",
+    "author": "La Place — Annie Ernaux, 1983",
+    "cover": "https://covers.openlibrary.org/b/title/La%20Place-M.jpg",
+    "description": "Ernaux raconte la vie de son père ouvrier devenu petit commerçant avec une distance froide et précise, refusant toute complaisance sentimentale. Texte qui fonde sa méthode d'écriture. Prix Renaudot 1984.",
+    "bio": "Romancière française (née en 1940), Prix Nobel 2022. Auteure de La Place, Les Années et L'Événement, elle a développé une écriture « plate » et sociologique entre autobiographie et ethnologie de la France populaire.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Annie_Ernaux.jpg",
+    "completeWrongs": [
+      "aux pattes de mouche.",
+      "de poisson depuis quatre-vingt-quatre jours."
+    ]
+  },
+  {
+    "text": "André Dufourneau fut le premier des morts qui me travailla.",
+    "author": "Vies minuscules — Pierre Michon, 1984",
+    "cover": "https://covers.openlibrary.org/b/title/Vies%20minuscules-M.jpg",
+    "description": "Pierre Michon ressuscite huit vies obscures et oubliées dans une langue oscillant entre sacré et profane. Chaque vie minuscule devient un destin universel et une méditation sur la création. Livre culte qui a créé un genre.",
+    "bio": "Romancier français (né en 1945), auteur de Vies minuscules et de Rimbaud le fils. Sa prose brève, ciselée et sacrée a créé un genre unique entre biographie et méditation sur l'art et la transmission.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Pierre_Michon.jpg",
+    "completeWrongs": [
+      "les mœurs les plus douces.",
+      "ville de Saint-Malo."
+    ]
+  },
+  {
+    "text": "Alors, tu vas vraiment faire ça ?",
+    "author": "Enfance — Nathalie Sarraute, 1986",
+    "cover": "https://covers.openlibrary.org/b/title/Enfance-M.jpg",
+    "description": "Sarraute remonte à ses premières années en dialogue avec une voix intérieure qui vérifie et nuance chaque souvenir. Autobiographie expérimentale appliquant les techniques des tropismes à la mémoire.",
+    "bio": "Romancière d'origine russe (1900–1999), pionnière du Nouveau Roman avec ses « tropismes ». Auteure d'Enfance et de L'Ère du soupçon, elle a décomposé les mécanismes souterrains de la psychologie humaine.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Nathalie_Sarraute.jpg",
+    "completeWrongs": [
+      "était encore vide.",
+      "de souvenirs d'enfance."
+    ]
+  },
+  {
+    "text": "Vendredi soir, j'étais invité à une soirée chez un collègue de travail.",
+    "author": "Extension du domaine de la lutte — Michel Houellebecq, 1994",
+    "cover": "https://covers.openlibrary.org/b/title/Extension%20du%20domaine%20de%20la%20lutte-M.jpg",
+    "description": "Un ingénieur informaticien solitaire descend en province dans une quête nihiliste et ironique. Premier roman de Houellebecq posant les bases de sa vision : libéralisme économique et sexuel produisent les mêmes perdants.",
+    "bio": "Romancier français (né en 1956), figure la plus controversée de la littérature française contemporaine. Auteur de Les Particules élémentaires et La Carte et le Territoire (Prix Goncourt 2010), il dresse un portrait nihiliste de l'Occident libéral.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Michel_Houellebecq.jpg",
+    "completeWrongs": [
+      "douce et pluvieuse.",
+      "à toute vapeur de Saint-Pétersbourg."
+    ]
+  },
+  {
+    "text": "Je m'en vais, dit Ferrer.",
+    "author": "Je m'en vais — Jean Echenoz, 1997",
+    "cover": "https://covers.openlibrary.org/b/title/Je%20m%27en%20vais-M.jpg",
+    "description": "Félix Ferrer, galeriste parisien, quitte sa femme, part en Arctique et revient avec des objets inuits qui lui seront volés. Echenoz mêle roman d'aventures, comédie de mœurs et polar dans une légèreté stylistique trompeuse. Prix Goncourt 1999.",
+    "bio": "Romancier français (né en 1947), auteur de Je m'en vais (Prix Goncourt 1999). Son style léger et décalé dissimule une réflexion mélancolique sur la mort et le temps.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jean_Echenoz.jpg",
+    "completeWrongs": [
+      "attendant l'épuisement de ses ressources.",
+      "est neuf heures."
+    ]
+  },
+  {
+    "text": "Ce livre est avant tout l'histoire d'un homme, qui vécut la plus grande partie de sa vie en Europe occidentale, durant la seconde moitié du XXe siècle.",
+    "author": "Les Particules élémentaires — Michel Houellebecq, 1998",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Particules%20%C3%A9l%C3%A9mentaires-M.jpg",
+    "description": "Houellebecq dissèque le vide spirituel de l'Occident post-soixante-huitard à travers deux demi-frères incarnant deux avatars de la modernité. Roman-scandale qui a imposé Houellebecq comme la voix la plus iconoclaste de la littérature française.",
+    "bio": "Romancier français (né en 1956), figure la plus controversée de la littérature française contemporaine. Auteur de Les Particules élémentaires et La Carte et le Territoire (Prix Goncourt 2010), il dresse un portrait nihiliste de l'Occident libéral.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Michel_Houellebecq.jpg",
+    "completeWrongs": [
+      "un bal masqué.",
+      "et 4 juin."
+    ]
+  },
+  {
+    "text": "En janvier 1990, je suis entrée dans la firme Yumimoto, à Tokyo.",
+    "author": "Stupeur et tremblements — Amélie Nothomb, 1999",
+    "cover": "https://covers.openlibrary.org/b/title/Stupeur%20et%20tremblements-M.jpg",
+    "description": "Amélie est engagée dans une firme japonaise à Tokyo et monte dans la hiérarchie avant d'être systématiquement rabaissée jusqu'au poste le plus bas. Comédie acide sur le choc culturel entre logiques occidentale et japonaise du travail.",
+    "bio": "Romancière belge (née en 1966), auteure d'un roman par an depuis 1992. Stupeur et tremblements, Hygiène de l'assassin et Métaphysique des tubes l'ont imposée comme une des voix les plus originales de la littérature belge francophone.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Am%C3%A9lie_Nothomb.jpg",
+    "completeWrongs": [
+      "croisements de siècles, enfin épuré.",
+      "courbé sous son poids !"
+    ]
+  },
+  {
+    "text": "Au commencement, Dieu était.",
+    "author": "Métaphysique des tubes — Amélie Nothomb, 2000",
+    "cover": "https://covers.openlibrary.org/b/title/M%C3%A9taphysique%20des%20tubes-M.jpg",
+    "description": "Nothomb raconte ses trois premières années de vie au Japon, où elle était « le tube », avant que le chocolat blanc ne lui révèle le monde. Fable autobiographique sur la naissance de la conscience et du désir.",
+    "bio": "Romancière belge (née en 1966), auteure d'un roman par an depuis 1992. Stupeur et tremblements, Hygiène de l'assassin et Métaphysique des tubes l'ont imposée comme une des voix les plus originales de la littérature belge francophone.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Am%C3%A9lie_Nothomb.jpg",
+    "completeWrongs": [
+      "une mère si belle !\"",
+      "habillé en bourgeois."
+    ]
+  },
+  {
+    "text": "Je m'appelle Octave et je vous habille.",
+    "author": "99 Francs — Frédéric Beigbeder, 2000",
+    "cover": "https://covers.openlibrary.org/b/title/99%20Francs-M.jpg",
+    "description": "Octave, publicitaire cynique et désabusé, raconte de l'intérieur les mécanismes de manipulation de la publicité qui vend du rêve pour vendre des produits. Pamphlet culte contre la société de consommation, écrit dans une langue percutante et sarcastique. Roman-scandale de Beigbeder qui lui coûta son poste.",
+    "bio": "Romancier et critique littéraire français (né en 1965), auteur de 99 Francs, pamphlet culte contre la publicité. Chroniqueur provocateur, il dirige le Prix de Flore et a longtemps animé l'émission littéraire de Canal+.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Fr%C3%A9d%C3%A9ric_Beigbeder.jpg",
+    "completeWrongs": [
+      "rien à dire.",
+      "à l'aéroport de Hambourg."
+    ]
+  },
+  {
+    "text": "Je ne sais pas trop par où commencer.",
+    "author": "Les Âmes grises — Philippe Claudel, 2003",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20%C3%82mes%20grises-M.jpg",
+    "description": "Un vieux policier rouvre le dossier du meurtre d'une petite fille en 1917, alors que les poilus reviennent du front. Roman du souvenir et de la culpabilité, écrit dans une prose lente et envoûtante. Prix Renaudot 2003.",
+    "bio": "Romancier et cinéaste français (né en 1962), auteur des Âmes grises (Prix Renaudot 2003). Son œuvre explore la culpabilité, la mémoire et la France de l'Est dans une prose mélancolique.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Philippe_Claudel.jpg",
+    "completeWrongs": [
+      "tout commence mal.",
+      "un bal masqué."
+    ]
+  },
+  {
+    "text": "Lauren était morte, ou du moins c'est ce que tout le monde croyait.",
+    "author": "Et si c'était vrai… — Marc Levy, 2005",
+    "cover": "https://covers.openlibrary.org/b/title/Et%20si%20c%27%C3%A9tait%20vrai%E2%80%A6-M.jpg",
+    "description": "Lauren se retrouve dans un état entre la vie et la mort et ne peut communiquer qu'avec Arthur, l'homme qui a emménagé dans son appartement. Romance fantastique sur l'amour qui transcende les frontières du réel. Premier roman de Marc Levy, traduit partout.",
+    "bio": "Romancier français (né en 1961), l'auteur français le plus traduit dans le monde. Ses romans mêlent romance et surnaturel dans une narration accessible qui touche des millions de lecteurs.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Marc_Levy.jpg",
+    "completeWrongs": [
+      "regarder la mer.",
+      "que ce n'est qu'un roman."
+    ]
+  },
+  {
+    "text": "Frères humains, laissez-moi vous raconter comment ça s'est passé.",
+    "author": "Les Bienveillantes — Jonathan Littell, 2006",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Bienveillantes-M.jpg",
+    "description": "Le SS Maximilien Aue raconte les opérations d'extermination sur le front de l'Est et à Auschwitz avec une froideur clinique et une culture littéraire insolente. Roman-monument sur la banalité du mal. Prix Goncourt et Grand Prix de l'Académie française 2006.",
+    "bio": "Romancier franco-américain (né en 1967), auteur des Bienveillantes (Prix Goncourt 2006). Ce roman-monument sur la Shoah, raconté par un SS cultivé, a suscité un débat littéraire et éthique international.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jonathan_Littell.jpg",
+    "completeWrongs": [
+      "pars, cher Théramène.",
+      "une terre sèche et désolée."
+    ]
+  },
+  {
+    "text": "Il y avait deux entrées dans ce café.",
+    "author": "Dans le café de la jeunesse perdue — Patrick Modiano, 2006",
+    "cover": "https://covers.openlibrary.org/b/title/Dans%20le%20caf%C3%A9%20de%20la%20jeunesse%20perdue-M.jpg",
+    "description": "Modiano reconstitue à travers quatre narrateurs la figure de Louki, jeune femme mystérieuse qui fréquentait le café Le Condé et a disparu. Roman de la mémoire fragmentée et du Paris des années 60.",
+    "bio": "Romancier français (né en 1945), Prix Nobel 2014. Ses romans hantés par l'Occupation et la mémoire fragmentée explorent l'identité perdue dans un Paris mélancolique.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Patrick_Modiano.jpg",
+    "completeWrongs": [
+      "ans et quelques.",
+      "ne marchait pas."
+    ]
+  },
+  {
+    "text": "8 octobre 1908 : Adolf Hitler recalé.",
+    "author": "La Part de l'autre — Éric-Emmanuel Schmitt, 2007",
+    "cover": "https://covers.openlibrary.org/b/title/La%20Part%20de%20l%27autre-M.jpg",
+    "description": "Schmitt imagine deux destins parallèles : l'Adolf Hitler recalé aux Beaux-Arts et son double accepté qui devient artiste. Roman sur la bifurcation historique et la question du mal qui aurait pu être évité.",
+    "bio": "Romancier et dramaturge belge (né en 1960), auteur du Cycle de l'invisible et de La Part de l'autre. Il explore avec accessibilité les grandes questions spirituelles, morales et historiques.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/%C3%89ric-Emmanuel_Schmitt.jpg",
+    "completeWrongs": [
+      "y vis maintenant.",
+      "palais du président du Reichstag."
+    ]
+  },
+  {
+    "text": "Toutes les images disparaîtront.",
+    "author": "Les Années — Annie Ernaux, 2008",
+    "cover": "https://covers.openlibrary.org/b/title/Les%20Ann%C3%A9es-M.jpg",
+    "description": "Ernaux écrit une autobiographie collective où le « je » se fond dans le « on » pour raconter l'histoire d'une génération française de l'après-guerre à aujourd'hui. Forme narrative inédite. Récompensée du Nobel en 2022.",
+    "bio": "Romancière française (née en 1940), Prix Nobel 2022. Auteure de La Place, Les Années et L'Événement, elle a développé une écriture « plate » et sociologique entre autobiographie et ethnologie de la France populaire.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Annie_Ernaux.jpg",
+    "completeWrongs": [
+      "recherche d'un homme.",
+      "Je m'en vais."
+    ]
+  },
+  {
+    "text": "Le 26 décembre 2004, le lendemain du tsunami, nous sommes allés à la plage.",
+    "author": "D'autres vies que la mienne — Emmanuel Carrère, 2009",
+    "cover": "https://covers.openlibrary.org/b/title/D%27autres%20vies%20que%20la%20mienne-M.jpg",
+    "description": "Le lendemain du tsunami de 2004, Carrère croise une famille qui vient de perdre sa petite fille et reconstruit la vie de deux amis juges morts trop tôt. Récit sur la fraternité, le deuil et la justice.",
+    "bio": "Romancier et journaliste français (né en 1957), auteur de L'Adversaire, Limonov et D'autres vies que la mienne. Il a inventé un genre hybride entre roman, enquête et autobiographie, d'une franchise et d'une précision implacables.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Emmanuel_Carr%C3%A8re.jpg",
+    "completeWrongs": [
+      "au fond de la mer.",
+      "pose un homme."
+    ]
+  },
+  {
+    "text": "Jed Martin passa les deux premières années de sa vie dans la commune de Charny, en Seine-et-Marne.",
+    "author": "La Carte et le Territoire — Michel Houellebecq, 2010",
+    "cover": "https://covers.openlibrary.org/b/title/La%20Carte%20et%20le%20Territoire-M.jpg",
+    "description": "Jed Martin, artiste conceptuel, est sollicité par Michel Houellebecq pour préfacer son catalogue. Houellebecq se met lui-même en scène dans un roman mélancolique sur l'art et la mort. Prix Goncourt 2010.",
+    "bio": "Romancier français (né en 1956), figure la plus controversée de la littérature française contemporaine. Auteur de Les Particules élémentaires et La Carte et le Territoire (Prix Goncourt 2010), il dresse un portrait nihiliste de l'Occident libéral.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Michel_Houellebecq.jpg",
+    "completeWrongs": [
+      "4 septembre 1856.",
+      "du départ d'Ulysse."
+    ]
+  },
+  {
+    "text": "Limonov n'est pas un personnage de fiction.",
+    "author": "Limonov — Emmanuel Carrère, 2011",
+    "cover": "https://covers.openlibrary.org/b/title/Limonov-M.jpg",
+    "description": "Carrère raconte la vie d'Édouard Limonov : vagabond soviétique, gigolo à New York, écrivain punk à Paris, soldat en Bosnie, prisonnier politique en Russie. Biographie romancée d'un homme qui a traversé toutes les folies du XXe siècle.",
+    "bio": "Romancier et journaliste français (né en 1957), auteur de L'Adversaire, Limonov et D'autres vies que la mienne. Il a inventé un genre hybride entre roman, enquête et autobiographie, d'une franchise et d'une précision implacables.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Emmanuel_Carr%C3%A8re.jpg",
+    "completeWrongs": [
+      "bonne foi, lecteur.",
+      "traverse le ciel."
+    ]
+  },
+  {
+    "text": "Deux cent mille morts, ça vous pose un homme.",
+    "author": "Au revoir là-haut — Pierre Lemaitre, 2013",
+    "cover": "https://covers.openlibrary.org/b/title/Au%20revoir%20l%C3%A0-haut-M.jpg",
+    "description": "Deux rescapés des tranchées montent une arnaque monumentale contre la patrie ingrate qui les a oubliés. Roman picaresque et noir sur la France d'après 1918. Prix Goncourt 2013, adapté au cinéma.",
+    "bio": "Romancier français (né en 1951), d'abord auteur de polars primés avant de se tourner vers le roman historique. Au revoir là-haut (Prix Goncourt 2013) a lancé une trilogie sur la France du XXe siècle.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Pierre_Lemaitre.jpg",
+    "completeWrongs": [
+      "de Los Angeles.",
+      "les journées passent."
+    ]
+  },
+  {
+    "text": "Le cœur de Simon Limbres, ce cœur humain, a commencé de battre quelques semaines après sa conception, entre la quatrième et la sixième semaine de la grossesse de sa mère, accélérant peu à peu pour se stabiliser autour de cent-quarante pulsations par minute, puis ralentissant vers le terme.",
+    "author": "Réparer les vivants — Maylis de Kerangal, 2014",
+    "cover": "https://covers.openlibrary.org/b/title/R%C3%A9parer%20les%20vivants-M.jpg",
+    "description": "En une journée, le cœur de Simon Limbres en état de mort cérébrale va être transplanté dans le corps de Claire Méjan. Kerangal suit chaque étape de ce transfert de vie avec une précision et une beauté bouleversantes.",
+    "bio": "Romancière française (née en 1967), auteure de Réparer les vivants (Prix du roman des étudiants France Culture-Télérama 2014). Sa prose fluide et technique tisse la vie contemporaine dans une phrase-fleuve unique.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Maylis_de_Kerangal.jpg",
+    "completeWrongs": [
+      "seconde moitié du XXe siècle.",
+      "pars, cher Théramène."
+    ]
+  },
+  {
+    "text": "Aujourd'hui, M'ma est encore vivante.",
+    "author": "Meursault, contre-enquête — Kamel Daoud, 2014",
+    "cover": "https://covers.openlibrary.org/b/title/Meursault%2C%20contre-enqu%C3%AAte-M.jpg",
+    "description": "Le frère de l'Arabe tué par Meursault dans L'Étranger donne enfin un nom et une voix à sa famille. Réponse post-coloniale au roman de Camus restituant la dignité à une victime rendue anonyme. Prix Goncourt du premier roman 2015.",
+    "bio": "Romancier et journaliste algérien (né en 1970), auteur de Meursault, contre-enquête. Chroniqueur engagé, il répond à Camus depuis Oran pour redonner voix à ceux qu'efface la littérature coloniale.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Kamel_Daoud.jpg",
+    "completeWrongs": [
+      "de Smyrne, Trieste et Naples.",
+      "jour le jour."
+    ]
+  },
+  {
+    "text": "Mon enfance n'a été que violence.",
+    "author": "En finir avec Eddy Bellegueule — Édouard Louis, 2014",
+    "cover": "https://covers.openlibrary.org/b/title/En%20finir%20avec%20Eddy%20Bellegueule-M.jpg",
+    "description": "Édouard Louis raconte son enfance dans un village picard pauvre et la violence homophobe subie de ses camarades et de sa propre famille. Autofiction radicale et politique sur la honte de classe et la construction identitaire.",
+    "bio": "Romancier français (né en 1992), auteur d'En finir avec Eddy Bellegueule et de Qui a tué mon père. Ses autofictions politiques sur la violence de classe et l'homophobie sont parmi les plus commentées de la décennie.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/%C3%89douard_Louis.jpg",
+    "completeWrongs": [
+      "dans ce café.",
+      "la mieux partagée."
+    ]
+  },
+  {
+    "text": "Je suis né en France en 1978.",
+    "author": "L'Arabe du futur 1 — Riad Sattouf, 2014",
+    "cover": "https://covers.openlibrary.org/b/title/L%27Arabe%20du%20futur%201-M.jpg",
+    "description": "Riad Sattouf raconte son enfance entre la Bretagne, la Libye de Kadhafi et la Syrie des années Assad dans une famille franco-arabe déchirée. Premier volume d'une autobiographie graphique en six tomes. Un des plus grands succès de la BD francophone.",
+    "bio": "Auteur de bande dessinée franco-syrien (né en 1978), auteur de L'Arabe du futur. Réalisateur de films (Les Beaux Gosses), il a créé l'autobiographie graphique francophone la plus lue de sa génération.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Riad_Sattouf.jpg",
+    "completeWrongs": [
+      "de la Franche-Comté.",
+      "Le Cimetière des Livres Oubliés."
+    ]
+  },
+  {
+    "text": "Il faudrait être dingo pour se souvenir qu'on a été jeune.",
+    "author": "Vernon Subutex 1 — Virginie Despentes, 2015",
+    "cover": "https://covers.openlibrary.org/b/title/Vernon%20Subutex%201-M.jpg",
+    "description": "Vernon Subutex, ex-disquaire du Paris des années 90, se retrouve à la rue et erre d'amis en amis. Despentes dresse un portrait brutal et tendre de la France contemporaine. Trilogie romanesque majeure.",
+    "bio": "Romancière et cinéaste française (née en 1969), auteure de Baise-moi, de King Kong Théorie et de la trilogie Vernon Subutex. Sa fiction trash et féministe est devenue un point de référence de la littérature française contemporaine.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Virginie_Despentes.jpg",
+    "completeWrongs": [
+      "un enfant trouvé.",
+      "douce et pluvieuse."
+    ]
+  },
+  {
+    "text": "Impossible de dormir.",
+    "author": "Boussole — Mathias Énard, 2015",
+    "cover": "https://covers.openlibrary.org/b/title/Boussole-M.jpg",
+    "description": "Franz Ritter, musicologue insomniaque, passe une nuit à se souvenir de ses voyages en Orient et de son amour pour Sarah. Énard déploie une méditation érudite sur le dialogue entre Orient et Occident. Prix Goncourt 2015.",
+    "bio": "Romancier français (né en 1972), auteur de Zone et de Boussole (Prix Goncourt 2015). Arabisant et spécialiste du dialogue Orient-Occident, il déploie des phrases-fleuves vertigineuses.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Mathias_%C3%89nard.jpg",
+    "completeWrongs": [
+      "était encore vide.",
+      "fallait passer devant le lycée."
+    ]
+  },
+  {
+    "text": "Le bébé est mort.",
+    "author": "Chanson douce — Leïla Slimani, 2016",
+    "cover": "https://covers.openlibrary.org/b/title/Chanson%20douce-M.jpg",
+    "description": "Myriam et Paul font appel à Louise, nounou idéale, qui glisse vers un acte irrémédiable. Prix Goncourt 2016, roman qui a relancé le débat sur le travail domestique.",
+    "bio": "Romancière franco-marocaine (née en 1981), Prix Goncourt 2016 pour Chanson douce. Ancienne journaliste, elle explore dans ses romans les zones d'ombre de la condition féminine et les relations de pouvoir domestiques.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Le%C3%AFla_Slimani.jpg",
+    "completeWrongs": [
+      "que ce n'est qu'un roman.",
+      "peu plus le panneau coulissant."
+    ]
+  },
+  {
+    "text": "Le 20 février 1933, vingt-quatre hommes d'affaires arrivent dans un palais qui ressemble à un gâteau.",
+    "author": "L'Ordre du jour — Éric Vuillard, 2018",
+    "cover": "https://covers.openlibrary.org/b/title/L%27Ordre%20du%20jour-M.jpg",
+    "description": "Le 20 février 1933, vingt-quatre grands industriels financent secrètement le parti nazi. Vuillard raconte les mécanismes de la complicité des élites face au fascisme naissant. Prix Goncourt 2017.",
+    "bio": "Romancier français (né en 1968), auteur de L'Ordre du jour (Prix Goncourt 2017). Ses récits courts et incisifs mêlent histoire et littérature pour dénoncer les mécanismes de la complicité politique.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/%C3%89ric_Vuillard.jpg",
+    "completeWrongs": [
+      "était toujours là.",
+      "Je voulais disparaître."
+    ]
+  },
+  {
+    "text": "Je suis gardienne de cimetière.",
+    "author": "Changer l'eau des fleurs — Valérie Perrin, 2018",
+    "cover": "https://covers.openlibrary.org/b/title/Changer%20l%27eau%20des%20fleurs-M.jpg",
+    "description": "Violette Toussaint est gardienne du cimetière de Brancion et accueille les vivants qui viennent parler à leurs morts. Roman sur le deuil, les secrets de famille et les secondes chances. Phénomène de librairie mondial.",
+    "bio": "Romancière française (née en 1967), auteure de Changer l'eau des fleurs, phénomène mondial. Ancienne photographe de Claude Lelouch, elle écrit des romans sentimentaux sur le deuil et les secrets de famille.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Val%C3%A9rie_Perrin.jpg",
+    "completeWrongs": [
+      "fut arrêté un matin.",
+      "comme une orange."
+    ]
+  },
+  {
+    "text": "Je n'aime pas ce monde.",
+    "author": "Sérotonine — Michel Houellebecq, 2019",
+    "cover": "https://covers.openlibrary.org/b/title/S%C3%A9rotonine-M.jpg",
+    "description": "Un ingénieur agronome quitte Paris pour errer anonymement dans la France rurale sous l'emprise d'un antidépresseur. Houellebecq peint une France paysanne abandonnée et une masculinité en déroute.",
+    "bio": "Romancier français (né en 1956), figure la plus controversée de la littérature française contemporaine. Auteur de Les Particules élémentaires et La Carte et le Territoire (Prix Goncourt 2010), il dresse un portrait nihiliste de l'Occident libéral.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Michel_Houellebecq.jpg",
+    "completeWrongs": [
+      "La neige tombait.",
+      "sans creuser la terre meurtrie."
+    ]
+  },
+  {
+    "text": "Blake est un tueur à gages d'une efficacité remarquable.",
+    "author": "L'Anomalie — Hervé Le Tellier, 2020",
+    "cover": "https://covers.openlibrary.org/b/title/L%27Anomalie-M.jpg",
+    "description": "Un avion atterrit deux fois à trois mois d'intervalle avec les mêmes passagers, qui doivent se confronter à leurs doubles. Prix Goncourt 2020, roman de SF littéraire sur l'identité et le destin.",
+    "bio": "Romancier et oulipien français (né en 1957), auteur de L'Anomalie (Prix Goncourt 2020). Président de l'Oulipo depuis 2019, il mêle dans ses romans jeu formel, science-fiction et réflexion sur l'identité.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Herv%C3%A9_Le_Tellier.jpg",
+    "completeWrongs": [
+      "fort Bastiani, sa première affectation.",
+      "c'est que d'attendre."
+    ]
+  },
+  {
+    "text": "Je vais vous parler d'un homme qui m'a violée.",
+    "author": "Triste tigre — Neige Sinno, 2024",
+    "cover": "https://covers.openlibrary.org/b/title/Triste%20tigre-M.jpg",
+    "description": "Neige Sinno raconte les viols subis de l'âge de 7 à 14 ans par son beau-père et réfléchit aux limites de l'écriture sur le trauma. Texte bouleversant mêlant témoignage, essai littéraire et interrogation morale. Prix Femina et Médicis 2023.",
+    "bio": "Romancière française (née en 1977), auteure de Triste tigre (Prix Femina et Médicis 2023). Son premier roman sur les viols subis dans l'enfance est aussi une réflexion sur les possibilités et limites de l'écriture du trauma.",
+    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Neige_Sinno.jpg",
+    "completeWrongs": [
+      "à l'aéroport de Hambourg.",
+      "à la plage."
+    ]
   }
 ]
