@@ -467,7 +467,7 @@
     "bio": "Jean (grec : Ἰωάννης ; araméen ܝܘܚܢܢ ܫܠܝܚܐ, Yohanan Shliha, Jean l'apôtre ; hébreu : יהוחנן, Yehohānan, arabe : يوحنا (christianisme) Yohana, يحيى (islam) Yahia) dit aussi Jean l'Évangéliste, est un Juif du Ier siècle devenu chrétien, disciple de Jésus.",
     "description": "L’Évangile selon Jean, dit aussi le quatrième Évangile, est le dernier des évangiles canoniques du Nouveau Testament.",
     "cover": "https://m.media-amazon.com/images/I/91qdhEv7MxL._SL1500_.jpg",
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/4/4f/John_the_Evangelist.jpg"
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/4/4f/John_the_Evangelist.jpg"
   },
   {
     "text": "C'était aux alentours de onze heures du matin, à la mi-octobre ; le soleil ne brillait pas et les collines avaient la clarté dure et cristalline qui précède une grosse pluie.",
@@ -1334,7 +1334,7 @@
     "bio": "Étienne Pivert de Senancour, né à Paris le 16 novembre 1770 et mort à Saint-Cloud le 10 janvier 1846[1], est un écrivain du premier romantisme français.",
     "cover": "https://m.media-amazon.com/images/I/81+IRIdpDBL._SL1500_.jpg",
     "description": "\"Un magnifique livre, le pianto de l'incrédulité\", disait Balzac, et Proust : \"Senancour, c'est moi\". Obermann fait en effet penser à un personnage de la Recherche qui n'aurait pas connu \"le temps retrouvé\" et il appartient à cette race de héros négatifs, d'athlètes du rien qui, de René à des Esseintes, Roquentin et Bardamu, poursuivent inlassablement leur voyage au bout de la nuit et de l'ennui : l'ennui que l'on appelait alors le mal du siècle et dont Senancour fut le prophète. Extraordinaire paysagiste, Senancour a fait aussi d'Obermann l'homme des hauteurs, l'homme du lac, du sapin et du glacier qui, dans la solitude des Alpes, voit les fleurs, \"le barbeau des champs et la hâtive pâquerette comme l'expression d'une pensée dont le monde matériel voile le secret\". \"Ce serait assez de la jonquille et du jasmin pour me faire dire que, tels que nous sommes, nous pourrions séjourner dans un monde meilleur\".",
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ingres_Marcotte_d-Argenteuil.jpg"
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ingres_Marcotte_d-Argenteuil.jpg"
   },
   {
     "text": "Lune, vallée, rosée, mort.",
@@ -1398,7 +1398,7 @@
     "cover": "https://covers.openlibrary.org/b/id/3121274-L.jpg",
     "description": "En évoquant la lente dégradation des relations entre deux frères, que vient troubler l'arrivée d'une femme, Thomas Savage signe un huis clos d'une rare intensité psychologique, un western littéraire d'avant-garde qui scandalisa la critique lors de sa sortie en 1967 pour avoir porté atteinte au mythe du rude et viril cow-boy de l'Ouest.\nInexplicablement resté dans les limbes de l'édition pendant de longues décennies, redécouvert à la fin des années 1990, Le Pouvoir du chien est aujourd'hui reconnu comme un chef-d'œuvre de la littérature américaine du xxe siècle.",
     "bio": "Thomas Savage est l'auteur de nouvelles et de 13 romans dont 3 ont été traduits en français. Il a connu son premier succès, tardif malgré de nombreuses récompenses prestigieuses, avec Le Pouvoir du chien (The Power of the Dog) en 1967, un roman traduit en français seulement en 2002.",
-    "authorPic": "https://www.babelio.com/users/AVT_Thomas-Savage_728.jpg"
+    "author_pic": "https://www.babelio.com/users/AVT_Thomas-Savage_728.jpg"
   },
   {
     "text": "Aucun organisme vivant ne peut connaître longtemps une existence saine dans des conditions de réalité absolue.",
@@ -1518,7 +1518,7 @@
     "bio": "Dino Buzzati Traverso, connu sous le nom de Dino Buzzati, né le 16 octobre 1906 à San Pellegrino di Belluno (Vénétie), et mort le 28 janvier 1972 à Milan (Lombardie), est un journaliste, peintre et écrivain italien dont l'œuvre la plus célèbre est le roman intitulé Le Désert des Tartares. De son métier de journaliste lui vient l'habitude de chercher des thèmes et des récits de la vie quotidienne et d'en faire ressortir l'aspect insolite, parfois fantastique.",
     "cover": "https://covers.openlibrary.org/b/id/1048984-L.jpg",
     "description": "Le Désert des Tartares est un roman de Dino Buzzati paru en Italie en 1940. La traduction française est publiée en 1949 aux éditions Robert Laffont.",
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/2/21/Dino-Buzzati-signing.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/2/21/Dino-Buzzati-signing.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "text": "Le petit temple se dresse à la limite des faubourgs de Bakou, à une heure de marche de la mer Caspienne, sur une terre sèche et désolée.",
@@ -1526,7 +1526,7 @@
     "bio": "Matthieu Auzanneau est un auteur français spécialiste d'écologie et d'économie, ex-directeur du think tank de la transition énergétique The Shift Project et ancien journaliste.",
     "cover": "https://covers.openlibrary.org/b/id/10531739-L.jpg",
     "description": "Le pétrole est un liquide naturel d’origine fossile composé d'une multitude de composés organiques, essentiellement des hydrocarbures, piégée dans des formations géologiques particulières. Il permet, une fois raffiné, de produire divers carburants, comme l'essence ou les diesels, des gaz, butanes et propanes et divers combustibles. Il est classé dans les ressources énergétiques fossiles.",
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Matthieu-Auzanneau.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Matthieu-Auzanneau.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "text": "L'in-no-va-tion, on vous dit.",
@@ -1534,7 +1534,7 @@
     "cover": "https://covers.openlibrary.org/b/id/7368953-L.jpg",
     "description": "Face aux signaux alarmants de la crise globale – croissance en berne, tensions sur l’énergie et les matières premières, effondrement de la biodiversité, dégradation et destruction des sols, changement climatique et pollution généralisée – on cherche à nous rassurer. Les technologies « vertes » seraient sur le point de sauver la planète et la croissance grâce à une quatrième révolution industrielle, celle des énergies renouvelables, des réseaux intelligents, de l’économie circulaire, des nano-bio-technologies et des imprimantes 3D. Plus consommatrices de ressources rares, plus difficiles à recycler, trop complexes, ces nouvelles technologies tant vantées nous conduisent pourtant dans l’impasse. Ce livre démonte un à un les mirages des innovations high tech, et propose de prendre le contre-pied de la course en avant technologique en se tournant vers les low tech, les « basses technologies ». Il ne s’agit pas de revenir à la bougie, mais de conserver un niveau de confort et de civilisation agréables tout en évitant les chocs des pénuries à venir. S’il met à bas nos dernières illusions, c’est pour mieux explorer les voies possibles vers un système économique et industriel soutenable dans une planète finie. Philippe Bihouix est ingénieur. Spécialiste de la finitude des ressources minières et de son étroite interaction avec la question énergétique, il est coauteur de l’ouvrage Quel futur pour les métaux ?, 2010. PRIX DE LA FONDATION DE L'ECOLOGIE POLITIQUE 2014",
     "bio": "Philippe Bihouix, né le 17 novembre 1971 à Saint-Nazaire, est un spécialiste des ressources minérales et promoteur des low-tech. Il est l'auteur d’essais sur les questions environnementales et technologiques.",
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/1/15/Philippe_Bihouix_en_janvier_2025_sur_Elucid.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/1/15/Philippe_Bihouix_en_janvier_2025_sur_Elucid.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "text": "Toutes les familles inventent leurs parents et leurs enfants, donnant à chacun une histoire, un caractère, un destin et même un langage.",
@@ -1542,7 +1542,7 @@
     "cover": "https://images-na.ssl-images-amazon.com/images/I/41T29CTE86L._SX210_.jpg",
     "description": "Né à Jérusalem, Edward W. Said (1935-2003) passa une grande partie de son enfance et de sa jeunesse au Caire et au Liban, avant de poursuivre des études poussées dans les meilleures écoles américaines. À contre-voie est une splendide entreprise \" proustienne \" de reconstitution quasi archéologique de cette époque (les années 1940 et 1950), dans un Proche-Orient postcolonial qui se défait et se recompose autrement, annonçant le Proche-Orient d'aujourd'hui et ses déchirures. Ramenant à la vie des lieux et des personnes qui ont disparu, notamment la figure exigeante, dominatrice et \" victorienne \", du père et celle, adorée, de la mère qui lui donna la confiance en lui-même, Edward W. Said se pose en \" outsider \" : certes arabe mais chrétien, Palestinien mais détenteur d'un passeport américain, doté d'un prénom britannique joint à un nom arabe. Happé par la culture occidentale, Edward W. Said s'y montre toujours en porte-à-faux avec son monde d'origine, toujours à contre-voie, nous livrant au travers de son expérience personnelle les clefs d'un monde complexe, traversé de multiples zones de fracture.",
     "bio": "Edward Wadie Saïd est né en 1935 à Jérusalem dans une famille aisée palestinienne et protestante du côté de sa mère et chrétienne et de nationalité américaine du côté de son père. Il passe une grande partie de son enfance au Caire avant de partir pour les États-Unis à l'âge de 15 ans. Diplômé de l'université Harvard, il enseigne la littérature comparée dès 1963 à l’université Colombia de New York.\n\nL’expérience de l’exil et du passage des frontières est centrale dans l’œuvre d’Edward Saïd, qui réfléchit à la domination de l’Occident sur le reste du monde. Publié en 1978, L'Orientalisme. L'Orient créé par l'Occident a été traduit en 36 langues et est considéré comme le texte fondateur des études postcoloniales. Il y interroge les dominations culturelles et politiques dues à l'impérialisme colonial à travers les représentations littéraires, imaginaires, mythologiques et les préjugés imposés par les peuples colonisateurs puis intégrés par les populations orientales elles-mêmes.\n\nThéoricien littéraire, politologue, humaniste et laïque, il est l'auteur de nombreux livres sur la littérature et la musique, ainsi que d'ouvrages portant sur le conflit israélo-palestinien. En 1967, après la guerre des Six Jours et la défaite arabe contre Israël, il s'engage en faveur de la cause palestinienne. Parmi ses ouvrages sur le sujet, il publie La Question de Palestine en 1979. Il se dit favorable à un seul État binational laïque.\n\nArtisan d'une paix au Proche-Orient, il fonde en 1999 avec le chef d'orchestre Daniel Barenboïm, un orchestre symphonique composé de musiciens israéliens et arabes, le Divan occidental-oriental. Atteint d'un cancer, Edward Saïd meurt en 2003.",
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Edward_Said_and_Daniel_Barenboim_in_Sevilla%2C_2002_%28Said%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Edward_Said_and_Daniel_Barenboim_in_Sevilla%2C_2002_%28Said%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "text": "L'aventure commença par une mission des plus banales, la routine, le quotidien, l'ordinaire.",
@@ -1571,7 +1571,7 @@
     "bio": "Hajer Ben Boubaker, née à Paris, est une historienne, chercheuse indépendante et documentariste radiophonique franco-tunisienne.",
     "cover": "https://m.media-amazon.com/images/I/51rq6GE-8mL.jpg",
     "description": "En déambulant dans Barbès, Hajer Ben Boubaker raconte les petits détails et les grands événements qui ont fait du quartier la \"maison-mère des luttes de l’immigration\" et l’une des places fortes de la musique maghrébine. Dans les cartons d’archives sur le premier quartier algérien dans le 5e arrondissement, dans les voix de vieux messieurs qui racontent l’habitude d’une ville ou dans les souvenirs imprécis de luttes contre le racisme, Barbès Blues ressuscite des personnages, des épopées, des anecdotes et des tragédies. Autant de symboles d’une communauté de destin, l’immigration maghrébine, qui dans un dédale de rues minuscule, s’est construit un monde immense.",
-    "authorPic": "https://admin.palaisdetokyo.com/wp-content/uploads/2024/09/Ben-Boubaker-Hajer-%C2%A9-Hermance-Triay-1920x1920.jpg"
+    "author_pic": "https://admin.palaisdetokyo.com/wp-content/uploads/2024/09/Ben-Boubaker-Hajer-%C2%A9-Hermance-Triay-1920x1920.jpg"
   },
   {
     "text": "Pendant une année entière, il ne fit que rouler, aller et venir à travers l'Amérique en attendant l'épuisement de ses ressources.",
@@ -1579,7 +1579,7 @@
     "cover": "https://covers.openlibrary.org/b/id/4036809-L.jpg",
     "description": "Nashe, ex-pompier de Boston qui a hérité de deux cent mille dollars, rencontre Pozzi, joueur de poker professionnel, alors qu’il sillonne l’Amérique sans but particulier. Fort du soutien de son compagnon de hasard, il décide d’investir le restant de sa fortune dans une partie supposée sans risques contre deux millionnaires excentriques, Flower et Stone. C’est alors que l’extravagant commence…\nEcrivant l’errance dans l’espace américain ou le huis clos de tous les dangers, Paul Auster interroge ici avec une étonnante maîtrise romanesque les thèmes qui lui sont chers — l’incertitude de l’identité, l’absurdité du hasard et la perte du sens commun.",
     "bio": "Paul Benjamin Auster (Newark (New Jersey), 3 février 1947 – Brooklyn (New York), 30 avril 2024), est un romancier, scénariste et réalisateur américain.\n\nUne partie de son œuvre évoque la ville de New York, notamment le quartier de Brooklyn où il vit. D'abord traducteur de poètes français, il écrit des poèmes avant de se tourner vers le roman et, à partir des années 1990, de réaliser aussi quelques films.",
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/9/91/Paul_Auster-19-09-2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/9/91/Paul_Auster-19-09-2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "text": "Au début de l'été 2014, alors que je m'apprêtais à commencer ma dernière année de lycée, deux fermiers ont disparu de leurs champs tout près de Kocho, le petit village yézidi du nord de l'Irak où je suis née et où, jusqu'à une date récente, je pensais finir mes jours.",
@@ -1587,7 +1587,7 @@
     "bio": "Nadia Murad Basee Taha, née le 10 mars 1993 à Kocho en Irak, est une militante des droits de l'homme yézidie.",
     "cover": "https://m.media-amazon.com/images/I/71VVb7mQsWL._SL1500_.jpg",
     "description": "La vie de Nadia Murad a basculé le 15 octobre 2014, lorsque les djihadistes de Daech sont entrés dans le petit village de Kocho, en Irak. Ce jour-là, après avoir rassemblé tous les habitants de cette communauté yézidie dans l’école, les terroristes les ont méthodiquement tués ou kidnappés. L’horreur avait été programmée : les hommes qui refusaient de se convertir à l’islam devaient rejoindre dans les fosses les femmes jugées trop vieilles pour servir. Et parmi elles, la mère de Nadia Murad.\nLa jeune Yézidie est emmenée à Mossoul avec des milliers d’autres jeunes fi lles pour y être vendue. Servante, esclave sexuelle, elle devient la prisonnière de combattants de l’État islamique, jusqu’à sa fuite miraculeuse, grâce à l’aide d’une famille irakienne sunnite.",
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Nadia_Murad_2023_%28close-up%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Nadia_Murad_2023_%28close-up%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "text": "Au troisième jour de sa vie, Antonio Borjas Romero fut abandonné sur les marches d'une église dans une rue qui aujourd'hui porte son nom.",
@@ -1595,7 +1595,7 @@
     "bio": "Le Rêve du jaguar est un roman de l'écrivain franco-vénézuelien Miguel Bonnefoy paru en 2024 aux éditions Rivages.",
     "cover": "https://covers.openlibrary.org/b/id/14831361-L.jpg",
     "description": "Miguel Bonnefoy, né le 22 décembre 1986 à Paris, est un écrivain franco-vénézuélien. Il obtient le grand prix du roman de l'Académie française ainsi que le prix Femina en 2024.",
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Miguel_Bonnefoy_lors_d%27une_conf%C3%A9rence.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Miguel_Bonnefoy_lors_d%27une_conf%C3%A9rence.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "text": "Bel Riose voyageait sans escorte, ce qui est contraire aux prescriptions de l'étiquette pour le chef d'une flotte stationnée dans un système solaire encore peu amical, sur les marches de l'Empire Galactique.",
@@ -1603,7 +1603,7 @@
     "bio": "Isaac Asimov est un écrivain américain, né vers le 2 janvier 1920 à Petrovitchi, en Russie, et mort le 6 avril 1992 à New York. Également professeur de biochimie à l'université de Boston, il est surtout connu pour ses œuvres de science-fiction et ses livres de vulgarisation scientifique.",
     "cover": "https://covers.openlibrary.org/b/id/9300695-L.jpg",
     "description": "Fondation et Empire est un roman de science-fiction d’Isaac Asimov publié en 1952. Il est le deuxième tome du Cycle de Fondation et contient deux romans courts initialement publiés de façon séparée dans la revue Astounding Science-Fiction : Le Général et Le Mulet. Bien qu’il constitue aujourd'hui le quatrième épisode chronologique de ce cycle, il est le deuxième à avoir été écrit et peut donc être lu indépendamment de Prélude à Fondation et L'Aube de Fondation.",
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Isaac_Asimov%2C_RIT_NandE_Vol13Num29_1981_Sep24_Complete.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Isaac_Asimov%2C_RIT_NandE_Vol13Num29_1981_Sep24_Complete.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "text": "Tuer quelqu’un, ça compte pour rien.",
@@ -1611,7 +1611,7 @@
     "cover": "https://covers.openlibrary.org/b/id/10660381-L.jpg",
     "description": "\"Il est une chose admirable qui surpasse toujours la connaissance, l'intelligence, et même le génie, c'est l'incompréhension.\" En juin 2021, un événement insensé bouleverse les vies de centaines d'hommes et de femmes, tous passagers d'un vol Paris-New York. Parmi eux : Blake, père de famille respectable et néanmoins tueur à gages ; Slimboy, pop star nigériane, las de vivre dans le mensonge ; Joanna, redoutable avocate rattrapée par ses failles ; ou encore Victor Miesel, écrivain confidentiel soudain devenu culte. Tous croyaient avoir une vie secrète. Nul n'imaginait à quel point c'était vrai.",
     "bio": "Hervé Le Tellier est un écrivain français né à Paris le 21 avril 1957, membre de l'Oulipo. Il obtient le prix Goncourt en 2020 pour son roman L'Anomalie.",
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Herv%C3%A9_Le_Tellier_%282021%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Herv%C3%A9_Le_Tellier_%282021%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "text": "C'est fini. La plage de Big Sur est vide, et je demeure sur le sable, à l'endroit même où je suis tombé.",
@@ -1619,7 +1619,7 @@
     "cover": "https://m.media-amazon.com/images/I/71Pdehb3ztL._SL1500_.jpg",
     "description": "La Promesse de l’aube est un roman de Romain Gary paru en 1960, largement inspiré de sa relation avec sa mère, Mina Owczyńska. Le livre est adapté au cinéma par Jules Dassin en 1971 et par Éric Barbier en 2017, ainsi qu'au théâtre. L'édition de poche totalise 1,1 million d’exemplaires tirés depuis sa parution en 1973.",
     "bio": "Romain Gary, né Roman Kacew le 21 mai 1914 à Vilnius et mort le 2 décembre 1980 à Paris, est un écrivain français d'origine russe et de culture juive, de langues française et anglaise.",
-    "authorPic": "https://tpa.fr/user/img/81/440x0x81213-cr.webp"
+    "author_pic": "https://tpa.fr/user/img/81/440x0x81213-cr.webp"
   },
   {
     "text": "C'était une de ces jolies et charmantes filles nées, comme par erreur du destin, dans une famille d'employés.",
@@ -1627,7 +1627,7 @@
     "cover": "https://covers.openlibrary.org/b/id/6643242-L.jpg",
     "bio": "Guy de Maupassant (prononcé : /gi d mo.pa.sɑ̃/, né le 5 août 1850 au château de Miromesnil près de Tourville-sur-Arques et mort le 6 juillet 1893 dans le 16e arrondissement de Paris, est un écrivain et journaliste littéraire français.",
     "description": "Lorsque son mari lui annonce qu'ils sont invités à un bal, Mathilde Loisel se désole : elle n'a ni bijoux ni robe à porter. Une amie lui prête un collier, et Mathilde oublie, le temps d'une soirée, sa vie morne de femme d'employé. Mais de retour chez elle, la parure n'est plus à son cou. Pour remplacer et rendre le collier, les Loisel contractent une dette qu'ils mettront une vie entière à rembourser. Jusqu'au jour où Mathilde, rendue méconnaissable par les épreuves, croise son amie qui lui fait une terrible révélation...",
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/8/81/Maupassant_par_Nadar.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/8/81/Maupassant_par_Nadar.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "text": "Je hais les voyages et les explorateurs",
@@ -1635,7 +1635,7 @@
     "cover": "https://m.media-amazon.com/images/I/61jfdxUFkbL._SL1218_.jpg",
     "description": "Pourquoi et comment devient-on ethnologue ? Comment les aventures de l'explorateur et les recherches du savant s'intègrent-elles et forment-elles l'expérience propre à l'ethnologue ? C'est à ces questions que l'auteur, philosophe et moraliste autant qu'ethnographe, s'est efforcé de répondre en confrontant ses souvenirs parfois anciens, et se rapportant aussi bien à l'Asie qu'à l'Amérique.\nPlus encore qu'un livre de voyage, il s'agit cette fois d'un livre sur le voyage. Sans renoncer aux détails pittoresques offerts par les sociétés indigènes du Brésil central, dont il a partagé l'existence et qui comptent parmi les plus primitives du globe, l'auteur entreprend, au cours d'une autobiographie intellectuelle, de situer celle-ci dans une perspective plus vaste : rapports entre l'Ancien et le Nouveau Monde; place de l'homme dans la nature; sens de la civilisation et du progrès;\nClaude Lévi-Strauss souhaite ainsi renouer avec la tradition du \" voyage philosophique\" illustrée par la littérature depuis le XVIe siècle jusqu'au milieu du XIXe siècle, c'est-à-dire avant qu'une austérité scientifique mal comprise d'une part, le goût impudique du sensationnel de l'autre n'aient fait oublier qu'on court le monde, d'abord, à la recherche de soi.",
     "bio": "Claude Lévi-Strauss [klod levi stʁos], né le 28 novembre 1908 à Bruxelles et mort le 30 octobre 2009 dans le 16e arrondissement de Paris, est un anthropologue et ethnologue français qui a exercé une influence majeure à l'échelle internationale sur les sciences humaines et sociales dans la seconde moitié du XXe siècle. Il est devenu notamment l'une des figures fondatrices du structuralisme à partir des années 1950 en développant une méthodologie propre, l'anthropologie structurale, par laquelle i",
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Claude_L%C3%A9vi-Strauss_KNAW.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Claude_L%C3%A9vi-Strauss_KNAW.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "text": "Condamné à mort ! Voilà cinq semaines que j’habite avec cette pensée, toujours seul avec elle, toujours glacé de sa présence, toujours courbé sous son poids !",
@@ -1643,7 +1643,7 @@
     "cover": "https://covers.openlibrary.org/b/id/3097407-L.jpg",
     "description": "Le Dernier Jour d’un condamné est un roman à thèse de Victor Hugo publié en 1829 chez Charles Gosselin, qui constitue un plaidoyer politique pour l'abolition de la peine de mort.",
     "bio": "Victor Hugo, né le 7 ventôse an X à Besançon et mort le 22 mai 1885 à Paris, est un poète, dramaturge, romancier et dessinateur français associé au romantisme. Il est considéré comme l'un des écrivains de la langue française et de la littérature mondiale les plus importants. Hugo est aussi une personnalité politique et un intellectuel engagé qui a un rôle idéologique majeur et occupe une place marquante dans l'histoire des lettres françaises au XIXe siècle.",
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "text": "La collaboration, ce ne fut pas une exigence allemande à laquelle certains Français ont répondu, par sympathie ou par ruse. Ce fut une proposition de la France.",
@@ -1651,7 +1651,7 @@
     "cover": "https://m.media-amazon.com/images/I/719iRMOJ5mL._SL1319_.jpg",
     "bio": "Robert Owen Paxton, né le 15 juin 1932 à Lexington (Virginie), est un historien américain. Spécialiste de la Seconde Guerre mondiale, son travail est reconnu. Il a conduit des recherches importantes sur la France de Vichy et le fascisme rural.",
     "description": "Etait-il possible au début des années 1970 d'écrire une histoire politique du régime de Vichy ? Un universitaire américain, Robert O. Paxton a relevé le défi : refusant de prendre au pied de la lettre la kyrielle des témoignages pro domo dont la littérature politique s'est enrichie, passé la guerre et la libération, il a appuyé toute son étude sur les écrits contemporains des événement et surtout mis à profit la richesse des archives allemandes et américaines qui remettent en question, sur tant de points, les assertions de ceux qui avaient voulu, à la défaveur d'une défaite nationale et sous l’œil de l'occupant, entreprendre une nouvelle restauration.",
-    "authorPic": "https://cdn-s-www.lalsace.fr/images/01AEB88F-5D84-4F63-9D22-5FC53F85E249/NW_raw/robert-o-paxton-photo-ed-calmann-levy-1445714079.jpg"
+    "author_pic": "https://cdn-s-www.lalsace.fr/images/01AEB88F-5D84-4F63-9D22-5FC53F85E249/NW_raw/robert-o-paxton-photo-ed-calmann-levy-1445714079.jpg"
   },
   {
     "text": "Au quartier, les choses se déroulent comme elles doivent se dérouler. En petits faits de routine.",
@@ -1659,7 +1659,7 @@
     "cover": "https://m.media-amazon.com/images/I/81Nf0iC3kKL._SL1500_.jpg",
     "description": "Jo, la vingtaine, vit dans une cité à Crimée, où il a grandi avec sa bande de copains. Inscrit en licence de philosophie à la Sorbonne, il se retrouve vite tiraillé entre les convenances de ses études et les rudes manières de son quartier, noyant cette dualité dans les amours, l'alcool et la drogue. Une rencontre va agir comme un révélateur et faire découvrir au jeune homme une nouvelle ivresse salutaire, celle des mots.",
     "bio": "Diplômé de philosophie, Yohann Elmaleh a enchaîné les petits boulots, du service après-vente dans un centre d'appels à la préparation de commandes d'une société de livraison, en passant par la rédaction d'articles culturels, tout en affûtant sa plume pendant ses heures libres. À 33 ans, il publie son premier roman, Moi j'suis de la race écrite! ( Flammarion), un récit d’initiation écrit dans une langue orale et moderne.",
-    "authorPic": "https://www.babelio.com/users/AVT_Yohann-Elmaleh_3819.jpg"
+    "author_pic": "https://www.babelio.com/users/AVT_Yohann-Elmaleh_3819.jpg"
   },
   {
     "text": "Ouvrons le bal avec ce qu’on pourrait regarder comme l’archétype du job à la con.",
@@ -1667,7 +1667,7 @@
     "cover": "https://covers.openlibrary.org/b/id/8798647-L.jpg",
     "description": "Bullshit jobs [ˈbʊlʃɪt d͡ʒɑbz] est un livre de David Graeber. Le titre est une expression en anglais américain signifiant « boulot de merde ». Le titre original en anglais est Bullshit Jobs: A Theory paru en 2018. Le concept abordé dans le livre au départ était abordé dans un article On the Phenomenon of Bullshit Jobs publié en août 2013 dans le magazine Strike!, puis a ensuite été approfondie et publiée dans l'ouvrage. Cette étude est largement médiatisée et suscite de nombreuses controverses sur sa pertinence.",
     "bio": "David Graeber, né le 12 février 1961 à New York (États-Unis) et mort le 2 septembre 2020 à Venise (Italie), est un anthropologue et militant anarchiste américain, théoricien de la pensée socialiste libertaire nord-américaine et figure de proue du mouvement Occupy Wall Street.",
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/5/5e/David_Graeber_2015-03-07_%2816741093492%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/5/5e/David_Graeber_2015-03-07_%2816741093492%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "text": "Si vous aimez les histoires qui finisent bien, vous feriez beaucoup mieux de choisir un autre livre.",
@@ -1675,7 +1675,7 @@
     "cover": "https://covers.openlibrary.org/b/id/7255974-L.jpg",
     "description": "Les Désastreuses Aventures des orphelins Baudelaire, également édité sous le titre Le Funeste Destin des Baudelaire au Québec, est une série littéraire pour la jeunesse écrite par Lemony Snicket, hétéronyme de l’écrivain américain Daniel Handler, et illustrée par Brett Helquist. La suite romanesque est composée de treize tomes, publiés entre 1999 et 2006. La série est traduite en français par Rose-Marie Vassallo et publiée aux éditions Nathan.",
     "bio": "Lemony Snicket est l’un des personnages principaux de la série de livres Les Désastreuses Aventures des orphelins Baudelaire, dont il est le narrateur intégré au récit.",
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/0/00/Handlertheend.PNG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/0/00/Handlertheend.PNG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "text": "Bristol vient de sortir de son immeuble quand le corps d’un homme nu, tombé de haut, s’écrase à huit mètres de lui.",
@@ -1683,7 +1683,7 @@
     "cover": "https://m.media-amazon.com/images/I/61S5P+RSxUL._SL1500_.jpg",
     "description": "Dans ce nouveau roman de Jean Echenoz, Bristol ne désigne ni une ville du sud de l'Angleterre, ni du papier, mais Robert Bristol, qui vit rue des Eaux à Paris, dans le 16ᵉ arrondissement. Au moment où nous faisons sa connaissance, Robert Bristol vient de sortir de chez lui et le corps d'un homme nu tombe de son immeuble, mais Bristol est trop préoccupé par son travail, il est cinéaste et en préparation d'un tournage en Afrique. De lui, nous savons notamment qu'il lit quelques pages de Par ici les embrouilles aux toilettes, et que sa voisine est une actrice qui tourna dans Tendre plaisir ou encore Retourne-moi. Bristol tourne un film qui, lui, s'intitule D'or et de sang. Echenoz met en scène le narrateur de ce récit qui se soucie de ménager ses effets, qui prévient dès les ellipses et qui s'inquiète parfois même d'éventuelles longueurs.",
     "bio": "Jean Echenoz, né le 26 décembre 1947 à Orange, est un écrivain français, lauréat du prix Médicis de 1983 pour Cherokee et du prix Goncourt de 1999 pour Je m'en vais.",
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Jean_Echenoz_%282014%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Jean_Echenoz_%282014%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "text": "Néron regarda sa mère morte, dit-on, et eut ces paroles \"Je ne pensais pas avoir une mère si belle !\"",
@@ -1691,7 +1691,7 @@
     "cover": "https://m.media-amazon.com/images/I/71GtahutAtL._SL1500_.jpg",
     "description": "Automne 1942, près de Besançon, Jacquot, Pinou et Suzanne se cachent sous les ruines du château de Montfaucon, dans une grotte où résiderait le Diable. À la surface, un officier nazi sans visage, le SS-Sturmbannführer Peter Pannus, les traque comme le ferait une bête sauvage, rôdant autour du château et de la petite épicerie de madame Beugnot. Il sera dit, plus tard, que cet homme glaçant au passé mystérieux soupçonnait ces enfants de posséder d’immenses pouvoirs. Des pouvoirs qui auraient pu changer le cours de la guerre. Aucun élément certain n’étaye ces rumeurs, bien sûr. Mais comment expliquer cette étrange lumière verte, que plusieurs témoins ont rapporté avoir vu s’échapper du monstre et de ses victimes ?\nPoursuivant son exploration de l’Histoire dans le style du réalisme magique, Paul Kawczak revisite ici la période de l’Occupation. Littéraire et politique, Le bonheur fait d’une aventure palpitante une réflexion sur la solidarité, l’art et la démocratie. Un hommage aux enfants sacrifiés sur l’autel du fascisme, ainsi qu’aux femmes qui les ont protégés.",
     "bio": "Paul Kawczak est un romancier, poète et éditeur français établi au Québec depuis 2011. Il est chargé de cours en études littéraires à l'Université du Québec à Chicoutimi et éditeur à La Peuplade.",
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Paul_Kawczak_-_2021_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Paul_Kawczak_-_2021_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "text": "Les grandes pluyes et inondations qui vinrent l'an mil cinq cens et vint et ung, empeschèrent plusieurs personnes d'aller aux baings de Cauderetz.",
@@ -1747,12 +1747,11 @@
     "cover": "https://covers.openlibrary.org/b/title/Ph%C3%A8dre-M.jpg",
     "description": "Phèdre, épouse de Thésée, consume un amour coupable pour son beau-fils Hippolyte. La jalousie la pousse à le calomnier devant son mari, causant sa mort. La tragédie la plus aboutie de Racine, portée par une langue d'une beauté absolue.",
     "bio": "Dramaturge français (1639–1699), maître de la tragédie classique française. Ses pièces (Phèdre, Andromaque, Bérénice) atteignent une perfection de la langue et une profondeur psychologique inégalées.",
-    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jean_Racine.jpg",
+    "author_pic": "https://cdn2.picryl.com/photo/1850/12/31/jean-baptiste-racine-ca39e4-1024.jpg",
     "completeWrongs": [
       "à quelqu'un qu'il n'était pas.",
       "tout a commencé."
-    ],
-    "authorPic": "https://cdn2.picryl.com/photo/1850/12/31/jean-baptiste-racine-ca39e4-1024.jpg"
+    ]
   },
   {
     "text": "La magnificence et la galanterie n'ont jamais paru en France avec tant d'éclat que dans les dernières années du règne de Henri second.",
@@ -1760,12 +1759,11 @@
     "cover": "https://covers.openlibrary.org/b/title/La%20Princesse%20de%20Cl%C3%A8ves-M.jpg",
     "description": "Premier roman psychologique français : la princesse de Clèves résiste à sa passion pour le duc de Nemours par fidélité conjugale et choisit de se retirer du monde. Roman fondateur sur le conflit entre désir et devoir dans la cour d'Henri II.",
     "bio": "Marie-Madeleine Pioche de La Vergne (1634–1693), romancière et femme de lettres. La Princesse de Clèves, son chef-d'œuvre, est considéré comme le premier roman psychologique de la littérature française.",
-    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Madame_de_Lafayette.jpg",
+    "author_pic": "https://cdn2.picryl.com/photo/1910/12/31/madame-de-lafayette-p-fg-es-04294-5cd091-1024.jpg",
     "completeWrongs": [
       "ne sais pas.",
       "Le cap Horn."
-    ],
-    "authorPic": "https://cdn2.picryl.com/photo/1910/12/31/madame-de-lafayette-p-fg-es-04294-5cd091-1024.jpg"
+    ]
   },
   {
     "text": "Calypso ne pouvait se consoler du départ d'Ulysse.",
@@ -2613,12 +2611,11 @@
     "cover": "https://covers.openlibrary.org/b/title/Vol%20de%20nuit-M.jpg",
     "description": "Rivière envoie ses pilotes dans la nuit et l'orage, pendant que Fabien lutte seul dans les ténèbres au-dessus des Andes. Roman de l'héroïsme et du sacrifice, premier grand succès de Saint-Exupéry.",
     "bio": "Aviateur et écrivain français (1900–1944), disparu en mission au-dessus de la Méditerranée. Auteur du Petit Prince et de Vol de nuit, il a uni l'aventure aéronautique à une réflexion humaniste sur l'amitié et la responsabilité.",
-    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Antoine_de_Saint-Exup%C3%A9ry.jpg",
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/7/7f/11exupery-inline1-500.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
     "completeWrongs": [
       "pas une chaise de travers.",
       "et la plaine jusqu'aux montagnes."
-    ],
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/7/7f/11exupery-inline1-500.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    ]
   },
   {
     "text": "Le vent s'engouffrait par rafales dans la grand-rue de Concarneau, absolument déserte à onze heures du soir.",
@@ -2734,12 +2731,11 @@
     "cover": "https://covers.openlibrary.org/b/title/Le%20Petit%20Prince-M.jpg",
     "description": "Un aviateur échoué dans le Sahara rencontre un petit prince qui lui parle de sa rose et de ses voyages entre planètes. Conte philosophique sur l'amour et le regard de l'enfance. Le livre français le plus traduit et lu au monde.",
     "bio": "Aviateur et écrivain français (1900–1944), disparu en mission au-dessus de la Méditerranée. Auteur du Petit Prince et de Vol de nuit, il a uni l'aventure aéronautique à une réflexion humaniste sur l'amitié et la responsabilité.",
-    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Antoine_de_Saint-Exup%C3%A9ry.jpg",
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/7/7f/11exupery-inline1-500.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
     "completeWrongs": [
       "une mère si belle !\"",
       "de Smyrne, Trieste et Naples."
-    ],
-    "authorPic": "https://upload.wikimedia.org/wikipedia/commons/7/7f/11exupery-inline1-500.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    ]
   },
   {
     "text": "Il faut avoir été prisonnier de guerre pour savoir ce que c'est que d'attendre.",
@@ -3119,12 +3115,11 @@
     "cover": "https://covers.openlibrary.org/b/title/La%20Vie%20devant%20soi-M.jpg",
     "description": "Momo, enfant arabe, est élevé par Madame Rosa, vieille prostituée juive rescapée d'Auschwitz. Roman sur la tendresse entre les déracinés, écrit sous le pseudonyme d'Émile Ajar — qui cachait Romain Gary, déjà lauréat. Prix Goncourt 1975.",
     "bio": "Romain Gary (1914–1980), romancier français d'origine lituanienne, seul auteur à avoir remporté deux fois le Prix Goncourt (sous son nom et sous le pseudonyme d'Émile Ajar). Auteur de La Vie devant soi et Les Cerfs-volants, il se suicida à 66 ans.",
-    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Romain_Gary_%28%C3%89mile_Ajar%29.jpg",
+    "author_pic": "https://tpa.fr/user/img/81/440x0x81213-cr.webp",
     "completeWrongs": [
       "vie allait changer.",
       "qui me travailla."
-    ],
-    "authorPic": "https://tpa.fr/user/img/81/440x0x81213-cr.webp"
+    ]
   },
   {
     "text": "Liège, en ce mois de novembre 1529, bourdonnait de sourdes rumeurs.",
