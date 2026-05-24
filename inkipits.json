@@ -17,6 +17,10 @@
     "complete_wrongs": [
       "ne me rappelle plus.",
       "l'ignorais encore."
+    ],
+    "completeWrongs": [
+      "en suis certain.",
+      "me souviens plus."
     ]
   },
   {
@@ -37,6 +41,10 @@
     "complete_wrongs": [
       "au cœur de l'été.",
       "dans ce port lointain."
+    ],
+    "completeWrongs": [
+      "dans notre ville.",
+      "un soir d'été."
     ]
   },
   {
@@ -57,6 +65,10 @@
     "complete_wrongs": [
       "de vous offenser ?",
       "de paraître indiscret ?"
+    ],
+    "completeWrongs": [
+      "de vous déranger ?",
+      "de vous offenser ?"
     ]
   },
   {
@@ -77,6 +89,10 @@
     "complete_wrongs": [
       "sans prendre de repos.",
       "avant la tombée du jour."
+    ],
+    "completeWrongs": [
+      "très tôt le soir.",
+      "avant le soleil."
     ]
   },
   {
@@ -97,6 +113,10 @@
     "complete_wrongs": [
       "vêtu à l'anglaise.",
       "au visage sévère."
+    ],
+    "completeWrongs": [
+      "vêtu de noir.",
+      "portant un manteau."
     ]
   },
   {
@@ -117,6 +137,10 @@
     "complete_wrongs": [
       "les faubourgs de la ville.",
       "les ruines du temple."
+    ],
+    "completeWrongs": [
+      "les thermes romains.",
+      "les ruines antiques."
     ]
   },
   {
@@ -137,6 +161,10 @@
     "complete_wrongs": [
       "nuages noirs vers le large.",
       "jets de vapeur blanche."
+    ],
+    "completeWrongs": [
+      "panaches sur le fleuve.",
+      "nuages noirs du port."
     ]
   },
   {
@@ -157,6 +185,10 @@
     "complete_wrongs": [
       "du département de l'Isère.",
       "de toute la région."
+    ],
+    "completeWrongs": [
+      "des villes de France.",
+      "du département entier."
     ]
   },
   {
@@ -177,6 +209,10 @@
     "complete_wrongs": [
       "traverser les Alpes en hiver.",
       "franchir la frontière autrichienne."
+    ],
+    "completeWrongs": [
+      "franchir le Tibre.",
+      "traverser les Alpes."
     ]
   },
   {
@@ -197,6 +233,10 @@
     "complete_wrongs": [
       "curé de campagne.",
       "prélat fort respecté."
+    ],
+    "completeWrongs": [
+      "curé de campagne.",
+      "prêtre de province."
     ]
   },
   {
@@ -217,6 +257,10 @@
     "complete_wrongs": [
       "l'Église et du Palais.",
       "la Sorbonne et du Châtelet."
+    ],
+    "completeWrongs": [
+      "la République.",
+      "leur cité."
     ]
   },
   {
@@ -237,6 +281,10 @@
     "complete_wrongs": [
       "un visage fort agréable.",
       "le génie du commerce."
+    ],
+    "completeWrongs": [
+      "naïves.",
+      "agréables."
     ]
   },
   {
@@ -257,6 +305,10 @@
     "complete_wrongs": [
       "Forestier porta sa main.",
       "Martin se leva brusquement."
+    ],
+    "completeWrongs": [
+      "de la brasserie.",
+      "dans la rue."
     ]
   },
   {
@@ -277,6 +329,10 @@
     "complete_wrongs": [
       "perte de vue dans la plaine.",
       "flanc de la colline grise."
+    ],
+    "completeWrongs": [
+      "blé noir.",
+      "pommes de terre."
     ]
   },
   {
@@ -297,6 +353,10 @@
     "complete_wrongs": [
       "heures de l'après-midi.",
       "jours après son départ."
+    ],
+    "completeWrongs": [
+      "minuit passé.",
+      "trois heures sonnées."
     ]
   },
   {
@@ -317,6 +377,10 @@
     "complete_wrongs": [
       "nom lourd et sans éclat.",
       "triste prénom de mon père."
+    ],
+    "completeWrongs": [
+      "mélancolie.",
+      "nostalgie."
     ]
   },
   {
@@ -337,6 +401,10 @@
     "complete_wrongs": [
       "commencé un soir de juin.",
       "démarré sans prévenir."
+    ],
+    "completeWrongs": [
+      "ainsi vraiment.",
+      "par hasard."
     ]
   },
   {
@@ -357,6 +425,10 @@
     "complete_wrongs": [
       "léger coup d'épaule suffira.",
       "tout petit effort de volonté."
+    ],
+    "completeWrongs": [
+      "fermé à clé.",
+      "résistant obstinément."
     ]
   },
   {
@@ -377,6 +449,10 @@
     "complete_wrongs": [
       "s'est adressé à elle.",
       "m'a regardé fixement."
+    ],
+    "completeWrongs": [
+      "près de moi.",
+      "me parler."
     ]
   },
   {
@@ -397,6 +473,10 @@
     "complete_wrongs": [
       "de Marseille et de Toulon.",
       "du fond de la mer Rouge."
+    ],
+    "completeWrongs": [
+      "Gênes.",
+      "Barcelone."
     ]
   },
   {
@@ -417,6 +497,10 @@
     "complete_wrongs": [
       "le retour des vendanges.",
       "la fête du village."
+    ],
+    "completeWrongs": [
+      "vacances d'automne.",
+      "fêtes de Toussaint."
     ]
   },
   {
@@ -437,6 +521,10 @@
     "complete_wrongs": [
       "et les rires fusaient partout.",
       "où les langues se déliaient."
+    ],
+    "completeWrongs": [
+      "débordaient.",
+      "chantaient."
     ]
   },
   {
@@ -457,6 +545,10 @@
     "complete_wrongs": [
       "de mon âme perdue.",
       "ardent de ma jeunesse."
+    ],
+    "completeWrongs": [
+      "ma passion.",
+      "mon âme."
     ]
   },
   {
@@ -477,6 +569,10 @@
     "complete_wrongs": [
       "Barrabas.",
       "simplement le narrateur."
+    ],
+    "completeWrongs": [
+      "Nathanaël.",
+      "Samuel."
     ]
   },
   {
@@ -497,6 +593,10 @@
     "complete_wrongs": [
       "fond du couloir sombre.",
       "bas de la tour de guet."
+    ],
+    "completeWrongs": [
+      "la tour ronde.",
+      "sa chambre obscure."
     ]
   },
   {
@@ -517,6 +617,10 @@
     "complete_wrongs": [
       "plus beau des âges.",
       "dernier des empires."
+    ],
+    "completeWrongs": [
+      "jours.",
+      "siècles."
     ]
   },
   {
@@ -537,6 +641,10 @@
     "complete_wrongs": [
       "ce récit le montrera.",
       "ma vie le prouvera."
+    ],
+    "completeWrongs": [
+      "montrera.",
+      "prouvera."
     ]
   },
   {
@@ -557,6 +665,10 @@
     "complete_wrongs": [
       "dans son malheur propre.",
       "selon ses raisons secrètes."
+    ],
+    "completeWrongs": [
+      "manière.",
+      "propre façon."
     ]
   },
   {
@@ -577,6 +689,10 @@
     "complete_wrongs": [
       "besoin d'une bonne cuisinière.",
       "l'intention de s'établir."
+    ],
+    "completeWrongs": [
+      "s'établir.",
+      "se caser."
     ]
   },
   {
@@ -597,6 +713,10 @@
     "complete_wrongs": [
       "lentement de la gare centrale.",
       "dans un roulement de tonnerre."
+    ],
+    "completeWrongs": [
+      "Moscou.",
+      "la frontière."
     ]
   },
   {
@@ -617,6 +737,10 @@
     "complete_wrongs": [
       "province, un certain Oblomov.",
       "gouvernement, le général Ivolguine."
+    ],
+    "completeWrongs": [
+      "Alexandrov.",
+      "Maslov."
     ]
   },
   {
@@ -637,6 +761,10 @@
     "complete_wrongs": [
       "on l'avait dénoncé.",
       "la police le convoqua."
+    ],
+    "completeWrongs": [
+      "convoqué.",
+      "surveillé."
     ]
   },
   {
@@ -657,6 +785,10 @@
     "complete_wrongs": [
       "transformé en vieil homme.",
       "incapable de se lever."
+    ],
+    "completeWrongs": [
+      "animal.",
+      "être difforme."
     ]
   },
   {
@@ -677,6 +809,10 @@
     "complete_wrongs": [
       "Pourquoi maintenant ?",
       "Comment, maintenant ?"
+    ],
+    "completeWrongs": [
+      "parle ?",
+      "suis-je ?"
     ]
   },
   {
@@ -697,6 +833,10 @@
     "complete_wrongs": [
       "sa médication depuis trois semaines.",
       "de repas depuis la veille."
+    ],
+    "completeWrongs": [
+      "trois longs mois.",
+      "bien trop longtemps."
     ]
   },
   {
@@ -717,6 +857,10 @@
     "complete_wrongs": [
       "lourd de toute la côte.",
       "léger du lycée Williams."
+    ],
+    "completeWrongs": [
+      "Harvard.",
+      "Columbia."
     ]
   },
   {
@@ -737,6 +881,10 @@
     "complete_wrongs": [
       "grands théologiens en émoi.",
       "penseurs de son temps."
+    ],
+    "completeWrongs": [
+      "la perplexité.",
+      "le désarroi."
     ]
   },
   {
@@ -757,6 +905,10 @@
     "complete_wrongs": [
       "d'Orient, ni tout à fait d'Occident.",
       "de nulle part en vérité."
+    ],
+    "completeWrongs": [
+      "d'Orient.",
+      "de nulle part."
     ]
   },
   {
@@ -797,6 +949,10 @@
     "complete_wrongs": [
       "lisière d'une ville inconnue.",
       "dehors de toute frontière."
+    ],
+    "completeWrongs": [
+      "Hollywood.",
+      "la ville."
     ]
   },
   {
@@ -817,6 +973,10 @@
     "complete_wrongs": [
       "disparut sans laisser d'adresse.",
       "ne revint plus jamais."
+    ],
+    "completeWrongs": [
+      "forêt.",
+      "solitude."
     ]
   },
   {
@@ -837,6 +997,10 @@
     "complete_wrongs": [
       "qu'on pût offrir à autrui.",
       "en dehors de la vertu."
+    ],
+    "completeWrongs": [
+      "suffire.",
+      "transmettre."
     ]
   },
   {
@@ -857,6 +1021,10 @@
     "complete_wrongs": [
       "percevoir dans la plaine grise.",
       "différencier des autres petites villes."
+    ],
+    "completeWrongs": [
+      "du pays.",
+      "du monde."
     ]
   },
   {
@@ -877,6 +1045,10 @@
     "complete_wrongs": [
       "né dans cette ville.",
       "revenu pour témoigner."
+    ],
+    "completeWrongs": [
+      "seul.",
+      "libre."
     ]
   },
   {
@@ -897,6 +1069,10 @@
     "complete_wrongs": [
       "une fréquence inconnue.",
       "l'écran d'une caméra vide."
+    ],
+    "completeWrongs": [
+      "d'antenne.",
+      "de signal."
     ]
   },
   {
@@ -917,6 +1093,10 @@
     "complete_wrongs": [
       "à peu près ainsi.",
       "comme je le raconte."
+    ],
+    "completeWrongs": [
+      "ainsi.",
+      "vraiment."
     ]
   },
   {
@@ -937,6 +1117,10 @@
     "complete_wrongs": [
       "l'air parfaitement normal.",
       "basculé en une nuit."
+    ],
+    "completeWrongs": [
+      "un mensonge.",
+      "hasard."
     ]
   },
   {
@@ -957,6 +1141,10 @@
     "complete_wrongs": [
       "marquaient sept heures du soir.",
       "s'étaient arrêtées à minuit."
+    ],
+    "completeWrongs": [
+      "midi passé.",
+      "l'heure exacte."
     ]
   },
   {
@@ -978,6 +1166,10 @@
     "complete_wrongs": [
       "c'est que je suis pauvre.",
       "vous devez savoir mon nom."
+    ],
+    "completeWrongs": [
+      "mort.",
+      "venu."
     ]
   },
   {
@@ -998,6 +1190,10 @@
     "complete_wrongs": [
       "revenais à Thornfield Hall.",
       "voyais encore cette maison."
+    ],
+    "completeWrongs": [
+      "Thornfield.",
+      "Wuthering Heights."
     ]
   },
   {
@@ -1018,6 +1214,10 @@
     "complete_wrongs": [
       "lui avait montré la mer.",
       "l'avait conduit au cirque."
+    ],
+    "completeWrongs": [
+      "mer.",
+      "ville."
     ]
   },
   {
@@ -1038,6 +1238,10 @@
     "complete_wrongs": [
       "L'endroit portait malheur.",
       "La maison était hantée."
+    ],
+    "completeWrongs": [
+      "hanté.",
+      "maudit."
     ]
   },
   {
@@ -1059,6 +1263,10 @@
     "complete_wrongs": [
       "de la salle de bain.",
       "du couloir obscur."
+    ],
+    "completeWrongs": [
+      "salle de bains.",
+      "chambre froide."
     ]
   },
   {
@@ -1079,6 +1287,10 @@
     "complete_wrongs": [
       "chasseur disparaissait à l'horizon.",
       "cavalier l'attendait à la croisée."
+    ],
+    "completeWrongs": [
+      "pourchassait.",
+      "traquait."
     ]
   },
   {
@@ -1099,6 +1311,10 @@
     "complete_wrongs": [
       "dormait un vieux dragon.",
       "s'était caché l'ennemi."
+    ],
+    "completeWrongs": [
+      "gnome.",
+      "nain."
     ]
   },
   {
@@ -1119,6 +1335,10 @@
     "complete_wrongs": [
       "l'air farouche et triste.",
       "la mine défaite."
+    ],
+    "completeWrongs": [
+      "douce.",
+      "cassée."
     ]
   },
   {
@@ -1140,6 +1360,10 @@
     "complete_wrongs": [
       "lumières de la ville apparurent.",
       "premières étoiles se levèrent."
+    ],
+    "completeWrongs": [
+      "faire effet.",
+      "nous envahir."
     ]
   },
   {
@@ -1160,6 +1384,10 @@
     "complete_wrongs": [
       "n'ai jamais pu oublier.",
       "me suis toujours rappelé."
+    ],
+    "completeWrongs": [
+      "toujours.",
+      "lors."
     ]
   },
   {
@@ -1180,6 +1408,10 @@
     "complete_wrongs": [
       "était bien fait pour lui.",
       "n'en était pas fier."
+    ],
+    "completeWrongs": [
+      "surnom.",
+      "prénom odieux."
     ]
   },
   {
@@ -1200,6 +1432,10 @@
     "complete_wrongs": [
       "vis, je vis, je vis.",
       "pense, donc je suis."
+    ],
+    "completeWrongs": [
+      "vivante.",
+      "là."
     ]
   },
   {
@@ -1220,6 +1456,10 @@
     "complete_wrongs": [
       "douce et sans lune.",
       "froide de novembre."
+    ],
+    "completeWrongs": [
+      "pluvieuse.",
+      "glaciale."
     ]
   },
   {
@@ -1240,6 +1480,10 @@
     "complete_wrongs": [
       "l'ampleur de la catastrophe.",
       "ce qu'on attendait de nous."
+    ],
+    "completeWrongs": [
+      "cas.",
+      "faute."
     ]
   },
   {
@@ -1260,6 +1504,10 @@
     "complete_wrongs": [
       "début de la fin.",
       "pire moment de ma vie."
+    ],
+    "completeWrongs": [
+      "destin.",
+      "sort."
     ]
   },
   {
@@ -1280,6 +1528,10 @@
     "complete_wrongs": [
       "déchire la nuit.",
       "brise le silence."
+    ],
+    "completeWrongs": [
+      "vide.",
+      "soir."
     ]
   },
   {
@@ -1300,6 +1552,10 @@
     "complete_wrongs": [
       "de la montagne sacrée.",
       "des collines de Kikuyu."
+    ],
+    "completeWrongs": [
+      "Kenya.",
+      "Kilimandjaro."
     ]
   },
   {
@@ -1321,6 +1577,10 @@
     "complete_wrongs": [
       "régnait le chaos.",
       "fut la lumière."
+    ],
+    "completeWrongs": [
+      "Logos.",
+      "Monde."
     ]
   },
   {
@@ -1341,6 +1601,10 @@
     "complete_wrongs": [
       "de l'air après l'orage.",
       "des nuits de gel."
+    ],
+    "completeWrongs": [
+      "tempête.",
+      "averse."
     ]
   },
   {
@@ -1361,6 +1625,10 @@
     "complete_wrongs": [
       "pas un livre déplacé.",
       "rien qui dérangeât l'ordre."
+    ],
+    "completeWrongs": [
+      "d'aplomb.",
+      "bien placée."
     ]
   },
   {
@@ -1381,6 +1649,10 @@
     "complete_wrongs": [
       "court vers la plaine lointaine.",
       "s'étire, calme et silencieuse."
+    ],
+    "completeWrongs": [
+      "claire.",
+      "fraîche."
     ]
   },
   {
@@ -1401,6 +1673,10 @@
     "complete_wrongs": [
       "noyant les dernières semences.",
       "en nappes régulières et froides."
+    ],
+    "completeWrongs": [
+      "asséchée.",
+      "aride."
     ]
   },
   {
@@ -1421,6 +1697,10 @@
     "complete_wrongs": [
       "et les prés jusqu'à l'horizon.",
       "et les forêts au loin."
+    ],
+    "completeWrongs": [
+      "collines.",
+      "horizons."
     ]
   },
   {
@@ -1441,6 +1721,10 @@
     "complete_wrongs": [
       "la Colombie-Britannique au Mexique.",
       "Seattle aux rives du Pacifique."
+    ],
+    "completeWrongs": [
+      "Francisco.",
+      "José."
     ]
   },
   {
@@ -1461,6 +1745,10 @@
     "complete_wrongs": [
       "de la côte est.",
       "du périphérique parisien."
+    ],
+    "completeWrongs": [
+      "New York.",
+      "San Francisco."
     ]
   },
   {
@@ -1481,6 +1769,10 @@
     "complete_wrongs": [
       "découpées en morceaux.",
       "sans nom ni visage."
+    ],
+    "completeWrongs": [
+      "visages.",
+      "ombres."
     ]
   },
   {
@@ -1501,6 +1793,10 @@
     "complete_wrongs": [
       "à une femme qu'il aimait.",
       "au directeur du journal."
+    ],
+    "completeWrongs": [
+      "plus.",
+      "encore."
     ]
   },
   {
@@ -4432,6 +4728,10 @@
       "🤐",
       "🪞",
       "🌙"
+    ],
+    "complete_wrongs": [
+      "que je garde par pudeur.",
+      "que je cache par respect."
     ]
   },
   {
@@ -4533,6 +4833,10 @@
       "🌑",
       "🚪",
       "💫"
+    ],
+    "complete_wrongs": [
+      "les confins de l'Empire Romain.",
+      "les frontières de l'Empire Stellaire."
     ]
   },
   {
@@ -4550,6 +4854,10 @@
       "🤍",
       "👤",
       "😶"
+    ],
+    "complete_wrongs": [
+      "pèse pour beaucoup.",
+      "vaut pour rien."
     ]
   },
   {
@@ -4567,6 +4875,10 @@
       "🏚️",
       "🧳",
       "🐟"
+    ],
+    "complete_wrongs": [
+      "même où je me suis allongé.",
+      "même où elle m'a quitté."
     ]
   },
   {
@@ -4584,6 +4896,10 @@
       "🤍",
       "✨",
       "🪞"
+    ],
+    "complete_wrongs": [
+      "dans une famille de marchands.",
+      "dans une famille sans fortune."
     ]
   },
   {
@@ -4601,6 +4917,10 @@
       "⚓",
       "🏔️",
       "🚪"
+    ],
+    "complete_wrongs": [
+      "et les aventuriers",
+      "et les découvreurs"
     ]
   },
   {
@@ -4618,6 +4938,10 @@
       "⌛",
       "🧠",
       "❤️"
+    ],
+    "complete_wrongs": [
+      "écrasé sous son poids !",
+      "brisé sous son joug !"
     ]
   },
   {
@@ -4635,6 +4959,10 @@
       "🧳",
       "🤫",
       "🤍"
+    ],
+    "complete_wrongs": [
+      "une initiative du maréchal.",
+      "une capitulation sans résistance."
     ]
   },
   {
@@ -4652,6 +4980,10 @@
       "🌀",
       "🎭",
       "🏚️"
+    ],
+    "complete_wrongs": [
+      "petits riens du quotidien.",
+      "petits drames sans importance."
     ]
   },
   {
@@ -4669,6 +5001,10 @@
       "🎭",
       "🌐",
       "🪞"
+    ],
+    "complete_wrongs": [
+      "à la mode.",
+      "sans intérêt."
     ]
   },
   {
@@ -4686,6 +5022,10 @@
       "❤️",
       "🧠",
       "🐺"
+    ],
+    "complete_wrongs": [
+      "fermer ce livre immédiatement.",
+      "trouver une autre lecture."
     ]
   },
   {
@@ -4703,6 +5043,10 @@
       "⚰️",
       "🦴",
       "🖤"
+    ],
+    "complete_wrongs": [
+      "à deux mètres de lui.",
+      "sur le trottoir devant lui."
     ]
   },
   {
@@ -4720,6 +5064,10 @@
       "😢",
       "🧠",
       "😶"
+    ],
+    "complete_wrongs": [
+      "une épouse si fidèle !\"",
+      "une femme si courageuse !\""
     ]
   },
   {
@@ -4741,6 +5089,10 @@
       "🧳",
       "🌊",
       "⚓"
+    ],
+    "complete_wrongs": [
+      "d'aller voir les sources chaudes.",
+      "d'aller séjourner en montagne."
     ]
   },
   {
@@ -4762,6 +5114,10 @@
       "😶",
       "🤍",
       "❤️"
+    ],
+    "complete_wrongs": [
+      "sincère, lecteur.",
+      "écrit pour toi."
     ]
   },
   {
@@ -4783,6 +5139,10 @@
       "🧠",
       "💔",
       "😶"
+    ],
+    "complete_wrongs": [
+      "la plus répandue.",
+      "la plus commune."
     ]
   },
   {
@@ -4804,6 +5164,10 @@
       "🤲",
       "🌙",
       "😢"
+    ],
+    "complete_wrongs": [
+      "grâce de m'entendre.",
+      "aide de me comprendre."
     ]
   },
   {
@@ -4825,6 +5189,10 @@
       "🕳️",
       "❤️",
       "💔"
+    ],
+    "complete_wrongs": [
+      "vite, cher Hippolyte.",
+      "loin, cher Thésée."
     ]
   },
   {
@@ -4846,6 +5214,10 @@
       "🍷",
       "🏚️",
       "🌑"
+    ],
+    "complete_wrongs": [
+      "du règne de François premier.",
+      "du règne de Louis treize."
     ]
   },
   {
@@ -4867,6 +5239,10 @@
       "🤍",
       "🧍",
       "👤"
+    ],
+    "complete_wrongs": [
+      "de la mort d'Ulysse.",
+      "de l'absence d'Ulysse."
     ]
   },
   {
@@ -4888,6 +5264,10 @@
       "🧳",
       "🧠",
       "🧍"
+    ],
+    "complete_wrongs": [
+      "en user à ma guise.",
+      "en user plus librement."
     ]
   },
   {
@@ -4909,6 +5289,10 @@
       "🏛️",
       "🏠",
       "🪴"
+    ],
+    "complete_wrongs": [
+      "maisons de P…, m'avaient placé.",
+      "familles de P…, me recevaient."
     ]
   },
   {
@@ -4930,6 +5314,10 @@
       "💫",
       "🌅",
       "🧠"
+    ],
+    "complete_wrongs": [
+      "fit dans notre belle galaxie.",
+      "fit pour notre petite planète."
     ]
   },
   {
@@ -4951,6 +5339,10 @@
       "🔥",
       "💌",
       "🤍"
+    ],
+    "complete_wrongs": [
+      "le vois bien.",
+      "le sais hélas."
     ]
   },
   {
@@ -4972,6 +5364,10 @@
       "🪞",
       "📷",
       "🤍"
+    ],
+    "complete_wrongs": [
+      "origine, voulait dire.",
+      "racine, désignait prêtre."
     ]
   },
   {
@@ -4993,6 +5389,10 @@
       "🤐",
       "🖤",
       "🤫"
+    ],
+    "complete_wrongs": [
+      "que ce n'est qu'une fiction.",
+      "que ce ne sont que lettres."
     ]
   },
   {
@@ -5014,6 +5414,10 @@
       "💀",
       "🪞",
       "🧍"
+    ],
+    "complete_wrongs": [
+      "n'aura nul précédent.",
+      "jamais eu d'égal."
     ]
   },
   {
@@ -5035,6 +5439,10 @@
       "🌾",
       "🧳",
       "🏛️"
+    ],
+    "complete_wrongs": [
+      "restes de deux anciens moulins.",
+      "vestiges de deux vieilles chapelles."
     ]
   },
   {
@@ -5056,6 +5464,10 @@
       "👫",
       "🏚️",
       "💌"
+    ],
+    "complete_wrongs": [
+      "comme les amants se trouvent.",
+      "par un hasard heureux."
     ]
   },
   {
@@ -5077,6 +5489,10 @@
       "🫂",
       "🫀",
       "🥀"
+    ],
+    "complete_wrongs": [
+      "sincères sont vrais.",
+      "vécus sont purs."
     ]
   },
   {
@@ -5098,6 +5514,10 @@
       "🌀",
       "🌧️",
       "♾️"
+    ],
+    "complete_wrongs": [
+      "l'Université et le Parlement.",
+      "la Cité et la Ville."
     ]
   },
   {
@@ -5119,6 +5539,10 @@
       "🏙️",
       "🏛️",
       "✨"
+    ],
+    "complete_wrongs": [
+      "une passion par essence fatale.",
+      "une passion par nature maudite."
     ]
   },
   {
@@ -5140,6 +5564,10 @@
       "🕯️",
       "💫",
       "🌙"
+    ],
+    "complete_wrongs": [
+      "les cimetières les plus anciens.",
+      "les châteaux les plus abandonnés."
     ]
   },
   {
@@ -5161,6 +5589,10 @@
       "⚰️",
       "🍷",
       "🏙️"
+    ],
+    "complete_wrongs": [
+      "Latin et le faubourg Saint-Victor.",
+      "Latin et le quartier Saint-Michel."
     ]
   },
   {
@@ -5182,6 +5614,10 @@
       "🤐",
       "🏚️",
       "😶"
+    ],
+    "complete_wrongs": [
+      "les grandes villes de province.",
+      "les ateliers d'imprimerie parisiens."
     ]
   },
   {
@@ -5203,6 +5639,10 @@
       "🏛️",
       "🧳",
       "🌲"
+    ],
+    "complete_wrongs": [
+      "vers laquelle je m'avançais.",
+      "dont je m'approchais lentement."
     ]
   },
   {
@@ -5224,6 +5664,10 @@
       "🏚️",
       "🌉",
       "🚪"
+    ],
+    "complete_wrongs": [
+      "et César avaient un héritier.",
+      "et Hannibal avaient un successeur."
     ]
   },
   {
@@ -5245,6 +5689,10 @@
       "🕳️",
       "🌉",
       "🌧️"
+    ],
+    "complete_wrongs": [
+      "une longue traversée depuis Naples.",
+      "une brève escale depuis Gênes."
     ]
   },
   {
@@ -5266,6 +5714,10 @@
       "🍷",
       "👶",
       "🦋"
+    ],
+    "complete_wrongs": [
+      "un dîner masqué.",
+      "une soirée costumée."
     ]
   },
   {
@@ -5287,6 +5739,10 @@
       "🏙️",
       "🌸",
       "👴"
+    ],
+    "complete_wrongs": [
+      "eussent pris une seconde bastille.",
+      "eussent mené une nouvelle guerre."
     ]
   },
   {
@@ -5308,6 +5764,10 @@
       "🏚️",
       "🧳",
       "😶"
+    ],
+    "complete_wrongs": [
+      "lieues au nord de Séville.",
+      "lieues au sud de Grenade."
     ]
   },
   {
@@ -5329,6 +5789,10 @@
       "🌑",
       "🌉",
       "🤍"
+    ],
+    "complete_wrongs": [
+      "femme de quarante ans environ.",
+      "dame de vingt-cinq ans environ."
     ]
   },
   {
@@ -5350,6 +5814,10 @@
       "🏛️",
       "🗺️",
       "🪴"
+    ],
+    "complete_wrongs": [
+      "ville de Bordeaux.",
+      "ville de Rennes."
     ]
   },
   {
@@ -5371,6 +5839,10 @@
       "⌛",
       "✍️",
       "⚰️"
+    ],
+    "complete_wrongs": [
+      "15 janvier 1862.",
+      "12 octobre 1848."
     ]
   },
   {
@@ -5392,6 +5864,10 @@
       "🚪",
       "📖",
       "👁️"
+    ],
+    "complete_wrongs": [
+      "qui portait un grand livre.",
+      "qui tenait un vieux cartable."
     ]
   },
   {
@@ -5413,6 +5889,10 @@
       "🧠",
       "🤲",
       "😢"
+    ],
+    "complete_wrongs": [
+      "les avares nourrissent leur avarice.",
+      "les pécheurs cultivent leur honte."
     ]
   },
   {
@@ -5434,6 +5914,10 @@
       "🪴",
       "🧠",
       "🏚️"
+    ],
+    "complete_wrongs": [
+      "de douces harmonies.",
+      "d'obscures syllabes."
     ]
   },
   {
@@ -5455,6 +5939,10 @@
       "🍂",
       "❤️",
       "🔥"
+    ],
+    "complete_wrongs": [
+      "d'une tristesse profonde.",
+      "d'une douleur infinie."
     ]
   },
   {
@@ -5476,6 +5964,10 @@
       "⚓",
       "🚂",
       "🏚️"
+    ],
+    "complete_wrongs": [
+      "à la rue Mazarine.",
+      "vers la place Saint-Michel."
     ]
   },
   {
@@ -5497,6 +5989,10 @@
       "✨",
       "❤️",
       "🌙"
+    ],
+    "complete_wrongs": [
+      "aspirations profondes de l'esprit ?",
+      "élans mystérieux du cœur ?"
     ]
   },
   {
@@ -5518,6 +6014,10 @@
       "🏚️",
       "🔥",
       "🧳"
+    ],
+    "complete_wrongs": [
+      "de New York, en plein Manhattan.",
+      "de Boston, en plein Massachusetts."
     ]
   },
   {
@@ -5539,6 +6039,10 @@
       "🔑",
       "⚡",
       "👶"
+    ],
+    "complete_wrongs": [
+      "n'a jamais été expliqué.",
+      "n'a guère été résolu."
     ]
   },
   {
@@ -5560,6 +6064,10 @@
       "🌧️",
       "🌸",
       "🍂"
+    ],
+    "complete_wrongs": [
+      "herbes des reflets de lumière.",
+      "branches des éclats de soleil."
     ]
   },
   {
@@ -5581,6 +6089,10 @@
       "🖤",
       "🌫️",
       "🌧️"
+    ],
+    "complete_wrongs": [
+      "laquelle Byron vécut en 1816.",
+      "laquelle Wellington mourut en 1852."
     ]
   },
   {
@@ -5602,6 +6114,10 @@
       "🧳",
       "🌸",
       "🏙️"
+    ],
+    "complete_wrongs": [
+      "rentré leurs chariots.",
+      "déposé leurs paniers."
     ]
   },
   {
@@ -5623,6 +6139,10 @@
       "🕯️",
       "🫂",
       "⌛"
+    ],
+    "complete_wrongs": [
+      "te taire, poète.",
+      "te perdre, rêveur."
     ]
   },
   {
@@ -5644,6 +6164,10 @@
       "🧳",
       "🌲",
       "🚂"
+    ],
+    "complete_wrongs": [
+      "forêt de Fougères en Vendée.",
+      "bocage de la forêt en Anjou."
     ]
   },
   {
@@ -5665,6 +6189,10 @@
       "🌧️",
       "🔥",
       "⚡"
+    ],
+    "complete_wrongs": [
+      "il pleut sur les champs.",
+      "il neige sur la ville."
     ]
   },
   {
@@ -5686,6 +6214,10 @@
       "🌧️",
       "🖤",
       "💫"
+    ],
+    "complete_wrongs": [
+      "en flammes ?",
+      "en cendres ?"
     ]
   },
   {
@@ -5707,6 +6239,10 @@
       "💔",
       "🤍",
       "😢"
+    ],
+    "complete_wrongs": [
+      "jamais osé l'écrire.",
+      "jamais pu l'avouer."
     ]
   },
   {
@@ -5728,6 +6264,10 @@
       "🕯️",
       "🎭",
       "🖤"
+    ],
+    "complete_wrongs": [
+      "était encore déserte.",
+      "était encore froide."
     ]
   },
   {
@@ -5749,6 +6289,10 @@
       "🌉",
       "⚡",
       "🚪"
+    ],
+    "complete_wrongs": [
+      "envahi la ville.",
+      "quitté la ville."
     ]
   },
   {
@@ -5770,6 +6314,10 @@
       "🌑",
       "🖤",
       "🌙"
+    ],
+    "complete_wrongs": [
+      "neige ne cessait pas.",
+      "nuit ne finissait pas."
     ]
   },
   {
@@ -5791,6 +6339,10 @@
       "🚪",
       "🗺️",
       "🌑"
+    ],
+    "complete_wrongs": [
+      "d'un wagon de deuxième classe.",
+      "d'un train de marchandises."
     ]
   },
   {
@@ -5812,6 +6364,10 @@
       "⛪",
       "👴",
       "🦴"
+    ],
+    "complete_wrongs": [
+      "croisements de races, enfin mêlé.",
+      "générations de siècles, enfin libéré."
     ]
   },
   {
@@ -5833,6 +6389,10 @@
       "❤️",
       "🧠",
       "🎭"
+    ],
+    "complete_wrongs": [
+      "cela préfère le vague.",
+      "tout préfère l'Impair."
     ]
   },
   {
@@ -5854,6 +6414,10 @@
       "🌧️",
       "⛰️",
       "🌫️"
+    ],
+    "complete_wrongs": [
+      "submergé par la mélancolie.",
+      "saisi par le vertige."
     ]
   },
   {
@@ -5875,6 +6439,10 @@
       "🌙",
       "🧳",
       "🌅"
+    ],
+    "complete_wrongs": [
+      "les brumes froides de décembre.",
+      "les ténèbres grises de janvier."
     ]
   },
   {
@@ -5896,6 +6464,10 @@
       "🌸",
       "🥀",
       "🌙"
+    ],
+    "complete_wrongs": [
+      "matinée admirable !",
+      "soirée magnifique !"
     ]
   },
   {
@@ -5917,6 +6489,10 @@
       "🌙",
       "⚓",
       "🌅"
+    ],
+    "complete_wrongs": [
+      "au fond de l'eau.",
+      "loin du bord."
     ]
   },
   {
@@ -5938,6 +6514,10 @@
       "🤲",
       "🍷",
       "⛪"
+    ],
+    "complete_wrongs": [
+      "le Bon Roi Henri.",
+      "la Belle Hélène."
     ]
   },
   {
@@ -5959,6 +6539,10 @@
       "😶",
       "🍺",
       "🏚️"
+    ],
+    "complete_wrongs": [
+      "N'ABOLIRA LE TEMPS.",
+      "NE CHANGE LE SORT."
     ]
   },
   {
@@ -5980,6 +6564,10 @@
       "🏚️",
       "🥀",
       "🏙️"
+    ],
+    "complete_wrongs": [
+      "théâtre de la Comédie.",
+      "salle de l'Opéra."
     ]
   },
   {
@@ -6001,6 +6589,10 @@
       "👴",
       "❤️",
       "🪞"
+    ],
+    "complete_wrongs": [
+      "un orphelin recueilli.",
+      "un bâtard abandonné."
     ]
   },
   {
@@ -6022,6 +6614,10 @@
       "👶",
       "🫂",
       "🌸"
+    ],
+    "complete_wrongs": [
+      "celles d'une vraie poupée.",
+      "celles d'une jeune fille."
     ]
   },
   {
@@ -6043,6 +6639,10 @@
       "🪟",
       "🚪",
       "🌲"
+    ],
+    "complete_wrongs": [
+      "derrière les arbres.",
+      "sous la fenêtre."
     ]
   },
   {
@@ -6064,6 +6664,10 @@
       "🌙",
       "🤍",
       "💌"
+    ],
+    "complete_wrongs": [
+      "de janvier 190…",
+      "de décembre 188…"
     ]
   },
   {
@@ -6085,6 +6689,10 @@
       "🏛️",
       "♾️",
       "🥀"
+    ],
+    "complete_wrongs": [
+      "de ce temps perdu.",
+      "de cette vie ancienne."
     ]
   },
   {
@@ -6106,6 +6714,10 @@
       "🏚️",
       "🏛️",
       "📖"
+    ],
+    "complete_wrongs": [
+      "déjà loin de mon pays.",
+      "déjà seul dans ma vie."
     ]
   },
   {
@@ -6127,6 +6739,10 @@
       "🖤",
       "📖",
       "😰"
+    ],
+    "complete_wrongs": [
+      "par une crise de rhumatisme.",
+      "par une attaque de paralysie."
     ]
   },
   {
@@ -6148,6 +6764,10 @@
       "🖤",
       "🦴",
       "😢"
+    ],
+    "complete_wrongs": [
+      "été un hypocrite.",
+      "été un lâche."
     ]
   },
   {
@@ -6169,6 +6789,10 @@
       "🪴",
       "😶",
       "⛪"
+    ],
+    "complete_wrongs": [
+      "fin cette croyance disparaît.",
+      "bout cette croyance se brise."
     ]
   },
   {
@@ -6190,6 +6814,10 @@
       "🌉",
       "🗺️",
       "🏠"
+    ],
+    "complete_wrongs": [
+      "fallait longer le jardin.",
+      "fallait traverser la place."
     ]
   },
   {
@@ -6211,6 +6839,10 @@
       "🕯️",
       "🌅",
       "☀️"
+    ],
+    "complete_wrongs": [
+      "froide et venteuse.",
+      "calme et silencieuse."
     ]
   },
   {
@@ -6232,6 +6864,10 @@
       "☀️",
       "🌲",
       "🐦"
+    ],
+    "complete_wrongs": [
+      "comme une émeraude.",
+      "comme un saphir."
     ]
   },
   {
@@ -6253,6 +6889,10 @@
       "🔑",
       "⚡",
       "❤️"
+    ],
+    "complete_wrongs": [
+      "ferma les yeux doucement.",
+      "posa son verre vide."
     ]
   },
   {
@@ -6274,6 +6914,10 @@
       "🍂",
       "🌲",
       "🌅"
+    ],
+    "complete_wrongs": [
+      "La pluie cessait.",
+      "Le vent soufflait."
     ]
   },
   {
@@ -6295,6 +6939,10 @@
       "🏔️",
       "⛰️",
       "🚂"
+    ],
+    "complete_wrongs": [
+      "viens de l'Amérique.",
+      "cours vers l'inconnu."
     ]
   },
   {
@@ -6316,6 +6964,10 @@
       "💌",
       "🔮",
       "🔑"
+    ],
+    "complete_wrongs": [
+      "Où vais-je ?",
+      "Que cherches-tu ?"
     ]
   },
   {
@@ -6337,6 +6989,10 @@
       "🕯️",
       "💫",
       "🌉"
+    ],
+    "complete_wrongs": [
+      "sous la pluie.",
+      "dans le silence."
     ]
   },
   {
@@ -6358,6 +7014,10 @@
       "⛰️",
       "🌲",
       "🌧️"
+    ],
+    "complete_wrongs": [
+      "Concarneau est grise.",
+      "Concarneau est froide."
     ]
   },
   {
@@ -6379,6 +7039,10 @@
       "🤍",
       "🧠",
       "😶"
+    ],
+    "complete_wrongs": [
+      "sans vraiment comprendre.",
+      "assez mal à l'aise."
     ]
   },
   {
@@ -6400,6 +7064,10 @@
       "💌",
       "🧳",
       "🚪"
+    ],
+    "complete_wrongs": [
+      "capitales de l'Europe continentale.",
+      "services secrets de renseignement français."
     ]
   },
   {
@@ -6421,6 +7089,10 @@
       "🌲",
       "🌾",
       "👴"
+    ],
+    "complete_wrongs": [
+      "pauvre comme les autres.",
+      "triste comme les autres."
     ]
   },
   {
@@ -6442,6 +7114,10 @@
       "🚪",
       "🐺",
       "⌛"
+    ],
+    "complete_wrongs": [
+      "la fenêtre ouverte ?",
+      "la lampe éteinte ?"
     ]
   },
   {
@@ -6463,6 +7139,10 @@
       "👴",
       "🐺",
       "🏚️"
+    ],
+    "complete_wrongs": [
+      "qui se terminait bien.",
+      "qui semblait aller bien."
     ]
   },
   {
@@ -6484,6 +7164,10 @@
       "🌅",
       "🌙",
       "🔥"
+    ],
+    "complete_wrongs": [
+      "heure par heure.",
+      "mot par mot."
     ]
   },
   {
@@ -6505,6 +7189,10 @@
       "🥀",
       "👶",
       "🍂"
+    ],
+    "complete_wrongs": [
+      "maman est partie.",
+      "maman est revenue."
     ]
   },
   {
@@ -6526,6 +7214,10 @@
       "🖤",
       "💔",
       "🗡️"
+    ],
+    "complete_wrongs": [
+      "c'est la mort.",
+      "c'est la liberté."
     ]
   },
   {
@@ -6547,6 +7239,10 @@
       "🌲",
       "📷",
       "💫"
+    ],
+    "complete_wrongs": [
+      "s'appelait « Bêtes sauvages ».",
+      "s'appelait « Terres lointaines »."
     ]
   },
   {
@@ -6568,6 +7264,10 @@
       "🖤",
       "🐺",
       "😶"
+    ],
+    "complete_wrongs": [
+      "c'est que souffrir.",
+      "c'est que mourir."
     ]
   },
   {
@@ -6589,6 +7289,10 @@
       "🍷",
       "☀️",
       "🥀"
+    ],
+    "complete_wrongs": [
+      "de l'an 2050.",
+      "de l'an 1989."
     ]
   },
   {
@@ -6610,6 +7314,10 @@
       "🌐",
       "✍️",
       "🔥"
+    ],
+    "complete_wrongs": [
+      "Et voilà.",
+      "Bon voilà."
     ]
   },
   {
@@ -6631,6 +7339,10 @@
       "🖤",
       "🧳",
       "🔥"
+    ],
+    "complete_wrongs": [
+      "la boue de cette île.",
+      "la houle de cette mer."
     ]
   },
   {
@@ -6652,6 +7364,10 @@
       "🤍",
       "🔮",
       "♾️"
+    ],
+    "complete_wrongs": [
+      "en haut restez-y.",
+      "dans l'ombre restez-y."
     ]
   },
   {
@@ -6673,6 +7389,10 @@
       "🌙",
       "♾️",
       "🧳"
+    ],
+    "complete_wrongs": [
+      "un moment de rush.",
+      "un instant de folie."
     ]
   },
   {
@@ -6694,6 +7414,10 @@
       "🕯️",
       "⛰️",
       "🪟"
+    ],
+    "complete_wrongs": [
+      "en était toujours propre.",
+      "en était plutôt sombre."
     ]
   },
   {
@@ -6715,6 +7439,10 @@
       "🤲",
       "🍺",
       "🏛️"
+    ],
+    "complete_wrongs": [
+      "robes de chambre.",
+      "gants de soirée."
     ]
   },
   {
@@ -6736,6 +7464,10 @@
       "😶",
       "💔",
       "🗡️"
+    ],
+    "complete_wrongs": [
+      "blés un soir d'hiver.",
+      "blés un matin calme."
     ]
   },
   {
@@ -6757,6 +7489,10 @@
       "♾️",
       "🏚️",
       "🤍"
+    ],
+    "complete_wrongs": [
+      "suivi d'aucun aveu.",
+      "signé d'aucune main."
     ]
   },
   {
@@ -6778,6 +7514,10 @@
       "👤",
       "🥀",
       "❤️"
+    ],
+    "complete_wrongs": [
+      "un essai sur l'histoire.",
+      "un texte sur le temps."
     ]
   },
   {
@@ -6799,6 +7539,10 @@
       "🧍",
       "🌙",
       "🌫️"
+    ],
+    "complete_wrongs": [
+      "semblait vraiment inquiet.",
+      "paraissait légèrement mal à l'aise."
     ]
   },
   {
@@ -6820,6 +7564,10 @@
       "🌐",
       "💌",
       "💔"
+    ],
+    "complete_wrongs": [
+      "on le souffre.",
+      "on le choisit."
     ]
   },
   {
@@ -6841,6 +7589,10 @@
       "✍️",
       "🌑",
       "💫"
+    ],
+    "complete_wrongs": [
+      "est huit heures.",
+      "est minuit passé."
     ]
   },
   {
@@ -6862,6 +7614,10 @@
       "🧍",
       "🤍",
       "💔"
+    ],
+    "complete_wrongs": [
+      "Rien à dire.",
+      "Rien à voir."
     ]
   },
   {
@@ -6883,6 +7639,10 @@
       "🏠",
       "🪟",
       "🐺"
+    ],
+    "complete_wrongs": [
+      "à la table du fond.",
+      "contre le mur sombre."
     ]
   },
   {
@@ -6904,6 +7664,10 @@
       "🎭",
       "🏛️",
       "🌾"
+    ],
+    "complete_wrongs": [
+      "de ma mère.",
+      "de la rivière."
     ]
   },
   {
@@ -6925,6 +7689,10 @@
       "🪟",
       "💌",
       "🍷"
+    ],
+    "complete_wrongs": [
+      "de mon frère.",
+      "de mon père."
     ]
   },
   {
@@ -6946,6 +7714,10 @@
       "🦋",
       "🔥",
       "🧠"
+    ],
+    "complete_wrongs": [
+      "qui semblait sincèrement profondément distrait.",
+      "qui semblait toujours vaguement absent."
     ]
   },
   {
@@ -6967,6 +7739,10 @@
       "🫀",
       "😶",
       "💌"
+    ],
+    "complete_wrongs": [
+      "beau nom grave de mélancolie.",
+      "beau nom grave de nostalgie."
     ]
   },
   {
@@ -6988,6 +7764,10 @@
       "⛰️",
       "🏔️",
       "😰"
+    ],
+    "complete_wrongs": [
+      "et les aventuriers",
+      "et les découvreurs"
     ]
   },
   {
@@ -7009,6 +7789,10 @@
       "🪟",
       "🌙",
       "🏚️"
+    ],
+    "complete_wrongs": [
+      "le coin opposé de la maison.",
+      "l'angle nord-ouest du jardin."
     ]
   },
   {
@@ -7030,6 +7814,10 @@
       "🤲",
       "⛪",
       "🪞"
+    ],
+    "complete_wrongs": [
+      "s'appelait Marcel Pagnol.",
+      "s'appelait Augustin Pagnol."
     ]
   },
   {
@@ -7051,6 +7839,10 @@
       "🤐",
       "🤍",
       "🌙"
+    ],
+    "complete_wrongs": [
+      "porte, dit l'instituteur.",
+      "mur, demanda la directrice."
     ]
   },
   {
@@ -7072,6 +7864,10 @@
       "🌲",
       "🧳",
       "🤲"
+    ],
+    "complete_wrongs": [
+      "s'écria Gabriel furieux.",
+      "pensa Gabriel épuisé."
     ]
   },
   {
@@ -7093,6 +7889,10 @@
       "🥀",
       "😢",
       "💔"
+    ],
+    "complete_wrongs": [
+      "écrire ma vie.",
+      "raconter mon enfance."
     ]
   },
   {
@@ -7114,6 +7914,10 @@
       "📖",
       "🧠",
       "👴"
+    ],
+    "complete_wrongs": [
+      "à devenir instituteur.",
+      "à devenir notaire."
     ]
   },
   {
@@ -7135,6 +7939,10 @@
       "🖤",
       "🌊",
       "🧳"
+    ],
+    "complete_wrongs": [
+      "au fond du gouffre.",
+      "au cœur des ténèbres."
     ]
   },
   {
@@ -7156,6 +7964,10 @@
       "🌅",
       "🤍",
       "👶"
+    ],
+    "complete_wrongs": [
+      "père l'avait emmené pêcher.",
+      "père l'emmena voir la mer."
     ]
   },
   {
@@ -7177,6 +7989,10 @@
       "🖤",
       "⚡",
       "🍂"
+    ],
+    "complete_wrongs": [
+      "pas eu un bon repas.",
+      "pas revu sa propre mère."
     ]
   },
   {
@@ -7198,6 +8014,10 @@
       "🤐",
       "🌫️",
       "🕳️"
+    ],
+    "complete_wrongs": [
+      "pas à manger.",
+      "pas à lire."
     ]
   },
   {
@@ -7219,6 +8039,10 @@
       "🏚️",
       "🕳️",
       "🤍"
+    ],
+    "complete_wrongs": [
+      "bonne raison de vivre heureuse.",
+      "vraie qualité de vie normale."
     ]
   },
   {
@@ -7240,6 +8064,10 @@
       "🏚️",
       "🔑",
       "🌧️"
+    ],
+    "complete_wrongs": [
+      "de vieilles rumeurs.",
+      "de mauvaises nouvelles."
     ]
   },
   {
@@ -7261,6 +8089,10 @@
       "🦴",
       "🧠",
       "📷"
+    ],
+    "complete_wrongs": [
+      "kilos de trop.",
+      "dents en moins."
     ]
   },
   {
@@ -7282,6 +8114,10 @@
       "🌙",
       "🖤",
       "🚪"
+    ],
+    "complete_wrongs": [
+      "disparut dans l'ombre.",
+      "marcha dans la pluie."
     ]
   },
   {
@@ -7303,6 +8139,10 @@
       "🌀",
       "🕳️",
       "🌧️"
+    ],
+    "complete_wrongs": [
+      "douce et longue.",
+      "grave et lente."
     ]
   },
   {
@@ -7324,6 +8164,10 @@
       "🥀",
       "👴",
       "🖤"
+    ],
+    "complete_wrongs": [
+      "de ton fils.",
+      "de ta mère."
     ]
   },
   {
@@ -7345,6 +8189,10 @@
       "🚪",
       "👴",
       "✍️"
+    ],
+    "complete_wrongs": [
+      "La mer Rouge.",
+      "Le cap Vert."
     ]
   },
   {
@@ -7366,6 +8214,10 @@
       "🐾",
       "🥀",
       "♾️"
+    ],
+    "complete_wrongs": [
+      "avait vingt ans.",
+      "avait quarante ans."
     ]
   },
   {
@@ -7387,6 +8239,10 @@
       "👶",
       "🤐",
       "🖤"
+    ],
+    "complete_wrongs": [
+      "ne veux rien.",
+      "ne dis rien."
     ]
   },
   {
@@ -7408,6 +8264,10 @@
       "😢",
       "🦴",
       "✍️"
+    ],
+    "complete_wrongs": [
+      "que je venais de quitter.",
+      "que j'avais enfin réussi."
     ]
   },
   {
@@ -7429,6 +8289,10 @@
       "👴",
       "🏚️",
       "🤍"
+    ],
+    "complete_wrongs": [
+      "qui me hanta.",
+      "qui me marqua."
     ]
   },
   {
@@ -7450,6 +8314,10 @@
       "🚪",
       "🌐",
       "🔮"
+    ],
+    "complete_wrongs": [
+      "accepter ça ?",
+      "dire ça ?"
     ]
   },
   {
@@ -7471,6 +8339,10 @@
       "🌙",
       "💫",
       "🌑"
+    ],
+    "complete_wrongs": [
+      "ami de jeunesse.",
+      "voisin du quartier."
     ]
   },
   {
@@ -7492,6 +8364,10 @@
       "⌛",
       "🔮",
       "💔"
+    ],
+    "complete_wrongs": [
+      "part, dit Ferrer.",
+      "fuis, dit Ferrer."
     ]
   },
   {
@@ -7513,6 +8389,10 @@
       "🏚️",
       "👤",
       "🧍"
+    ],
+    "complete_wrongs": [
+      "première moitié du XIXe siècle.",
+      "dernière décennie du XXe siècle."
     ]
   },
   {
@@ -7534,6 +8414,10 @@
       "👴",
       "🧳",
       "💌"
+    ],
+    "complete_wrongs": [
+      "Mitsubishi, à Osaka.",
+      "Fujioka, à Kyoto."
     ]
   },
   {
@@ -7555,6 +8439,10 @@
       "🤲",
       "😶",
       "✨"
+    ],
+    "complete_wrongs": [
+      "commencement, rien existait.",
+      "commencement, tout dormait."
     ]
   },
   {
@@ -7576,6 +8464,10 @@
       "❤️",
       "🌸",
       "🍷"
+    ],
+    "complete_wrongs": [
+      "je vous regarde.",
+      "je vous vends."
     ]
   },
   {
@@ -7597,6 +8489,10 @@
       "🧠",
       "😶",
       "🌀"
+    ],
+    "complete_wrongs": [
+      "par quoi finir.",
+      "par où finir."
     ]
   },
   {
@@ -7618,6 +8514,10 @@
       "😢",
       "🖤",
       "🍂"
+    ],
+    "complete_wrongs": [
+      "elle le pensait.",
+      "personne ne savait."
     ]
   },
   {
@@ -7639,6 +8539,10 @@
       "🤲",
       "😢",
       "💌"
+    ],
+    "complete_wrongs": [
+      "tout s'est terminé.",
+      "tout a commencé."
     ]
   },
   {
@@ -7660,6 +8564,10 @@
       "🪞",
       "✍️",
       "🚪"
+    ],
+    "complete_wrongs": [
+      "dans cette maison.",
+      "dans cet hôtel."
     ]
   },
   {
@@ -7681,6 +8589,10 @@
       "🤍",
       "👴",
       "⚰️"
+    ],
+    "complete_wrongs": [
+      "Adolf Hitler fuyait.",
+      "Adolf Hitler disparaissait."
     ]
   },
   {
@@ -7702,6 +8614,10 @@
       "🥀",
       "⚰️",
       "♾️"
+    ],
+    "complete_wrongs": [
+      "les images reviendront.",
+      "les voix disparaîtront."
     ]
   },
   {
@@ -7723,6 +8639,10 @@
       "🌧️",
       "🖤",
       "⚰️"
+    ],
+    "complete_wrongs": [
+      "ils sont restés à l'hôtel.",
+      "nous avions regardé la mer."
     ]
   },
   {
@@ -7744,6 +8664,10 @@
       "🗺️",
       "📖",
       "🏚️"
+    ],
+    "complete_wrongs": [
+      "de Paris, en Île-de-France.",
+      "d'Arles, en Provence-Alpes-Côte d'Azur."
     ]
   },
   {
@@ -7765,6 +8689,10 @@
       "🔮",
       "🌫️",
       "🤐"
+    ],
+    "complete_wrongs": [
+      "une figure de roman.",
+      "un héros de légende."
     ]
   },
   {
@@ -7786,6 +8714,10 @@
       "😢",
       "🖤",
       "♾️"
+    ],
+    "complete_wrongs": [
+      "marque un homme.",
+      "change un homme."
     ]
   },
   {
@@ -7807,6 +8739,10 @@
       "⌛",
       "👶",
       "🔥"
+    ],
+    "complete_wrongs": [
+      "puis s'accélérant vers l'aube.",
+      "puis s'arrêtant vers la fin."
     ]
   },
   {
@@ -7828,6 +8764,10 @@
       "👴",
       "🪴",
       "☀️"
+    ],
+    "complete_wrongs": [
+      "est déjà vieille.",
+      "est toujours là."
     ]
   },
   {
@@ -7849,6 +8789,10 @@
       "🎭",
       "😢",
       "🤍"
+    ],
+    "complete_wrongs": [
+      "été que silence.",
+      "été que souffrance."
     ]
   },
   {
@@ -7870,6 +8814,10 @@
       "✍️",
       "🏛️",
       "🧠"
+    ],
+    "complete_wrongs": [
+      "Belgique en 1978.",
+      "France en 1976."
     ]
   },
   {
@@ -7891,6 +8839,10 @@
       "🏚️",
       "📷",
       "🕳️"
+    ],
+    "complete_wrongs": [
+      "qu'on a été enfant.",
+      "qu'on a été beau."
     ]
   },
   {
@@ -7912,6 +8864,10 @@
       "🕯️",
       "🌑",
       "😶"
+    ],
+    "complete_wrongs": [
+      "Impossible de partir.",
+      "Impossible de vivre."
     ]
   },
   {
@@ -7933,6 +8889,10 @@
       "🍂",
       "😢",
       "🗡️"
+    ],
+    "complete_wrongs": [
+      "chien est mort.",
+      "père est mort."
     ]
   },
   {
@@ -7954,6 +8914,10 @@
       "🍷",
       "🍺",
       "🎭"
+    ],
+    "complete_wrongs": [
+      "qui ressemble à un palais.",
+      "qui ressemble à un bunker."
     ]
   },
   {
@@ -7975,6 +8939,10 @@
       "👴",
       "🥀",
       "🗡️"
+    ],
+    "complete_wrongs": [
+      "gardien de prison.",
+      "veilleur de nuit."
     ]
   },
   {
@@ -7996,6 +8964,10 @@
       "😰",
       "😶",
       "❤️"
+    ],
+    "complete_wrongs": [
+      "connais pas ce monde.",
+      "comprends pas ce monde."
     ]
   },
   {
@@ -8017,6 +8989,10 @@
       "⚡",
       "🤍",
       "🍺"
+    ],
+    "complete_wrongs": [
+      "qui m'a aimée.",
+      "qui m'a trahie."
     ]
   }
 ]
