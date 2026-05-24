@@ -2469,13 +2469,13 @@
     "cover": "https://covers.openlibrary.org/b/id/9385520-L.jpg",
     "description": "Imaginez un groupe de personnages coincés dans un huis clos existentiel, où leur seule occupation est de contempler leur mort imminente et la futilité de leur existence. Bienvenue dans le monde joyeux de Sartre, où rire est un crime et l'absurdité, une philosophie de vie.",
     "emojis": [
-      "🗡️",
+      "🌧️",
       "⚡",
       "👁️",
-      "🌧️",
       "⌛",
       "🖤",
-      "💔"
+      "💔",
+      "✍️"
     ],
     "complete_wrongs": [
       "mort dans les yeux.",
@@ -2948,7 +2948,7 @@
     "cover": "https://covers.openlibrary.org/b/id/14846827-L.jpg",
     "description": "Les Cerfs-volants de Kaboul est le premier roman de l'Américain d'origine afghane Khaled Hosseini, paru en 2003 aux États-Unis et dans sa traduction française en 2007 par les éditions Belfond.",
     "emojis": [
-      "🗡️",
+      "🌑",
       "👶",
       "⚡",
       "🌐",
@@ -4847,10 +4847,10 @@
     "bio": "Hervé Le Tellier est un écrivain français né à Paris le 21 avril 1957, membre de l'Oulipo. Il obtient le prix Goncourt en 2020 pour son roman L'Anomalie.",
     "author_pic": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Herv%C3%A9_Le_Tellier_%282021%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
     "emojis": [
-      "💀",
-      "🦴",
-      "🗡️",
-      "⚰️",
+      "🌑",
+      "🖤",
+      "💔",
+      "🌧️",
       "🤍",
       "👤",
       "😶"
@@ -8707,12 +8707,12 @@
       "les journées passent."
     ],
     "emojis": [
-      "🦴",
       "💀",
-      "⚰️",
-      "🗡️",
+      "🌑",
+      "🌧️",
       "😢",
       "🖤",
+      "🤍",
       "♾️"
     ],
     "complete_wrongs": [
@@ -8784,7 +8784,7 @@
     "emojis": [
       "⚡",
       "👶",
-      "🗡️",
+      "🌑",
       "💔",
       "🎭",
       "😢",
@@ -8882,13 +8882,13 @@
       "peu plus le panneau coulissant."
     ],
     "emojis": [
-      "⚰️",
-      "💀",
-      "🦴",
+      "🕯️",
       "👶",
       "🍂",
       "😢",
-      "🗡️"
+      "🤍",
+      "🌑",
+      "🌧️"
     ],
     "complete_wrongs": [
       "chien est mort.",
@@ -8982,13 +8982,13 @@
       "à la plage."
     ],
     "emojis": [
-      "💌",
-      "👴",
+      "🖋️",
       "💔",
-      "🧠",
-      "⚡",
+      "🌑",
+      "😶",
       "🤍",
-      "🍺"
+      "👤",
+      "📖"
     ],
     "complete_wrongs": [
       "qui m'a aimée.",
