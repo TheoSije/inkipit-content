@@ -13,10 +13,10 @@ marqué **à vérifier contre une source**, pas corrigé.
 
 | | Avant | Après |
 |---|---|---|
-| Entrées | 393 | 366 |
-| Avec photo d'auteur | 199 | 223 |
+| Entrées | 393 | 366 après doublons → **304** après vérification |
+| Avec photo d'auteur | 199 | 210 |
 | Sourcées (`source`) | 0 | 0 |
-| Avec drapeau `flag` (à vérifier) | — | 71 |
+| Avec drapeau `flag` (à vérifier) | — | 71 → 9 après vérification |
 
 ## Nouveaux champs
 
@@ -168,3 +168,84 @@ Lot principal : entrées ajoutées ensemble (index 98–174 du fichier d'origine
 - Photos d'auteur hébergées chez des tiers (babelio, radiofrance, lesechos…) : fragiles, à remplacer
   par Wikimedia Commons en phase « photos ».
 
+## Vérification des suspects (phase 0b)
+
+Les 66 incipits suspects ont été cherchés un par un sur le web (phrase exacte + auteur) : pages d'éditeurs, extraits numériques, fiches pédagogiques, sites d'incipits. Script : `tools/phase0b_verif.py`, détail : `tools/verif_suspects.tsv`.
+
+- **FAUX (25)** : une source montre un autre début → retirés
+- **INTROUVABLE (37)** : cités nulle part comme début du livre → retirés
+- **FORMULATION (2)** : bon début, mots inexacts → gardés, note avec le lien pour recopier la phrase exacte
+- **PARTIEL (2)** : phrase authentique mais pas (entièrement) au début → gardés, note
+
+**Aucune phrase du lot n'a été confirmée comme vrai début de livre.** Les entrées retirées sont sauvegardées dans `tools/retires.json` (restauration possible).
+
+La colonne « vrai début selon source » du TSV est un indice pour retrouver la page, pas un texte à coller : pour ré-ajouter un de ces livres, recopier la phrase depuis la source et la noter dans le champ `source`.
+
+| Livre | Statut | Indice | Source |
+|---|---|---|---|
+| Les Détectives sauvages | FORMULATION | J'ai été cordialement invité à faire partie du réalisme viscéral. | https://excerpts.numilog.com/books/9782823613131.pdf |
+| L'Amour aux temps du choléra | FORMULATION | C'était inévitable : l'odeur des amandes amères lui rappelait le destin des amours contrariées. | http://la-marquise-sortit-a-cinq-heures.over-blog.com/2014/12/c-etait-inevitable-gabriel-garcia-marquez-l-amour-au-temps-du-cholera-incipit.html |
+| Le Hussard sur le toit | INTROUVABLE |  | https://www.ebooksgratuits.com/html/giono_[le_cycle_du_hussard_3]_le_hussard_sur_le_toit.html |
+| Histoire de France | FAUX | (la phrase est d'Agrippa d'Aubigné, Les Tragiques) | https://www.bacdefrancais.net/lestragiques.php |
+| Le Rivage des Syrtes | INTROUVABLE |  |  |
+| Journal du voleur | FAUX | Le vêtement des forçats est rayé rose et blanc. | https://www.rodoni.ch/B5/genet-voleur.pdf |
+| Le Mur | INTROUVABLE |  |  |
+| Belle du Seigneur | FAUX | Descendu de cheval, il allait le long des noisetiers et des églantiers… | https://media.electre-ng.com/extraits/extrait-id/638410a917a297c95c7f9855baf6ac27318c67b21395def2362dff02c7c36a9a.pdf |
+| Les Contemplations (Aujourd'hui, 4 septembre 1856) | INTROUVABLE |  | https://www.gutenberg.org/ebooks/29844 |
+| Cendrillon | FAUX | Il était une fois un gentilhomme qui épousa, en secondes noces, une femme la plus hautaine et la plus fière qu'on eût jamais vue. | https://fr.wikisource.org/wiki/Contes_de_Perrault_(%C3%A9d._1902)/Cendrillon_ou_la_petite_Pantoufle_de_verre |
+| Portrait de l'artiste en jeune homme | INTROUVABLE |  |  |
+| Une fin de roman | INTROUVABLE |  |  |
+| Carrie | INTROUVABLE |  |  |
+| Requiem for a Dream | FAUX | (la phrase vient du film La Haine) | https://www.dicocitations.com/citation_internaute_ajout/4163.php |
+| Moon Palace | FAUX | C'était l'été où l'homme a pour la première fois posé le pied sur la Lune. | https://www.incipitmania.com/aut-a/auster-paul/moon-palace-paul-auster/ |
+| Pastorale américaine | INTROUVABLE |  |  |
+| L'Inconnu du Nord-Express | INTROUVABLE |  |  |
+| Une histoire d'amour et de ténèbres | INTROUVABLE |  |  |
+| Si par une nuit d'hiver un voyageur | FAUX | (le livre s'ouvre sur « Tu vas commencer le nouveau roman d'Italo Calvino… » — à copier depuis la source) | https://www.bacfrancais.com/commentaire/calvino-nuit-hiver-voyageur-incipit/ |
+| Les Cerfs-volants de Kaboul | FAUX | Je suis devenu ce que je suis aujourd'hui à l'âge de douze ans, par un jour glacial et nuageux de l'hiver 1975. | https://booknode.com/les_cerfs-volants_de_kaboul_0993/extraits |
+| La Salle de bain | FAUX | Lorsque j'ai commencé à passer mes après-midi dans la salle de bain, je ne comptais pas m'y installer ; … | https://books.google.com/books/about/La_Salle_de_bain.html?id=codSCwAAQBAJ |
+| Rien ne s'oppose à la nuit | FAUX | Ma mère était bleue, d'un bleu pâle mêlé de cendres, … | https://www.furet.com/media/pdf/feuilletage/9/7/8/2/2/5/3/1/9782253164265.pdf |
+| Qui a tué mon père | INTROUVABLE |  |  |
+| Le Pays des autres | FAUX | La première fois que Mathilde visita la ferme, elle pensa : « C'est trop loin. » | https://booknode.com/le_pays_des_autres_tome_1_03166833/extraits |
+| Istanbul | INTROUVABLE |  |  |
+| La Femme gauchère | INTROUVABLE |  |  |
+| Kafka sur le rivage | FAUX | (le roman s'ouvre sur un dialogue avec « le garçon nommé Corbeau ») |  |
+| Montedidio | INTROUVABLE |  | https://www.incipitmania.com/aut-d/de-luca-erri/montedidio-erri-de-luca/ |
+| La Poursuite du bonheur | FAUX | Le premier, le tout premier souvenir de lui est un regard. | https://booknode.com/la_poursuite_du_bonheur_03439/extraits |
+| La Maison du sommeil | INTROUVABLE |  |  |
+| W ou le souvenir d'enfance | PARTIEL | phrase authentique, mais c'est le début du chapitre II (partie autobiographique), pas du livre | http://anneprof.unblog.fr/2017/12/31/texte-6-w-ou-le-souvenir-denfance-perec-chapitre-2-incipit-du-souvenir/ |
+| Rosie Carpe | INTROUVABLE |  | https://www.leseditionsdeminuit.fr/livre-Rosie_Carpe-1734-1-1-0-1.html |
+| Zone | INTROUVABLE |  | https://grandeursrvitude.wordpress.com/2016/02/28/la-longue-phrase-incipit-de-mathias-enard-277-mots/ |
+| L'Amour dure trois ans | INTROUVABLE |  |  |
+| Saga | INTROUVABLE |  |  |
+| C'est une chose étrange à la fin que le monde | INTROUVABLE |  |  |
+| L'Usage du monde | INTROUVABLE |  |  |
+| Ensemble, c'est tout | FAUX | Non, Paulette Lestafier n'était pas folle du tout. | https://actualitte.com/livres/324051/extraits/ensemble-c-est-tout-anna-gavalda-9782290356135 |
+| Et après… | INTROUVABLE |  |  |
+| Elle s'appelait Sarah | INTROUVABLE |  |  |
+| Eldorado | FAUX |  | https://www.devoir-de-philosophie.com/litterature/la-1-eldorado-laurent-gaude-incipit |
+| La Délicatesse | FAUX | Nathalie était plutôt discrète (une sorte de féminité suisse). | https://excerpts.numilog.com/books/9782072767548.pdf |
+| Un aller simple | FAUX | J'ai commencé dans la vie comme enfant trouvé par erreur. | https://archive.org/details/unallersimplerom00cauw |
+| Désert | FAUX | Ils sont apparus, comme dans un rêve, au sommet de la dune, à demi cachés par la brume de sable que leurs pieds soulevaient. | http://blog.ac-versailles.fr/lettresdarts/public/QUATRE_ELEMENTS/Desert1.pdf |
+| Naissance d'un pont | INTROUVABLE |  |  |
+| La Vérité sur l'affaire Harry Quebert | INTROUVABLE |  |  |
+| Le Quatrième mur (« J'ai appris très tôt à me taire. ») | FAUX | Je suis tombé. (première phrase — voir 184) | https://fr.wikipedia.org/wiki/Le_Quatri%C3%A8me_Mur_(roman) |
+| Le Quatrième Mur (« Je suis tombé. Je me suis relevé. ») | PARTIEL | 1re phrase « Je suis tombé. » confirmée ; la suite est à vérifier dans le livre | https://lecturesanalytiquessite.wordpress.com/2017/06/27/le-quatrieme-mur-chapitre-1/ |
+| La Première gorgée de bière | INTROUVABLE |  |  |
+| Je vais bien, ne t'en fais pas | INTROUVABLE |  |  |
+| S'adapter | FAUX | Un jour, dans une famille, est né un enfant inadapté. | https://ifsuede.com/wp-content/uploads/2023/03/Sadapter-Clara-Dupont-Monod-.pdf |
+| L'Inceste | INTROUVABLE |  |  |
+| Garçon manqué | INTROUVABLE |  |  |
+| Dans les forêts de Sibérie | FAUX | Je m'étais promis avant mes quarante ans de vivre en ermite au fond des bois. | https://www.gallimard.fr/catalogue/dans-les-forets-de-siberie/9782070129256 |
+| Kiffe kiffe demain | FAUX | C'est lundi et comme tous les lundis, je suis allée chez Mme Burlaud. | https://booknode.com/kiffe_kiffe_demain_048981/extraits |
+| Shérazade | INTROUVABLE |  |  |
+| Le Testament français | INTROUVABLE |  |  |
+| L'Hiver aux trousses | INTROUVABLE |  |  |
+| Le Village de l'Allemand | INTROUVABLE |  | https://excerpts.numilog.com/books/9782070396993.pdf |
+| La Clé de Smyrne | INTROUVABLE |  |  |
+| Les Hirondelles de Kaboul | INTROUVABLE |  |  |
+| Dans ces bras-là | INTROUVABLE |  |  |
+| Des hommes | INTROUVABLE | (le roman commence au milieu d'une phrase, sans majuscule) | https://laurent-mauvignier.net/des-hommes-laurent-mauvignier-roman.html |
+| Les Contemplations (« Demain, dès l'aube… ») | FAUX | (poème du livre IV, pas l'ouverture du recueil) | https://en.wikipedia.org/wiki/Demain_d%C3%A8s_l%27aube |
+| Contes (Grimm) | FAUX | (formule générique, ne correspond à aucun conte précis) |  |
+| La Vie est ailleurs | FAUX | Quand la mère du poète se demandait où le poète avait été conçu, … | https://excerpts.numilog.com/books/9782070368341.pdf |
