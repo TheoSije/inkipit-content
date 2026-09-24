@@ -354,7 +354,7 @@
     "year": "1984",
     "author": "L'Amant — Marguerite Duras, 1984",
     "cover": "https://covers.openlibrary.org/b/id/3132655-L.jpg",
-    "author_pic": "https://media.lesechos.com/api/v1/images/view/606f8dde8fe56f7dd55c94f7/1280x720/061763504237-web-tete.jpg",
+    "author_pic": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Identite-Duras-1960-Sacem.png/500px-Identite-Duras-1960-Sacem.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "bio": "Marguerite Duras — nom de plume de Marguerite Donnadieu — est une écrivaine, dramaturge, scénariste et réalisatrice française, née le 4 avril 1914 à Gia Định près de Saïgon, alors en Indochine française, et morte le 3 mars 1996 à Paris.",
     "description": "The Lover is an autobiographical novel by Marguerite Duras, published in 1984 by Les Éditions de Minuit. It has been translated into 43 languages and was awarded the 1984 Prix Goncourt. It was adapted to film in 1992 as The Lover.",
     "emojis": [
@@ -372,7 +372,8 @@
     ],
     "source": null,
     "verified": false,
-    "flag": "description en anglais"
+    "flag": "description en anglais",
+    "author_qid": "Q153248"
   },
   {
     "text": "Le 24 février 1815, la vigie de Notre-Dame de la Garde signala le trois-mâts le Pharaon, venant de Smyrne, Trieste et Naples.",
@@ -381,7 +382,7 @@
     "year": "1844",
     "author": "Le Comte de Monte-Cristo — Alexandre Dumas, 1844",
     "cover": "https://covers.openlibrary.org/b/id/14566393-L.jpg",
-    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Alexandre_Dumas.jpg",
+    "author_pic": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Alexander_Dumas_p%C3%A8re_par_Nadar_-_Google_Art_Project.jpg/500px-Alexander_Dumas_p%C3%A8re_par_Nadar_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "bio": "Alexandre Dumas est un écrivain français né le 24 juillet 1802 à Villers-Cotterêts (Aisne) et mort le 5 décembre 1870 au hameau de Puys, ancienne commune de Neuville-lès-Dieppe, aujourd'hui intégrée à Dieppe (Seine-Maritime).",
     "description": "Le Comte de Monte-Cristo est un roman d'Alexandre Dumas, écrit avec la collaboration d'Auguste Maquet et dont la publication commence pendant l'été 1844. Il est partiellement inspiré du récit d'un fait divers, « Le Diamant et la Vengeance », publié en 1838 dans les Mémoires tirés des archives de la police, mémoires apocryphes rédigés en large partie par l'écrivain Étienne-Léon de Lamothe-Langon à partir des notes de Jacques Peuchet, archiviste de la préfecture de police.",
     "emojis": [
@@ -398,7 +399,8 @@
       "du fond de la mer Rouge."
     ],
     "source": null,
-    "verified": false
+    "verified": false,
+    "author_qid": "Q38337"
   },
   {
     "text": "Jadis, si je me souviens bien, ma vie était un festin où s'ouvraient tous les cœurs, où tous les vins coulaient.",
@@ -407,7 +409,7 @@
     "year": "1873",
     "author": "Une Saison en enfer — Arthur Rimbaud, 1873",
     "cover": "https://covers.openlibrary.org/b/id/418069-L.jpg",
-    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Arthur_Rimbaud.jpg",
+    "author_pic": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Rimbaud.PNG/500px-Rimbaud.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "bio": "Jean-Nicolas-Arthur Rimbaud, dit Arthur Rimbaud, est un poète français, né le 20 octobre 1854 à Charleville et mort le 10 novembre 1891 à Marseille. Bien que brève, son œuvre poétique est caractérisée par une prodigieuse densité thématique et stylistique, faisant de lui une des grandes figures de la littérature française.",
     "description": "Une saison en enfer est un poème en prose d'Arthur Rimbaud, publié à compte d'auteur en octobre 1873 à l'Alliance typographique, imprimeur-éditeur, 37 rue aux Choux, à Bruxelles (Belgique).",
     "emojis": [
@@ -424,7 +426,8 @@
       "où les langues se déliaient."
     ],
     "source": null,
-    "verified": false
+    "verified": false,
+    "author_qid": "Q493"
   },
   {
     "text": "Lolita, lumière de ma vie, feu de mes reins.",
@@ -4658,7 +4661,7 @@
     "year": "1844",
     "author": "Les Trois Mousquetaires — Alexandre Dumas, 1844",
     "cover": "https://covers.openlibrary.org/b/title/Les%20Trois%20Mousquetaires-M.jpg",
-    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Alexandre_Dumas.jpg",
+    "author_pic": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Alexander_Dumas_p%C3%A8re_par_Nadar_-_Google_Art_Project.jpg/500px-Alexander_Dumas_p%C3%A8re_par_Nadar_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "bio": "Romancier et dramaturge français (1802–1870), auteur des Trois Mousquetaires et du Comte de Monte-Cristo, parmi les romans d'aventures les plus lus au monde. Il collaborait avec de nombreux co-auteurs dans un atelier productif.",
     "description": "D'Artagnan arrive à Paris et se lie d'amitié avec les trois mousquetaires pour défendre la reine contre les intrigues du Cardinal de Richelieu. Roman d'aventures porté par le fameux « Tous pour un, un pour tous ». L'un des romans les plus lus au monde.",
     "emojis": [
@@ -4675,7 +4678,8 @@
       "eussent mené une nouvelle guerre."
     ],
     "source": null,
-    "verified": false
+    "verified": false,
+    "author_qid": "Q38337"
   },
   {
     "text": "J'avais toujours soupçonné les géographes de ne savoir ce qu'ils disent lorsqu'ils placent le champ de bataille de Munda dans le pays des Bastuli-Pœni, près de la moderne Monda, à quelque deux lieues au nord de Marbella.",
@@ -4972,7 +4976,7 @@
     "year": "1870",
     "author": "Le Dormeur du val — Arthur Rimbaud, 1870",
     "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Photo_manuscrit_Le_dormeur_du_Val.JPG/500px-Photo_manuscrit_Le_dormeur_du_Val.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Arthur_Rimbaud.jpg",
+    "author_pic": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Rimbaud.PNG/500px-Rimbaud.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "bio": "Poète français (1854–1891), génie précoce qui révolutionna la poésie avant d'y renoncer à 21 ans pour devenir commerçant en Afrique. Une Saison en enfer et Les Illuminations ont ouvert la voie au symbolisme et au surréalisme.",
     "description": "Sonnet de Rimbaud décrivant un jeune soldat allongé dans la nature, bouche ouverte, en apparence endormi. Les deux derniers mots — « deux trous rouges » — révèlent brutalement qu'il est mort. Un des poèmes les plus efficaces de la littérature française sur l'horreur de la guerre.",
     "emojis": [
@@ -4989,7 +4993,8 @@
       "branches des éclats de soleil."
     ],
     "source": null,
-    "verified": false
+    "verified": false,
+    "author_qid": "Q493"
   },
   {
     "text": "Monsieur Phileas Fogg demeurait, en 1872, au no 7 de Saville-row, Burlington Gardens, la maison dans laquelle Sheridan mourut en 1814.",
@@ -5341,7 +5346,7 @@
     "year": "1886",
     "author": "Les Illuminations — Arthur Rimbaud, 1886",
     "cover": "https://covers.openlibrary.org/b/id/2149519-L.jpg?default=false",
-    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Arthur_Rimbaud.jpg",
+    "author_pic": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Rimbaud.PNG/500px-Rimbaud.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "bio": "Poète français (1854–1891), génie précoce qui révolutionna la poésie avant d'y renoncer à 21 ans pour devenir commerçant en Afrique. Une Saison en enfer et Les Illuminations ont ouvert la voie au symbolisme et au surréalisme.",
     "description": "Recueil de poèmes en prose de Rimbaud, publié à titre posthume par Verlaine. Les textes fragmentaires et hallucinés décrivent des visions, des métamorphoses et des paysages impossibles dans une langue d'une modernité absolue. Texte fondateur du symbolisme et de toute la poésie du XXe siècle.",
     "emojis": [
@@ -5358,7 +5363,8 @@
       "saisi par le vertige."
     ],
     "source": null,
-    "verified": false
+    "verified": false,
+    "author_qid": "Q493"
   },
   {
     "text": "Claude, qui avait passé la nuit sur une banquette de la gare de Lyon, à attendre le premier train de Plassans, se retrouva sur le trottoir de la rue de Lyon, dans les ténèbres froides de novembre.",
@@ -6828,7 +6834,7 @@
     "year": "1958",
     "author": "Moderato Cantabile — Marguerite Duras, 1958",
     "cover": "https://covers.openlibrary.org/b/title/Moderato%20Cantabile-M.jpg",
-    "author_pic": "https://media.lesechos.com/api/v1/images/view/606f8dde8fe56f7dd55c94f7/1280x720/061763504237-web-tete.jpg",
+    "author_pic": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Identite-Duras-1960-Sacem.png/500px-Identite-Duras-1960-Sacem.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "bio": "Romancière et cinéaste française (1914–1996), auteure de Moderato Cantabile, Hiroshima mon amour et L'Amant (Prix Goncourt 1984). Sa prose épurée et répétitive a créé un style unique, entre le roman et la poésie.",
     "description": "Une femme bourgeoise revient plusieurs soirs dans un café populaire pour reconstituer avec un ouvrier les circonstances d'un crime passionnel. Duras crée une tension érotique et sociale dans l'espace entre les mots. Roman d'une économie absolue.",
     "emojis": [
@@ -6845,7 +6851,8 @@
       "mur, demanda la directrice."
     ],
     "source": null,
-    "verified": false
+    "verified": false,
+    "author_qid": "Q153248"
   },
   {
     "text": "Doukipudonktan, se demanda Gabriel excédé.",
