@@ -158,9 +158,11 @@ Lot principal : entrées ajoutées ensemble (index 98–174 du fichier d'origine
 
 ## Autres constats (pas traités en phase 0)
 
-- **123 couvertures** pointent vers `covers.openlibrary.org/b/title/…` : ce type d'URL n'existe pas
-  chez Open Library (clés acceptées : `id`, `isbn`, `olid`, `oclc`, `lccn`) → image vide probable. À refaire
-  en phase « couvertures » (par ISBN, choix parmi plusieurs candidats).
+- **123 couvertures** pointent vers `covers.openlibrary.org/b/title/…`. *Correction (après vérification
+  dans un vrai navigateur)* : ce type d'adresse n'est pas documenté par Open Library mais **s'affiche
+  le plus souvent correctement** — il n'est donc pas « cassé ». Il reste fragile (recherche par titre :
+  peut tomber sur une autre édition ou un autre livre au titre proche). Le panneau « 🖼 Images » de
+  l'admin ne liste par défaut que les couvertures réellement cassées, testées dans le navigateur.
 - Les bios / descriptions du lot ajouté en dernier (Balzac, Zola… index ~237–391) sont rédigées sans
   source citée : à garder, mais pas considérées comme « sourcées ».
 - Traductions probablement encore sous droits (Kafka/Vialatte, García Márquez/Durand…) : à sourcer
