@@ -6574,7 +6574,7 @@
     "year": "1950",
     "author": "La Cantatrice chauve — Eugène Ionesco, 1950",
     "cover": "https://covers.openlibrary.org/b/title/La%20Cantatrice%20chauve-M.jpg",
-    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Eug%C3%A8ne_Ionesco.jpg",
+    "author_pic": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Eugene_Ionesco_03.jpg/500px-Eugene_Ionesco_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "bio": "Dramaturge franco-roumain (1909–1994), cofondateur du théâtre de l'absurde avec Beckett. Auteur de La Cantatrice chauve, Les Chaises et Rhinocéros, il dénonce avec humour le langage automatique et la bêtise conformiste.",
     "description": "Deux couples bourgeois anglais échangent des platitudes absurdes dans un salon, dans une pièce sans intrigue ni cantatrice. Ionesco fait exploser le langage automatique et la bêtise conformiste dans un comique désespérant. Première pièce du théâtre de l'absurde, elle est jouée sans interruption au théâtre de la Huchette depuis 1957.",
     "emojis": [
@@ -6591,7 +6591,8 @@
       "est minuit passé."
     ],
     "source": null,
-    "verified": false
+    "verified": false,
+    "author_qid": "Q46706"
   },
   {
     "text": "Rien à faire.",
