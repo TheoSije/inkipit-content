@@ -8029,5 +8029,22 @@
     "bio": "Oscar Wilde /ˈɒskə waɪld/, dont le nom complet est Oscar Fingal O'Flahertie Wills Wilde, né à Dublin le 16 octobre 1854 et mort à Paris le 30 novembre 1900, est un écrivain, romancier, dramaturge et poète irlandais.",
     "author_pic": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated.jpg/500px-Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated.jpg",
     "author_qid": "Q30875"
+  },
+  {
+    "text": "Je suis enfin revenu de mon absence de deux semaines.",
+    "title": "Le Joueur",
+    "author_name": "Fédor Dostoïevski",
+    "year": "1867",
+    "author": "Le Joueur — Fédor Dostoïevski, 1867",
+    "source": {
+      "url": "https://fr.wikisource.org/w/index.php?title=Le_Joueur_(Dosto%C3%AFevski)%2FTexte_entier&oldid=undefined",
+      "edition": "Wikisource",
+      "translator": "Ely Halpérine-Kaminsky"
+    },
+    "verified": true,
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/95/The_Gambler_%28novel%29_1866_first_edition_cover.jpg",
+    "description": "Fiodor Mikhaïlovitch Dostoïevski, né le 11 novembre 1821 à Moscou et mort le 9 février 1881 à Saint-Pétersbourg, est un écrivain russe.",
+    "author_pic": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg/500px-Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg",
+    "author_qid": "Q991"
   }
 ]
