@@ -1,27 +1,6 @@
 {
  "items": [
   {
-   "id": "de-la-democratie-en-amerique-tocqueville",
-   "title": "De la démocratie en Amérique",
-   "author_name": "Alexis de Tocqueville",
-   "year": "1835",
-   "text": "Parmi les objets nouveaux qui, pendant mon séjour aux États-Unis, ont attiré mon attention, aucun n’a plus vivement frappé mes regards que l’égalité des conditions.",
-   "source": {
-    "url": "https://fr.wikisource.org/w/index.php?title=De_la_d%C3%A9mocratie_en_Am%C3%A9rique/%C3%89dition_1848/Tome_1/Introduction&oldid=11234108",
-    "edition": "Pagnerre, 1848 (Wikisource)"
-   },
-   "cover": "https://thinkerbook.org/img/tocqueville-democratie-amerique.jpg",
-   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexis_de_tocqueville_cropped.jpg?width=500",
-   "thinkerbook": {
-    "rank": 3,
-    "count": 6,
-    "url": "https://thinkerbook.org/livre/de-la-democratie-en-amerique",
-    "as_cited": "De la démocratie en Amérique — Alexis de Tocqueville"
-   },
-   "author_qid": "Q140694",
-   "note": "Début de l'introduction (après l'avertissement de l'édition 1848)."
-  },
-  {
    "id": "le-meilleur-des-mondes-huxley",
    "title": "Le meilleur des mondes",
    "author_name": "Aldous Huxley",
