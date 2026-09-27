@@ -1,0 +1,1353 @@
+{
+ "items": [
+  {
+   "id": "le-prince-machiavel",
+   "title": "Le Prince",
+   "author_name": "Nicolas Machiavel",
+   "year": "1532",
+   "text": "Tous les États, toutes les dominations qui ont tenu et tiennent encore les hommes sous leur empire, ont été et sont ou des républiques ou des principautés.",
+   "source": {
+    "url": "https://fr.wikisource.org/w/index.php?title=Le_Prince/Chapitre_1&oldid=13522802",
+    "edition": "Œuvres politiques de Machiavel, Charpentier, 1855 (Wikisource)",
+    "translator": "Jean Vincent Périès"
+   },
+   "cover": "https://thinkerbook.org/img/prince-machiavel.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg?width=500",
+   "thinkerbook": {
+    "rank": 2,
+    "count": 6,
+    "url": "https://thinkerbook.org/livre/le-prince",
+    "as_cited": "Le Prince — Nicolas Machiavel"
+   },
+   "author_qid": "Q1399",
+   "note": "Chapitre I — le livre s'ouvre sur une dédicace à Laurent de Médicis (« Ceux qui ambitionnent d'acquérir les bonnes grâces d'un prince… »)."
+  },
+  {
+   "id": "de-la-democratie-en-amerique-tocqueville",
+   "title": "De la démocratie en Amérique",
+   "author_name": "Alexis de Tocqueville",
+   "year": "1835",
+   "text": "Parmi les objets nouveaux qui, pendant mon séjour aux États-Unis, ont attiré mon attention, aucun n’a plus vivement frappé mes regards que l’égalité des conditions.",
+   "source": {
+    "url": "https://fr.wikisource.org/w/index.php?title=De_la_d%C3%A9mocratie_en_Am%C3%A9rique/%C3%89dition_1848/Tome_1/Introduction&oldid=11234108",
+    "edition": "Pagnerre, 1848 (Wikisource)"
+   },
+   "cover": "https://thinkerbook.org/img/tocqueville-democratie-amerique.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexis_de_tocqueville_cropped.jpg?width=500",
+   "thinkerbook": {
+    "rank": 3,
+    "count": 6,
+    "url": "https://thinkerbook.org/livre/de-la-democratie-en-amerique",
+    "as_cited": "De la démocratie en Amérique — Alexis de Tocqueville"
+   },
+   "author_qid": "Q140694",
+   "note": "Début de l'introduction (après l'avertissement de l'édition 1848)."
+  },
+  {
+   "id": "le-meilleur-des-mondes-huxley",
+   "title": "Le meilleur des mondes",
+   "author_name": "Aldous Huxley",
+   "year": "1932",
+   "text": "Un bâtiment gris et trapu de trente-quatre étages seulement.",
+   "source": {
+    "url": "https://excerpts.numilog.com/books/9782259221269.epub",
+    "edition": "Plon, coll. Feux croisés (extrait éditeur, Numilog)",
+    "isbn": "9782259221269",
+    "translator": "Jules Castier"
+   },
+   "cover": "https://thinkerbook.org/img/le-meilleur-des-mondes-1982d0.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Aldous_Huxley_1947.png?width=500",
+   "thinkerbook": {
+    "rank": 6,
+    "count": 4,
+    "url": "https://thinkerbook.org/livre/le-meilleur-des-mondes",
+    "as_cited": "Le meilleur des mondes — Aldous Huxley"
+   },
+   "author_qid": "Q81447"
+  },
+  {
+   "id": "la-horde-du-contrevent-damasio",
+   "title": "La Horde du Contrevent",
+   "author_name": "Alain Damasio",
+   "year": "2004",
+   "text": "À la cinquième salve, l’onde de choc fractura le fémur d’enceinte et le vent sabla cru le village à travers les jointures béantes du granit.",
+   "source": {
+    "url": "https://excerpts.numilog.com/books/9782952221702.epub",
+    "edition": "La Volte (extrait éditeur, Numilog)",
+    "isbn": "9782952221702"
+   },
+   "cover": "https://thinkerbook.org/img/la-horde-du-contrevent-ac34be.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Alain_Damasio.jpg?width=500",
+   "thinkerbook": {
+    "rank": 10,
+    "count": 4,
+    "url": "https://thinkerbook.org/livre/la-horde-du-contrevent",
+    "as_cited": "La Horde du Contrevent — Alain Damasio"
+   },
+   "author_qid": "Q2829704",
+   "note": "Première phrase du récit (chapitre « XIX Pharéole », pagination à rebours), sans le glyphe « ) » qui désigne le narrateur Sov. Le livre s'ouvre avant sur un prologue : « À l'origine fut la vitesse, le pur mouvement furtif, le « vent-foudre ». »"
+  },
+  {
+   "id": "crepuscule-branco",
+   "title": "Crépuscule",
+   "author_name": "Juan Branco",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/crepuscule-0606e4.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Juan_Branco_Pick.jpg?width=500",
+   "thinkerbook": {
+    "rank": 12,
+    "count": 4,
+    "url": "https://thinkerbook.org/livre/crepuscule",
+    "as_cited": "Crépuscule — Juan Branco"
+   },
+   "author_qid": "Q21890311"
+  },
+  {
+   "id": "memoires-saint-simon",
+   "title": "Mémoires",
+   "author_name": "Saint-Simon",
+   "year": "",
+   "text": "Je suis né la nuit du 15 au 16 janvier 1675, de Claude, duc de Saint-Simon, pair de France, et de sa seconde femme Charlotte de L’Aubépine, unique de ce lit.",
+   "source": {
+    "url": "https://fr.wikisource.org/w/index.php?title=M%C3%A9moires_%28Saint-Simon%29/Tome_1/1&oldid=3205916",
+    "edition": "Mémoires, tome 1 (Wikisource)"
+   },
+   "cover": "https://thinkerbook.org/img/thinkerbooks/memoires-14dc19.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Mouthe%2C_statue_de_Saint-Simon_de_Cr%C3%A9py.jpg?width=500",
+   "thinkerbook": {
+    "rank": 14,
+    "count": 3,
+    "url": "https://thinkerbook.org/livre/memoires",
+    "as_cited": "Mémoires — Saint Simon"
+   },
+   "author_qid": "Q176550",
+   "note": "Premier chapitre — précédé d'une « Introduction de l'auteur » (« L'histoire a été dans tous les siècles une étude si recommandée… »). Orthographe d'époque (avoit, étoit)."
+  },
+  {
+   "id": "de-l-inegalite-parmi-les-societes-diamond",
+   "title": "De l'inégalité parmi les sociétés",
+   "author_name": "Jared Diamond",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/de-l-inegalite-parmi-les-societes-015ba4.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Jared_diamond.jpg?width=500",
+   "thinkerbook": {
+    "rank": 16,
+    "count": 3,
+    "url": "https://thinkerbook.org/livre/de-l-inegalite-parmi-les-societes",
+    "as_cited": "De l'inégalité parmi les sociétés — Jared Diamond"
+   },
+   "author_qid": "Q205772"
+  },
+  {
+   "id": "le-divan-hafez",
+   "title": "Le Divân",
+   "author_name": "Hafez",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/thinkerbooks/poemes-588be8.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Anselm_Feuerbach_Hafis_vor_der_Schenke_%28cropped%29.jpg?width=500",
+   "thinkerbook": {
+    "rank": 17,
+    "count": 3,
+    "url": "https://thinkerbook.org/livre/poemes",
+    "as_cited": "Poèmes — Hafez: Le Divân de Hafez"
+   },
+   "author_qid": "Q6240"
+  },
+  {
+   "id": "la-ferme-des-animaux-orwell",
+   "title": "La ferme des animaux",
+   "author_name": "George Orwell",
+   "year": "1945",
+   "text": "Mr. Jones, de la Ferme du manoir, avait poussé le loquet des poulaillers pour la nuit, mais il était trop ivre pour penser à fermer les trappes.",
+   "source": {
+    "url": "https://excerpts.numilog.com/books/9782072921414.epub",
+    "edition": "Gallimard, 2020 (extrait éditeur, Numilog)",
+    "isbn": "9782072921414",
+    "translator": "Philippe Jaworski"
+   },
+   "cover": "https://thinkerbook.org/img/orwell-ferme-animaux.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/George_Orwell%2C_c._1940_%2841928180381%29.jpg?width=500",
+   "thinkerbook": {
+    "rank": 18,
+    "count": 3,
+    "url": "https://thinkerbook.org/livre/la-ferme-des-animaux",
+    "as_cited": "La ferme des animaux — George Orwell"
+   },
+   "author_qid": "Q3335"
+  },
+  {
+   "id": "lettres-a-un-jeune-poete-rilke",
+   "title": "Lettres à un jeune poète",
+   "author_name": "Rainer Maria Rilke",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/lettres-a-un-jeune-poete-4ca48b.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Rainer_Maria_Rilke_1900.jpg?width=500",
+   "thinkerbook": {
+    "rank": 19,
+    "count": 3,
+    "url": "https://thinkerbook.org/livre/lettres-a-un-jeune-poete",
+    "as_cited": "Lettres à un jeune poète — Rainer Maria Rilke"
+   },
+   "author_qid": "Q76483"
+  },
+  {
+   "id": "le-grand-echiquier-brzezinski",
+   "title": "Le Grand Échiquier",
+   "author_name": "Zbigniew Brzezinski",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/le-grand-echiquier-l-amerique-et-le-reste-du-monde-c328bb.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 21,
+    "count": 3,
+    "url": "https://thinkerbook.org/livre/le-grand-echiquier-l-amerique-et-le-reste-du-monde",
+    "as_cited": "Le grand échiquier: L'Amérique et le reste du monde — Zbigniew Brzezinski"
+   }
+  },
+  {
+   "id": "l-homme-revolte-camus",
+   "title": "L'Homme révolté",
+   "author_name": "Albert Camus",
+   "year": "1951",
+   "text": "Il y a des crimes de passion et des crimes de logique.",
+   "source": {
+    "url": "https://excerpts.numilog.com/books/9782070323029.epub",
+    "edition": "Gallimard, Folio essais (extrait éditeur, Numilog)",
+    "isbn": "9782070323029"
+   },
+   "cover": "https://thinkerbook.org/img/l-homme-revolte-ca824d.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 22,
+    "count": 3,
+    "url": "",
+    "as_cited": "L'homme révolté — Albert Camus"
+   },
+   "note": "Introduction."
+  },
+  {
+   "id": "le-monde-d-hier-zweig",
+   "title": "Le Monde d'hier",
+   "author_name": "Stefan Zweig",
+   "year": "1942",
+   "text": "Je n’ai jamais attribué tant d’importance à ma personne que j’eusse éprouvé la tentation de raconter à d’autres les petites histoires de ma vie.",
+   "source": {
+    "url": "https://excerpts.numilog.com/books/9782714429599.epub",
+    "edition": "Belfond (extrait éditeur, Numilog)",
+    "isbn": "9782714429599"
+   },
+   "cover": "https://thinkerbook.org/img/le-monde-d-hier-souvenirs-d-un-europeen-dc2af0.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 24,
+    "count": 3,
+    "url": "https://thinkerbook.org/livre/le-monde-d-hier-souvenirs-d-un-europeen",
+    "as_cited": "Le Monde d'hier, souvenirs d'un Européen — Stefan Zweig"
+   },
+   "note": "Préface de l'auteur. Traducteur de cette édition à renseigner."
+  },
+  {
+   "id": "l-ancien-regime-et-la-revolution-tocqueville",
+   "title": "L'Ancien régime et la Révolution",
+   "author_name": "Alexis de Tocqueville",
+   "year": "1856",
+   "text": "Le livre que je publie en ce moment n’est point une histoire de la Révolution, histoire qui a été faite avec trop d’éclat pour que je songe à la refaire ; c’est une étude sur cette révolution.",
+   "source": {
+    "url": "https://fr.wikisource.org/w/index.php?title=L%E2%80%99Ancien_R%C3%A9gime_et_la_R%C3%A9volution/Avant-propos&oldid=6233465",
+    "edition": "Wikisource"
+   },
+   "cover": "https://thinkerbook.org/img/l-ancien-regime-et-la-revolution-e1f256.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexis_de_tocqueville_cropped.jpg?width=500",
+   "thinkerbook": {
+    "rank": 25,
+    "count": 3,
+    "url": "https://thinkerbook.org/livre/l-ancien-regime-et-la-revolution",
+    "as_cited": "L'Ancien régime et la Révolution — Alexis de Tocqueville"
+   },
+   "author_qid": "Q140694",
+   "note": "Avant-propos."
+  },
+  {
+   "id": "le-premier-homme-camus",
+   "title": "Le premier homme",
+   "author_name": "Albert Camus",
+   "year": "1994",
+   "text": "Au-dessus de la carriole qui roulait sur une route caillouteuse, de gros et épais nuages filaient vers l'est dans le crépuscule.",
+   "source": {
+    "url": "https://excerpts.numilog.com/books/9782070401017.epub",
+    "edition": "Gallimard, Folio (extrait éditeur, Numilog)",
+    "isbn": "9782070401017"
+   },
+   "cover": "https://thinkerbook.org/img/le-premier-homme-f6479c.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg?width=500",
+   "thinkerbook": {
+    "rank": 26,
+    "count": 3,
+    "url": "https://thinkerbook.org/livre/le-premier-homme",
+    "as_cited": "Le premier homme — Albert Camus"
+   },
+   "author_qid": "Q34670",
+   "note": "Après la note de l'éditeur et la dédicace. Phrase longue : on peut couper après « …filaient vers l'est dans le crépuscule. »"
+  },
+  {
+   "id": "eichmann-a-jerusalem-arendt",
+   "title": "Eichmann à Jérusalem",
+   "author_name": "Hannah Arendt",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/hannah-arendt-bf1f4b.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Hannah_Arendt_1975_%28cropped%29.jpg?width=500",
+   "thinkerbook": {
+    "rank": 27,
+    "count": 3,
+    "url": "https://thinkerbook.org/livre/hannah-arendt",
+    "as_cited": "Hannah Arendt — Eichmann à Jérusalem"
+   },
+   "author_qid": "Q60025"
+  },
+  {
+   "id": "sapiens-harari",
+   "title": "Sapiens",
+   "author_name": "Yuval Noah Harari",
+   "year": "2011",
+   "text": "Il y a environ 13,5 milliards d’années, la matière, l’énergie, le temps et l’espace apparaissaient à l’occasion du Big Bang.",
+   "source": {
+    "url": "https://excerpts.numilog.com/books/9782226257017.epub",
+    "edition": "Albin Michel (extrait éditeur, Numilog)",
+    "isbn": "9782226257017"
+   },
+   "cover": "https://thinkerbook.org/img/sapiens-une-breve-histoire-de-l-humanite-8d9dd3.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/MKr364751_Yuval_Noah_Harari_%28Frankfurter_Buchmesse_2024%29.jpg?width=500",
+   "thinkerbook": {
+    "rank": 29,
+    "count": 3,
+    "url": "https://thinkerbook.org/livre/sapiens-une-breve-histoire-de-l-humanite",
+    "as_cited": "Sapiens : Une brève histoire de l'humanité — Yuval Noah Harari"
+   },
+   "author_qid": "Q2484404",
+   "note": "Chapitre 1 « Un animal insignifiant ». Traducteur de l'édition française à renseigner."
+  },
+  {
+   "id": "la-fin-de-l-homme-rouge-alexievitch",
+   "title": "La Fin de l'homme rouge",
+   "author_name": "Svetlana Alexievitch",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/la-fin-de-l-homme-rouge-b3aae3.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 31,
+    "count": 3,
+    "url": "https://thinkerbook.org/livre/la-fin-de-l-homme-rouge",
+    "as_cited": "La Fin de l'homme rouge — Svetlana Alexievitch"
+   }
+  },
+  {
+   "id": "les-furtifs-damasio",
+   "title": "Les Furtifs",
+   "author_name": "Alain Damasio",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/les-furtifs-1a13d2.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 32,
+    "count": 3,
+    "url": "https://thinkerbook.org/livre/les-furtifs",
+    "as_cited": "Les Furtifs — Alain Damasio"
+   }
+  },
+  {
+   "id": "le-mage-du-kremlin-empoli",
+   "title": "Le mage du Kremlin",
+   "author_name": "Giuliano da Empoli",
+   "year": "2022",
+   "text": "On disait depuis longtemps les choses les plus diverses sur son compte.",
+   "source": {
+    "url": "https://excerpts.numilog.com/books/9782073003911.epub",
+    "edition": "Gallimard (extrait éditeur, Numilog)",
+    "isbn": "9782073003911"
+   },
+   "cover": "https://thinkerbook.org/img/le-mage-du-kremlin-1096b0.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 33,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/le-mage-du-kremlin",
+    "as_cited": "Le mage du Kremlin — Giuliano da Empoli"
+   }
+  },
+  {
+   "id": "le-fil-de-l-epee-gaulle",
+   "title": "Le fil de l'épée",
+   "author_name": "Charles de Gaulle",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/le-fil-de-l-epee-0c711b.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 34,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/le-fil-de-l-epee",
+    "as_cited": "Le fil de l'épée — Charles de Gaulle"
+   }
+  },
+  {
+   "id": "bitcoin-la-monnaie-acephale-favier",
+   "title": "Bitcoin, la monnaie acéphale",
+   "author_name": "Jacques Favier et Adli Takkal Bataille",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/bitcoin-la-monnaie-acephale-bataille-3532.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 35,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/bitcoin-la-monnaie-acephale",
+    "as_cited": "Bitcoin, la monnaie acéphale — Jacques Favier , Adli Takkal Bataille"
+   }
+  },
+  {
+   "id": "la-face-cachee-du-petrole-barberis",
+   "title": "La face cachée du pétrole",
+   "author_name": "Patrick Barbéris",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/la-face-cachee-du-petrole-barberis-146b.png",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrick_Barb%C3%A9ris_WIKIPEDIA.jpg?width=500",
+   "thinkerbook": {
+    "rank": 36,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/la-face-cachee-du-petrole",
+    "as_cited": "La face cachée du pétrole — Patrick Barbéris"
+   },
+   "author_qid": "Q15971022"
+  },
+  {
+   "id": "sur-la-television-bourdieu",
+   "title": "Sur la télévision",
+   "author_name": "Pierre Bourdieu",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/sur-la-television-5acd8d.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre_Bourdieu_%281%29.jpg?width=500",
+   "thinkerbook": {
+    "rank": 37,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/sur-la-television",
+    "as_cited": "Sur la télévision — Pierre Bourdieu"
+   },
+   "author_qid": "Q156268"
+  },
+  {
+   "id": "le-peuple-contre-la-democratie-mounk",
+   "title": "Le Peuple contre la démocratie",
+   "author_name": "Yascha Mounk",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/Le-Peuple-contre-la-democratie.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Yascha_Mounk_-_2016.jpg?width=500",
+   "thinkerbook": {
+    "rank": 38,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/le-peuple-contre-la-democratie",
+    "as_cited": "Le Peuple contre la démocratie — Yascha Mounk"
+   },
+   "author_qid": "Q20967205"
+  },
+  {
+   "id": "martin-eden-london",
+   "title": "Martin Eden",
+   "author_name": "Jack London",
+   "year": "1909",
+   "text": "Le type mit une clef dans la serrure et entra, suivi d’un jeune gars qui ôta sa casquette d’un geste gauche.",
+   "source": {
+    "url": "https://excerpts.numilog.com/books/9782070793983.epub",
+    "edition": "Gallimard (extrait éditeur, Numilog)",
+    "isbn": "9782070793983"
+   },
+   "cover": "https://thinkerbook.org/img/martin-eden-jack-london.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack_London_young.jpg?width=500",
+   "thinkerbook": {
+    "rank": 40,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/martin-eden",
+    "as_cited": "Martin Eden — Jack London"
+   },
+   "author_qid": "Q45765",
+   "note": "Chapitre I (après préface et épigraphe). Traduction dérivée de la Pléiade : traducteur à renseigner."
+  },
+  {
+   "id": "avril-brise-kadare",
+   "title": "Avril brisé",
+   "author_name": "Ismaïl Kadaré",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/avril-brise-e6da41.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Ismail_Kadare_%28portret%29.jpg?width=500",
+   "thinkerbook": {
+    "rank": 41,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/avril-brise",
+    "as_cited": "Avril brisé — Ismaïl Kadaré"
+   },
+   "author_qid": "Q179695"
+  },
+  {
+   "id": "la-comedie-humaine-balzac",
+   "title": "La comédie humaine",
+   "author_name": "Honoré de Balzac",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/la-comedie-humaine-330061.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 42,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/la-comedie-humaine",
+    "as_cited": "La comédie humaine — Honoré de Balzac"
+   }
+  },
+  {
+   "id": "l-art-de-la-guerre-tzu",
+   "title": "L'art de la guerre",
+   "author_name": "Sun Tzu",
+   "year": "",
+   "text": "Sun Tzu dit : La guerre est d’une importance vitale pour l’État.",
+   "source": {
+    "url": "https://fr.wikisource.org/w/index.php?title=L%E2%80%99Art_de_la_guerre&oldid=15196475",
+    "edition": "Mille et une nuits, 1996 (Wikisource)",
+    "translator": "Joseph-Marie Amiot"
+   },
+   "cover": "https://thinkerbook.org/img/l-art-de-la-guerre-c99b8b.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 43,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/l-art-de-la-guerre",
+    "as_cited": "L'art de la guerre — Sun Tzu"
+   },
+   "note": "Année : texte antique, laisser vide ou mettre la date de la traduction (1772)."
+  },
+  {
+   "id": "de-la-guerre-clausewitz",
+   "title": "De la guerre",
+   "author_name": "Carl von Clausewitz",
+   "year": "1832",
+   "text": "Nous nous proposons d’examiner d’abord la guerre dans chacun de ses éléments, puis dans chacune de ses parties, et enfin dans son entier c’est-à-dire dans la connexion que ces parties ont entre elles.",
+   "source": {
+    "url": "https://fr.wikisource.org/w/index.php?title=Th%C3%A9orie_de_la_grande_guerre/Livre_I/Chapitre_1&oldid=11836067",
+    "edition": "Théorie de la grande guerre, L. Baudoin, 1886 (Wikisource)",
+    "translator": "Marc-Joseph-Edgar Bourdon de Vatry"
+   },
+   "cover": "https://thinkerbook.org/img/de-la-guerre-clausewitz.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 44,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/de-la-guerre",
+    "as_cited": "De la guerre — Carl von Clausewitz"
+   },
+   "note": "Cette traduction s'intitule « Théorie de la grande guerre »."
+  },
+  {
+   "id": "les-androides-revent-ils-de-moutons-electriques-dick",
+   "title": "Les androïdes rêvent-ils de moutons électriques ?",
+   "author_name": "Philip K. Dick",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/blade-runner-686313.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Philip_K_Dick_in_early_1960s_%28photo_by_Arthur_Knight%29_%28cropped%29.jpg?width=500",
+   "thinkerbook": {
+    "rank": 45,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/blade-runner",
+    "as_cited": "Blade runner — Philip K. Dick"
+   },
+   "author_qid": "Q171091"
+  },
+  {
+   "id": "les-illusionnistes-woessner",
+   "title": "Les Illusionnistes",
+   "author_name": "Géraldine Woessner et Erwan Seznec",
+   "year": "2024",
+   "text": "Il y a une grande différence entre risque et danger.",
+   "source": {
+    "url": "https://excerpts.numilog.com/books/9782221274491.epub",
+    "edition": "Robert Laffont (extrait éditeur, Numilog)",
+    "isbn": "9782221274491"
+   },
+   "cover": "https://thinkerbook.org/img/les-illusionnistes-927359.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 46,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/les-illusionnistes",
+    "as_cited": "Les illusionnistes — Climat, agriculture, nucléaire, OGM : l'enquête inédite sur les dérives de l'écologie politique - Géraldine Woessner & Erwan Seznec"
+   },
+   "note": "Introduction."
+  },
+  {
+   "id": "l-etrange-defaite-bloch",
+   "title": "L'étrange défaite",
+   "author_name": "Marc Bloch",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/l-etrange-defaite-10d496.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 48,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/l-etrange-defaite",
+    "as_cited": "L'étrange défaite — Marc Bloch"
+   }
+  },
+  {
+   "id": "saint-germain-ou-la-negociation-walder",
+   "title": "Saint-Germain ou la Négociation",
+   "author_name": "Francis Walder",
+   "year": "1958",
+   "text": "La vérité n'est pas le contraire du mensonge, trahir n'est pas le contraire de servir, haïr n'est pas le contraire d'aimer, confiance n'est pas le contraire de méfiance, ni droiture de fausseté.",
+   "source": {
+    "url": "https://excerpts.numilog.com/books/9782070384785.epub",
+    "edition": "Gallimard (extrait éditeur, Numilog)",
+    "isbn": "9782070384785"
+   },
+   "cover": "https://thinkerbook.org/img/saint-germain-ou-la-negociation-02fa1f.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 49,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/saint-germain-ou-la-negociation",
+    "as_cited": "Saint-Germain ou la Négociation — Francis Walder"
+   },
+   "note": "Chapitre I (après l'avertissement de l'auteur)."
+  },
+  {
+   "id": "vie-et-destin-grossman",
+   "title": "Vie et destin",
+   "author_name": "Vassili Grossman",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/vie-et-destin-e9e60d.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Grossman_V.S.jpg?width=500",
+   "thinkerbook": {
+    "rank": 50,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/vie-et-destin",
+    "as_cited": "Vie et destin — Vassili Grossman"
+   },
+   "author_qid": "Q313767"
+  },
+  {
+   "id": "propaganda-bernays",
+   "title": "Propaganda",
+   "author_name": "Edward Bernays",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/propaganda-c5bc85.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 51,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/propaganda",
+    "as_cited": "Propaganda — Edward Bernays"
+   }
+  },
+  {
+   "id": "la-bible",
+   "title": "La Bible",
+   "author_name": "",
+   "year": "",
+   "text": "Au commencement, Dieu créa les cieux et la terre.",
+   "source": {
+    "url": "https://fr.wikisource.org/w/index.php?title=Bible_Segond_1910/Gen%C3%A8se&oldid=14583257",
+    "edition": "Bible Segond 1910 (Wikisource)",
+    "translator": "Louis Segond"
+   },
+   "cover": "https://thinkerbook.org/img/la-bible-8b2176.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 52,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/la-bible",
+    "as_cited": "La Bible — "
+   },
+   "note": "Genèse 1:1 — auteur vide : l'admin exige un auteur, à décider (« Anonyme » ?)."
+  },
+  {
+   "id": "theorie-generale-de-l-emploi-de-l-interet-et-de-la-monnaie-keynes",
+   "title": "Théorie générale de l'emploi, de l'intérêt et de la monnaie",
+   "author_name": "John Maynard Keynes",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/theorie-generale-de-l-emploi-de-l-interet-et-de-la-monnaie-f35e9f.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 53,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/theorie-generale-de-l-emploi-de-l-interet-et-de-la-monnaie",
+    "as_cited": "Théorie générale de l'emploi, de l'intérêt et de la monnaie — John Maynard Keynes"
+   }
+  },
+  {
+   "id": "de-la-chine-kissinger",
+   "title": "De la Chine",
+   "author_name": "Henry Kissinger",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/de-la-chine-4e87a9.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 54,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/de-la-chine",
+    "as_cited": "De la Chine — Henry Kissinger"
+   }
+  },
+  {
+   "id": "l-energie-face-cachee-de-la-monnaie-noizat",
+   "title": "L'Énergie, face cachée de la monnaie",
+   "author_name": "Pierre Noizat et Édouard Gallego",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/lenergie-face-cachee-de-la-monnaie-67744e.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 55,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/l-energie-face-cachee-de-la-monnaie",
+    "as_cited": "L’énergie, face cachée de la monnaie — Pierre Noizat et Edouard Gallego"
+   }
+  },
+  {
+   "id": "l-archipel-francais-fourquet",
+   "title": "L'archipel français",
+   "author_name": "Jérôme Fourquet",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/l-archipel-francais-bf15cf.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/J%C3%A9r%C3%B4me_Fourquet_au_FIJ_2026_02.jpg?width=500",
+   "thinkerbook": {
+    "rank": 56,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/l-archipel-francais",
+    "as_cited": "L'archipel français — Jérôme Fourquet"
+   },
+   "author_qid": "Q37793137"
+  },
+  {
+   "id": "belle-du-seigneur-cohen",
+   "title": "Belle du seigneur",
+   "author_name": "Albert Cohen",
+   "year": "1968",
+   "text": "Descendu de cheval, il allait le long des noisetiers et des églantiers, suivi des deux chevaux que le valet d'écurie tenait par les rênes, allait dans les craquements du silence, torse nu sous le soleil de midi, allait et souriait, étrange et princier, sûr d'une victoire.",
+   "source": {
+    "url": "https://excerpts.numilog.com/books/9782070404025.epub",
+    "edition": "Gallimard, Folio (extrait éditeur, Numilog)",
+    "isbn": "9782070404025"
+   },
+   "cover": "https://thinkerbook.org/img/belle-du-seigneur-323242.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/AlbertCohen-Lyc%C3%A9e_Thiers_Marseille_1909.jpg?width=500",
+   "thinkerbook": {
+    "rank": 57,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/belle-du-seigneur",
+    "as_cited": "Belle du seigneur — Albert Cohen"
+   },
+   "author_qid": "Q123553",
+   "note": "Phrase longue : on peut couper après la 1re phrase seulement si trop long pour une carte."
+  },
+  {
+   "id": "les-enfants-tanner-walser",
+   "title": "Les enfants Tanner",
+   "author_name": "Robert Walser",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/les-enfants-tanner-64b398.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Walser_%28cropped%29.jpg?width=500",
+   "thinkerbook": {
+    "rank": 58,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/les-enfants-tanner",
+    "as_cited": "Les enfants Tanner — Robert Walser"
+   },
+   "author_qid": "Q123075"
+  },
+  {
+   "id": "les-patrons-de-la-presse-nationale-stern",
+   "title": "Les Patrons de la presse nationale",
+   "author_name": "Jean Stern",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/les-patrons-de-la-presse-nationale-tous-mauvais-06c3de.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/SEM_-_Jean_Stern.jpg?width=500",
+   "thinkerbook": {
+    "rank": 60,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/les-patrons-de-la-presse-nationale-tous-mauvais",
+    "as_cited": "Les patrons de la presse nationale: Tous mauvais — Jean Stern et Olivier Tosas-Giro"
+   },
+   "author_qid": "Q472402"
+  },
+  {
+   "id": "les-nouveaux-chiens-de-garde-halimi",
+   "title": "Les nouveaux chiens de garde",
+   "author_name": "Serge Halimi",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/les-nouveaux-chiens-de-garde-c1d934.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Serge_Halimi_Paris_2010.jpg?width=500",
+   "thinkerbook": {
+    "rank": 61,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/les-nouveaux-chiens-de-garde",
+    "as_cited": "Les nouveaux chiens de garde — Serge Halimi"
+   },
+   "author_qid": "Q3479350"
+  },
+  {
+   "id": "les-apprentis-sorciers-henrion-caude",
+   "title": "Les apprentis sorciers",
+   "author_name": "Alexandra Henrion-Caude",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/les-apprentis-sorciers-732e56.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 62,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/les-apprentis-sorciers",
+    "as_cited": "Les apprentis sorciers — Alexandra Henrion-Caude"
+   }
+  },
+  {
+   "id": "fables-fontaine",
+   "title": "Fables",
+   "author_name": "Jean de La Fontaine",
+   "year": "1668",
+   "text": "La cigale, ayant chanté Tout l’été, Se trouva fort dépourvue Quand la bise fut venue : Pas un seul petit morceau De mouche ou de vermisseau.",
+   "source": {
+    "url": "https://fr.wikisource.org/w/index.php?title=Fables_de_La_Fontaine_%28%C3%A9d._1874%29/La_Cigale_et_la_Fourmi&oldid=13176453",
+    "edition": "Fables, éd. 1874 (Wikisource)"
+   },
+   "cover": "https://thinkerbook.org/img/fables-ae353d.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 63,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/fables",
+    "as_cited": "Fables — Jean de La Fontaine"
+   },
+   "note": "Première fable du livre I ; le recueil s'ouvre sur la dédicace « À Monseigneur le Dauphin ». Vers joints par des espaces (comme Les Fleurs du mal)."
+  },
+  {
+   "id": "un-homme-fallaci",
+   "title": "Un homme",
+   "author_name": "Oriana Fallaci",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/un-homme-3b523a.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 65,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/un-homme",
+    "as_cited": "Un homme — Oriana Fallaci"
+   }
+  },
+  {
+   "id": "l-obsolescence-de-l-homme-anders",
+   "title": "L'obsolescence de l'homme",
+   "author_name": "Günther Anders",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/l-obsolescence-de-l-homme-a00944.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/G%C3%BCnther_Stern_and_Hannah_Arendt_%28cropped%29.jpg?width=500",
+   "thinkerbook": {
+    "rank": 66,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/l-obsolescence-de-l-homme",
+    "as_cited": "L'obsolescence de l'homme — Günther Anders"
+   },
+   "author_qid": "Q60884"
+  },
+  {
+   "id": "l-enfer-numerique-pitron",
+   "title": "L'Enfer numérique",
+   "author_name": "Guillaume Pitron",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/l-enfer-numerique-voyage-au-bout-d-un-like-880264.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Guillaume_Pitron_journalist_%28cropped%29.jpg?width=500",
+   "thinkerbook": {
+    "rank": 67,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/l-enfer-numerique-voyage-au-bout-d-un-like",
+    "as_cited": "L'enfer numérique: Voyage au bout d'un Like — Guillaume Pitron"
+   },
+   "author_qid": "Q63301813"
+  },
+  {
+   "id": "dictionnaire-amoureux-de-la-geopolitique-vedrine",
+   "title": "Dictionnaire amoureux de la géopolitique",
+   "author_name": "Hubert Védrine",
+   "year": "2021",
+   "text": "Dictionnaire « amoureux » de la géopolitique ? Vraiment ?",
+   "source": {
+    "url": "https://excerpts.numilog.com/books/9782259263337.epub",
+    "edition": "Plon (extrait éditeur, Numilog)",
+    "isbn": "9782259263337"
+   },
+   "cover": "https://thinkerbook.org/img/dictionnaire-amoureux-de-la-geopolitique-4329c1.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Hubert_Vedrine_2006_01_06.jpg?width=500",
+   "thinkerbook": {
+    "rank": 68,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/dictionnaire-amoureux-de-la-geopolitique",
+    "as_cited": "Dictionnaire amoureux de la géopolitique — Hubert Védrine"
+   },
+   "author_qid": "Q560682",
+   "note": "Préface."
+  },
+  {
+   "id": "le-secret-de-l-occident-cosandey",
+   "title": "Le Secret de l'Occident",
+   "author_name": "David Cosandey",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/le-secret-de-l-occident-59f8a1.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 70,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/le-secret-de-l-occident",
+    "as_cited": "Le Secret de l'Occident — David Cosandey"
+   }
+  },
+  {
+   "id": "de-gaulle-jackson",
+   "title": "De Gaulle",
+   "author_name": "Julian T. Jackson",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/de-gaulle-f6b33c.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Julian_T._Jackson.jpg?width=500",
+   "thinkerbook": {
+    "rank": 71,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/de-gaulle",
+    "as_cited": "De Gaulle — Julian T. Jackson"
+   },
+   "author_qid": "Q14946865"
+  },
+  {
+   "id": "le-monde-sans-fin-blain",
+   "title": "Le Monde sans fin",
+   "author_name": "Christophe Blain et Jean-Marc Jancovici",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/le-monde-sans-fin-9c152e.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 72,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/le-monde-sans-fin",
+    "as_cited": "Le Monde sans fin — Christophe Blain et Jean-Marc Jancovici"
+   }
+  },
+  {
+   "id": "diplomatie-kissinger",
+   "title": "Diplomatie",
+   "author_name": "Henry Kissinger",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/diplomatie-0ad02a.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 73,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/diplomatie",
+    "as_cited": "Diplomatie — Henry Kissinger"
+   }
+  },
+  {
+   "id": "les-limites-a-la-croissance-meadows",
+   "title": "Les Limites à la croissance",
+   "author_name": "Donella Meadows, Dennis Meadows et Jørgen Randers",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/thinkerbooks/les-limites-a-la-croissance-8b4ce8.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 74,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/les-limites-a-la-croissance",
+    "as_cited": "Les Limites à la croissance — Dennis Meadows, Donella Meadows et Jørgen Randers (la version originale)"
+   }
+  },
+  {
+   "id": "la-societe-ingouvernable-chamayou",
+   "title": "La société ingouvernable",
+   "author_name": "Grégoire Chamayou",
+   "year": "2018",
+   "text": "Ce type de période, on le connaît.",
+   "source": {
+    "url": "https://excerpts.numilog.com/books/9782358721691.epub",
+    "edition": "La Fabrique (extrait éditeur, Numilog)",
+    "isbn": "9782358721691"
+   },
+   "cover": "https://thinkerbook.org/img/la-societe-ingouvernable-585a6a.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 75,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/la-societe-ingouvernable",
+    "as_cited": "La société ingouvernable — Grégoire Chamayou"
+   },
+   "note": "Introduction, après l'épigraphe (définition de « gouvernable »)."
+  },
+  {
+   "id": "perdre-la-terre-rich",
+   "title": "Perdre la Terre",
+   "author_name": "Nathaniel Rich",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/thinkerbooks/perdre-la-terre-064367.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 76,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/perdre-la-terre-une-histoire-de-notre-temps",
+    "as_cited": "Perdre la Terre — Nathaniel Rich"
+   }
+  },
+  {
+   "id": "l-enracinement-weil",
+   "title": "L'Enracinement",
+   "author_name": "Simone Weil",
+   "year": "1949",
+   "text": "La notion d’obligation prime celle de droit, qui lui est subordonnée et relative.",
+   "source": {
+    "url": "https://fr.wikisource.org/w/index.php?title=L%E2%80%99Enracinement/Partie_1&oldid=15707813",
+    "edition": "Gallimard, 1949 (Wikisource)"
+   },
+   "cover": "https://thinkerbook.org/img/l-enracinement-911116.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Simone_Weil_1943.jpg?width=500",
+   "thinkerbook": {
+    "rank": 77,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/l-enracinement",
+    "as_cited": "L'Enracinement — Simone Weil"
+   },
+   "author_qid": "Q157309"
+  },
+  {
+   "id": "le-livre-de-l-intranquillite-pessoa",
+   "title": "Le livre de l'intranquillité",
+   "author_name": "Fernando Pessoa",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/le-livre-de-l-intranquillite-c3eeb5.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/216_2310-Fernando-Pessoa.jpg?width=500",
+   "thinkerbook": {
+    "rank": 78,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/le-livre-de-l-intranquillite",
+    "as_cited": "Le livre de l'intranquillité — Fernando Pessoa"
+   },
+   "author_qid": "Q173481"
+  },
+  {
+   "id": "the-age-of-sustainability-swilling",
+   "title": "The Age of Sustainability",
+   "author_name": "Mark Swilling",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/the-age-of-sustainability-5dc01d.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Mark_Swilling_at_World_Economic_Forum_Growth_Summit_2023.png?width=500",
+   "thinkerbook": {
+    "rank": 79,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/the-age-of-sustainability",
+    "as_cited": "The Age of Sustainability — Just Transitions in a Complex World - Mark Swilling"
+   },
+   "author_qid": "Q115671237"
+  },
+  {
+   "id": "la-fin-de-l-histoire-et-le-dernier-homme-fukuyama",
+   "title": "La Fin de l'histoire et le dernier homme",
+   "author_name": "Francis Fukuyama",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/la-fin-de-l-histoire-et-le-dernier-homme-64a4aa.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Francis_Fukuyama_2015_%28cropped%29.jpg?width=500",
+   "thinkerbook": {
+    "rank": 80,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/la-fin-de-l-histoire-et-le-dernier-homme",
+    "as_cited": "La Fin de l'histoire et le dernier homme — Francis Fukuyama"
+   },
+   "author_qid": "Q186123"
+  },
+  {
+   "id": "discours-de-la-servitude-volontaire-boetie",
+   "title": "Discours de la servitude volontaire",
+   "author_name": "Étienne de La Boétie",
+   "year": "1576",
+   "text": "D’avoir plusieurs seigneurs aucun bien je n’y voi : Qu’un, sans plus, soit le maître et qu’un seul soit le roi, ce disait Ulysse en Homère, parlant en public.",
+   "source": {
+    "url": "https://fr.wikisource.org/w/index.php?title=Discours_de_la_servitude_volontaire/%C3%89dition_1922/Discours&oldid=15966455",
+    "edition": "Édition 1922 (Wikisource)"
+   },
+   "cover": "https://thinkerbook.org/img/discours-de-la-servitude-volontaire-04e930.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 81,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/discours-de-la-servitude-volontaire",
+    "as_cited": "Discours de la servitude volontaire — Étienne de La Boétie"
+   },
+   "note": "Ouvre sur deux vers d'Homère (Iliade) cités par La Boétie."
+  },
+  {
+   "id": "souriez-vous-etes-francais-maris",
+   "title": "Souriez, vous êtes Français !",
+   "author_name": "Bernard Maris",
+   "year": "",
+   "text": "Bonjour à tous, bonjour chers assistés, bonjour les patrons qui prennent des risques et bonjour les rentiers, les planqués, les gens de l’arrière, les salariés, ceux qui ignorent la compétition,",
+   "source": {
+    "url": "https://excerpts.numilog.com/books/9782246861102.epub",
+    "edition": "Grasset / Radio France (extrait éditeur, Numilog)",
+    "isbn": "9782246861102"
+   },
+   "cover": "https://thinkerbook.org/img/souriez-vous-etes-francais-172df4.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 82,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/souriez-vous-etes-francais",
+    "as_cited": "Souriez, vous êtes Français ! — Bernard Maris"
+   },
+   "note": "Ouverture en forme d'adresse ; dans l'extrait le paragraphe finit sur une virgule — vérifier la suite dans le livre."
+  },
+  {
+   "id": "adieu-a-la-croissance-gadrey",
+   "title": "Adieu à la croissance",
+   "author_name": "Jean Gadrey",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/thinkerbooks/adieu-a-la-croissance-7db3c6.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 83,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/adieu-a-la-croissance",
+    "as_cited": "Adieu à la croissance — Jean Gadrey"
+   }
+  },
+  {
+   "id": "algues-vertes-l-histoire-interdite-leraud",
+   "title": "Algues vertes, l'histoire interdite",
+   "author_name": "Inès Léraud",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/algues-vertes-l-histoire-interdite-86bcc6.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Ines_Leraud.jpg?width=500",
+   "thinkerbook": {
+    "rank": 84,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/algues-vertes-l-histoire-interdite",
+    "as_cited": "Algues vertes, l'histoire interdite — Inès Léraud"
+   },
+   "author_qid": "Q44192597"
+  },
+  {
+   "id": "le-rivage-des-syrtes-gracq",
+   "title": "Le Rivage des Syrtes",
+   "author_name": "Julien Gracq",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/le-rivage-des-syrtes-2028d7.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Julien_Gracq_%281951%29_%28cropped%29.jpg?width=500",
+   "thinkerbook": {
+    "rank": 85,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/le-rivage-des-syrtes",
+    "as_cited": "Le Rivage des Syrtes — Julien Gracq"
+   },
+   "author_qid": "Q298051"
+  },
+  {
+   "id": "l-ambigu-monsieur-macron-endeweld",
+   "title": "L'ambigu monsieur Macron",
+   "author_name": "Marc Endeweld",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/thinkerbooks/l-ambigu-monsieur-macron-b21543.jpg",
+   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Marc_Endeweld_2022.png?width=500",
+   "thinkerbook": {
+    "rank": 86,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/l-ambigu-monsieur-macron",
+    "as_cited": "L'ambigu monsieur Macron — Marc Endeweld"
+   },
+   "author_qid": "Q22235015"
+  },
+  {
+   "id": "petit-traite-de-manipulation-a-l-usage-des-honnetes-gens-joule",
+   "title": "Petit traité de manipulation à l'usage des honnêtes gens",
+   "author_name": "Robert-Vincent Joule et Jean-Léon Beauvois",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/petit-traite-de-manipulation-a-l-usage-des-honnetes-gens-7ec336.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 88,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/petit-traite-de-manipulation-a-l-usage-des-honnetes-gens",
+    "as_cited": "Petit traité de manipulation à l'usage des honnêtes gens — Jean-Léon Beauvois et Vincent Joule"
+   }
+  },
+  {
+   "id": "l-opportunite-du-covid-19-rossello",
+   "title": "L'Opportunité du Covid-19",
+   "author_name": "Raphaël Rossello",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/l-opportunite-du-covid-19-979ce5.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 89,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/l-opportunite-du-covid-19",
+    "as_cited": "L'opportunité du Covid 19 — Raphaël Rossello"
+   }
+  },
+  {
+   "id": "la-guerre-hors-limites-liang",
+   "title": "La Guerre hors limites",
+   "author_name": "Qiao Liang et Wang Xiangsui",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/la-guerre-hors-limites-953969.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 90,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/la-guerre-hors-limites",
+    "as_cited": "La Guerre hors limites — Qiao Liang"
+   }
+  },
+  {
+   "id": "eloge-de-la-fuite-laborit",
+   "title": "Éloge de la fuite",
+   "author_name": "Henri Laborit",
+   "year": "",
+   "text": "",
+   "source": null,
+   "cover": "https://thinkerbook.org/img/eloge-de-la-fuite-dc48c4.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 93,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/eloge-de-la-fuite",
+    "as_cited": "Éloge de la fuite — Henri Laborit"
+   }
+  },
+  {
+   "id": "du-contrat-social-rousseau",
+   "title": "Du contrat social",
+   "author_name": "Jean-Jacques Rousseau",
+   "year": "1762",
+   "text": "Je veux chercher si dans l’ordre civil il peut y avoir quelque regle d’administration légitime & sûre, en prenant les hommes tels qu’ils sont, & les loix telles qu’elles peuvent être : Je tâcherai d’allier toujours dans cette recherche ce que le droit permet avec ce que l’intérêt prescrit, afin que la justice & l’utilité ne se trouvent point divisées.",
+   "source": {
+    "url": "https://fr.wikisource.org/w/index.php?title=Du_contrat_social/%C3%89dition_1762/Livre_I/Chapitre_1&oldid=12356709",
+    "edition": "Édition originale 1762 (Wikisource)"
+   },
+   "cover": "https://thinkerbook.org/img/du-contrat-social-5e1106.jpg",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 94,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/du-contrat-social",
+    "as_cited": "Du contrat social — Jean-Jacques Rousseau"
+   },
+   "note": "Orthographe de 1762 (regle, loix, &) — à moderniser depuis l'édition Beaulavon si besoin. La phrase célèbre « L'homme est né libre, et partout il est dans les fers » ouvre le chapitre I, trois paragraphes plus loin."
+  },
+  {
+   "id": "la-caste-mauduit",
+   "title": "La Caste",
+   "author_name": "Laurent Mauduit",
+   "year": "2018",
+   "text": "Au moment où le mouvement de Mai 68 prenait son envol, un philosophe français pointait déjà la menace sur notre démocratie : « Le danger, aujourd’hui, est que la direction des affaires soit accaparée par des oligarchies de compétents, associées […] aux puissances d’argent », écrivait-il à l’occasion d’une préface au livre de Jean Schwœbel, La Presse, le Pouvoir et l’Argent.",
+   "source": {
+    "url": "https://excerpts.numilog.com/books/9782348037702.epub",
+    "edition": "La Découverte (extrait éditeur, Numilog)",
+    "isbn": "9782348037702"
+   },
+   "cover": "",
+   "author_pic": "",
+   "thinkerbook": {
+    "rank": 95,
+    "count": 2,
+    "url": "https://thinkerbook.org/livre/la-caste-enquete-sur-cette-haute-fonction-publique-qui-a-pris-le-pouvoir",
+    "as_cited": "La caste: Enquête sur cette haute fonction publique qui a pris le pouvoir — Laurent Mauduit"
+   },
+   "note": "Introduction. Phrase longue (citation de Paul Ricœur ?) — couper au besoin."
+  }
+ ],
+ "rejected": [],
+ "about": "Livres du Top thinkerbook.org absents d'Inkipit, en attente de validation dans l'admin (panneau ThinkerBook). Généré par thinkerbook/scripts/inkipit_queue.py ; `text` vide = incipit pas encore trouvé dans une source."
+}
