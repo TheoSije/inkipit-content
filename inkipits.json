@@ -8046,5 +8046,33 @@
     "description": "Fiodor Mikhaïlovitch Dostoïevski, né le 11 novembre 1821 à Moscou et mort le 9 février 1881 à Saint-Pétersbourg, est un écrivain russe.",
     "author_pic": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg/500px-Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg",
     "author_qid": "Q991"
+  },
+  {
+    "text": "Sur le grand paquebot qui à minuit devait quitter New York à destination de Buenos-Aires, régnait le va-et-vient habituel du dernier moment.",
+    "title": "Le Joueur d'échecs",
+    "author_name": "Stefan Zweig",
+    "year": "1943",
+    "author": "Le Joueur d'échecs — Stefan Zweig, 1943",
+    "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Woodcut_Schachnovelle_Stefan_Zweig.jpg/500px-Woodcut_Schachnovelle_Stefan_Zweig.jpg",
+    "author_pic": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Zweig_Setzer_1927.jpg/500px-Zweig_Setzer_1927.jpg",
+    "bio": "Stefan Zweig, né le 28 novembre 1881 à Vienne en Autriche-Hongrie et mort le 22 février 1942 à Petrópolis au Brésil, est un écrivain, dramaturge, journaliste et biographe autrichien.",
+    "description": "Sur un paquebot voyageant de New York à Buenos Aires se rencontrent deux joueurs d'échecs que tout sépare : le champion du monde en titre, d'origine modeste et tacticien redoutable, et un aristocrate autrichien qui a survécu à l'isolement d'une prison nazie en rejouant des parties dans sa tête. Dernière œuvre de Stefan Zweig, écrite au Brésil dans les derniers mois de sa vie et publiée à titre posthume.",
+    "emojis": [
+      "♟️",
+      "🚢",
+      "🗽",
+      "🌊",
+      "🧠",
+      "🔒",
+      "⏳"
+    ],
+    "complete_wrongs": [
+      "régnait un silence de cathédrale.",
+      "régnait une odeur de charbon et de pluie."
+    ],
+    "source": null,
+    "verified": false,
+    "flag": "Texte saisi à la main (pas copié d'une édition) : vérifier la traduction et la ponctuation (« Buenos-Aires », virgules) contre une édition française, puis remplir source.",
+    "author_qid": "Q78491"
   }
 ]
