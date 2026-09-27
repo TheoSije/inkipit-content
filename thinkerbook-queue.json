@@ -1,28 +1,6 @@
 {
  "items": [
   {
-   "id": "le-prince-machiavel",
-   "title": "Le Prince",
-   "author_name": "Nicolas Machiavel",
-   "year": "1532",
-   "text": "Tous les États, toutes les dominations qui ont tenu et tiennent encore les hommes sous leur empire, ont été et sont ou des républiques ou des principautés.",
-   "source": {
-    "url": "https://fr.wikisource.org/w/index.php?title=Le_Prince/Chapitre_1&oldid=13522802",
-    "edition": "Œuvres politiques de Machiavel, Charpentier, 1855 (Wikisource)",
-    "translator": "Jean Vincent Périès"
-   },
-   "cover": "https://thinkerbook.org/img/prince-machiavel.jpg",
-   "author_pic": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg?width=500",
-   "thinkerbook": {
-    "rank": 2,
-    "count": 6,
-    "url": "https://thinkerbook.org/livre/le-prince",
-    "as_cited": "Le Prince — Nicolas Machiavel"
-   },
-   "author_qid": "Q1399",
-   "note": "Chapitre I — le livre s'ouvre sur une dédicace à Laurent de Médicis (« Ceux qui ambitionnent d'acquérir les bonnes grâces d'un prince… »)."
-  },
-  {
    "id": "de-la-democratie-en-amerique-tocqueville",
    "title": "De la démocratie en Amérique",
    "author_name": "Alexis de Tocqueville",
