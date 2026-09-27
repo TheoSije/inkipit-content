@@ -8074,5 +8074,23 @@
     "verified": false,
     "flag": "Texte saisi à la main (pas copié d'une édition) : vérifier la traduction et la ponctuation (« Buenos-Aires », virgules) contre une édition française, puis remplir source.",
     "author_qid": "Q78491"
+  },
+  {
+    "text": "Tous les États, toutes les dominations qui ont tenu et tiennent encore les hommes sous leur empire, ont été et sont ou des républiques ou des principautés.",
+    "title": "Le Prince",
+    "author_name": "Nicolas Machiavel",
+    "year": "1532",
+    "author": "Le Prince — Nicolas Machiavel, 1532",
+    "source": {
+      "url": "https://fr.wikisource.org/w/index.php?title=Le_Prince/Chapitre_1&oldid=13522802",
+      "edition": "Œuvres politiques de Machiavel, Charpentier, 1855 (Wikisource)",
+      "translator": "Jean Vincent Périès"
+    },
+    "verified": false,
+    "cover": "https://thinkerbook.org/img/prince-machiavel.jpg",
+    "description": "Nicolas Machiavel est un humaniste italien de la Renaissance né le 3 mai 1469 à Florence et mort dans cette même ville le 21 juin 1527.",
+    "bio": "Nicolas Machiavel est un humaniste italien de la Renaissance né le 3 mai 1469 à Florence et mort dans cette même ville le 21 juin 1527.",
+    "author_pic": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg/500px-Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg",
+    "author_qid": "Q1399"
   }
 ]
