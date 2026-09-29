@@ -4055,7 +4055,7 @@
     "verified": false
   },
   {
-    "text": "Béralde, mon frère, je vous prie de m'écouter.",
+    "text": "Trois et deux font cinq, et cinq font dix, et dix font vingt.",
     "title": "Le Malade imaginaire",
     "author_name": "Molière",
     "year": "1673",
@@ -4078,7 +4078,8 @@
       "aide de me comprendre."
     ],
     "source": null,
-    "verified": false
+    "verified": false,
+    "flag": "texte modifié : revoir complete_wrongs (jeu Complète)"
   },
   {
     "text": "Le dessein en est pris : je pars, cher Théramène.",
