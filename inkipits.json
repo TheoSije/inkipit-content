@@ -8403,5 +8403,19 @@
     "description": "Les Contemplations de Victor Hugo, publié en 1856, est un recueil de 158 poèmes qui se présente comme les « Mémoires d'une âme ».",
     "bio": "Victor Hugo, né le 7 ventôse an X à Besançon et mort le 22 mai 1885 à Paris, est un poète, dramaturge, romancier et dessinateur français associé au romantisme. Il est considéré comme l'un des écrivains de la langue française et de la littérature mondiale les plus importants. Hugo est aussi une personnalité politique et un intellectuel engagé qui a un rôle idéologique majeur et occupe une place marquante dans l'histoire des lettres françaises au XIXe siècle.",
     "author_pic": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg/500px-Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg"
+  },
+  {
+    "text": "La Cigale, ayant chanté Tout l’été, Se trouva fort dépourvue Quand la bise fut venue.",
+    "title": "Fables",
+    "author_name": "Jean de La Fontaine",
+    "year": "1678",
+    "author": "Fables — Jean de La Fontaine, 1678",
+    "source": null,
+    "verified": false,
+    "cover": "https://covers.openlibrary.org/b/id/976209-L.jpg?default=false",
+    "description": "Les Fables choisies, mises en vers par M. de La Fontaine, appelées simplement Fables de La Fontaine, sont trois recueils regroupant deux cent quarante-trois fables allégoriques publiés par Jean de La Fontaine entre 1668 et 1694. La plupart, inspirées des fables d'Ésope, Babrius et Phèdre, mettent en scène des animaux anthropomorphes et contiennent une morale explicite ou implicite.",
+    "bio": "Jean de La Fontaine, baptisé le 8 juillet 1621 en l'église Saint-Crépin-hors-les-murs à Château-Thierry et mort le 13 avril 1695 à Paris, est un homme de lettres du Grand siècle et l'un des principaux représentants du classicisme français. Outre ses Fables et ses Contes libertins, qui ont établi sa célébrité dès les années 1660, on lui doit divers poèmes, pièces de théâtre et livrets d'opéra qui confirment son ambition de moraliste.",
+    "author_pic": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Henri_Millot_-_Jean_de_La_Fontaine_-_A_II_792_-_Finnish_National_Gallery.jpg/500px-Henri_Millot_-_Jean_de_La_Fontaine_-_A_II_792_-_Finnish_National_Gallery.jpg",
+    "author_qid": "Q49496"
   }
 ]
