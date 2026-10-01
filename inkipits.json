@@ -6206,7 +6206,7 @@
     "author_qid": "Q34670"
   },
   {
-    "text": "image, dans un livre sur la Foret Vierge qui s'appe lait Histoires Vécues. Ça représentait un serpent boa qui avalait un fauve.",
+    "text": "Lorsque j’avais six ans j’ai vu, une fois, une magnifique image, dans un livre sur la Forêt Vierge qui s’appelait « Histoires Vécues ».",
     "title": "Le Petit Prince",
     "author_name": "Antoine de Saint-Exupéry",
     "year": "1943",
@@ -6229,7 +6229,8 @@
       "s'appelait « Terres lointaines »."
     ],
     "source": null,
-    "verified": false
+    "verified": false,
+    "flag": "texte modifié : revoir complete_wrongs (jeu Complète)"
   },
   {
     "text": "La lueur bleue de la lampe en veilleuse projetait sa clarté diffuse sur les K.G.F. somnolents.",
