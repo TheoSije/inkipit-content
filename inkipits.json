@@ -2288,7 +2288,7 @@
     "year": "1944",
     "author": "Aurélien — Louis Aragon, 1944",
     "cover": "https://covers.openlibrary.org/b/id/13169637-L.jpg",
-    "author_pic": "https://litteraturefrancaise.net/wp-content/uploads/2023/10/portrait-casquette.jpg",
+    "author_pic": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Portrait_Aragon_%28cropped%29.jpg/500px-Portrait_Aragon_%28cropped%29.jpg",
     "bio": "Louis Aragon, né probablement le 3 octobre 1897 à Paris et mort le 24 décembre 1982 dans la même ville, est un poète, romancier et journaliste français.",
     "description": "Aurélien is a novel by Louis Aragon, the fourth of the Le Monde réel cycle. It was ranked 51st in Le Monde's 100 Books of the Century.",
     "emojis": [
@@ -2306,7 +2306,8 @@
     ],
     "source": null,
     "verified": false,
-    "flag": "description en anglais"
+    "flag": "description en anglais",
+    "author_qid": "Q4128"
   },
   {
     "text": "J'avais vingt ans. Je ne laisserai personne dire que c'est le plus bel âge de la vie.",
@@ -2449,7 +2450,7 @@
     "year": "1975",
     "author": "W ou le souvenir d'enfance — Georges Perec, 1975",
     "cover": "https://covers.openlibrary.org/b/id/3083216-L.jpg",
-    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Georges_Perec.jpg",
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/7/76/Myart_georges-perec_1978.jpg",
     "bio": "Georges Perec est un écrivain français, né le 7 mars 1936 à Paris 19e et mort le 3 mars 1982 à Ivry-sur-Seine (Val-de-Marne). Membre de l'Oulipo à partir de 1967, il fonde ses œuvres sur l'utilisation de contraintes formelles, littéraires ou mathématiques.",
     "description": "W ou le Souvenir d'enfance est un ouvrage de Georges Perec paru en 1975. Le texte est un récit croisé, alternant une fiction et un récit autobiographique, en apparence très différents.",
     "emojis": [
@@ -2467,7 +2468,8 @@
     ],
     "source": null,
     "verified": false,
-    "flag": "phrase authentique, mais c'est le début du chapitre II (partie autobiographique), pas du livre — http://anneprof.unblog.fr/2017/12/31/texte-6-w-ou-le-souvenir-denfance-perec-chapitre-2-incipit-du-souvenir/"
+    "flag": "phrase authentique, mais c'est le début du chapitre II (partie autobiographique), pas du livre — http://anneprof.unblog.fr/2017/12/31/texte-6-w-ou-le-souvenir-denfance-perec-chapitre-2-incipit-du-souvenir/",
+    "author_qid": "Q157303"
   },
   {
     "text": "Nous sommes nées d'un père absent et d'une mère acariâtre.",
@@ -2875,7 +2877,7 @@
     "year": "2007",
     "author": "Le rapport de Brodeck — Philippe Claudel, 2007",
     "cover": "https://m.media-amazon.com/images/I/51vB6kiHiaL._SL1500_.jpg",
-    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Philippe_Claudel.jpg",
+    "author_pic": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Philippe-Claudel-Il-y-a-longtemps.JPG/500px-Philippe-Claudel-Il-y-a-longtemps.JPG",
     "bio": "Philippe Claudel est un écrivain et réalisateur français né le 2 février 1962 à Dombasle-sur-Meurthe (Meurthe-et-Moselle).",
     "description": "Le métier de Brodeck n’est pas de raconter des histoires. Son activité consiste à établir de brèves notices sur l’état de la flore, des arbres, des saisons et du gibier, de la neige et des pluies, un travail sans importance pour son administration. Brodeck ne sait même pas si ses rapports parviennent à destination. Depuis la guerre, les courriers fonctionnent mal, il faudra beaucoup de temps pour que la situation s’améliore.\n« On ne te demande pas un roman, c’est Rudi Gott, le maréchal-ferrant du village qui a parlé, tu diras les choses, c’est tout, comme pour un de tes rapports. »\nBrodeck accepte. Au moins d’essayer. Comme dans ses rapports, donc, puisqu’il ne sait pas s’exprimer autrement. Mais pour cela, prévient-il, il faut que tout le monde soit d’accord, tout le village, tous les hameaux alentour. Brodeck est consciencieux à l’extrême, il ne veut rien cacher de ce qu’il a vu, il veut retrouver la vérité qu’il ne connait pas encore. Même si elle n’est pas bonne à entendre.\n« A quoi cela te servirait-il Brodeck ? s’insurge le maire du village. N’as-tu pas eu ton lot de morts à la guerre ? Qu’est-ce qui ressemble plus à un mort qu’un autre mort, tu peux me le dire ? Tu dois consigner les événements, ne rien oublier, mais tu ne dois pas non plus ajouter de détails inutiles. Souviens-toi que tu seras lu par des gens qui occupent des postes très importants à la capitale. Oui, tu seras lu même si je sens que tu en doutes... » Brodeck a écouté la mise en garde du maire.\nNe pas s’éloigner du chemin, ne pas chercher ce qui n’existe pas ou ce qui n’existe plus. Pourtant, Brodeck fera exactement le contraire.\nPRIX GONCOURT DES LYCEENS 2007 (12/11/2007)",
     "emojis": [
@@ -2892,7 +2894,8 @@
       "personne ne l'apprenne jamais."
     ],
     "source": null,
-    "verified": false
+    "verified": false,
+    "author_qid": "Q472613"
   },
   {
     "text": "Il avait plu des oiseaux morts.",
@@ -3113,7 +3116,7 @@
     "year": "1957",
     "author": "Le château de ma mère — Marcel Pagnol, 1957",
     "cover": "https://covers.openlibrary.org/b/id/11667012-L.jpg",
-    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Marcel_Pagnol.jpg",
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/7/79/Pagnol_Harcourt_1948.jpg",
     "bio": "Marcel Pagnol, né le 28 février 1895 à Aubagne (Bouches-du-Rhône) et mort à Paris le 18 avril 1974, est un écrivain, dramaturge, cinéaste et producteur français.",
     "description": "Le Château de ma mère est le deuxième tome des Souvenirs d'enfance, un roman autobiographique de Marcel Pagnol, paru en 1958.",
     "emojis": [
@@ -3130,7 +3133,8 @@
       "guide et d'interprète."
     ],
     "source": null,
-    "verified": false
+    "verified": false,
+    "author_qid": "Q236630"
   },
   {
     "text": "Elle a douze ans, et demain matin elle sera mariée.",
@@ -6106,7 +6110,7 @@
     "year": "1934",
     "author": "Les Cloches de Bâle — Louis Aragon, 1934",
     "cover": "https://m.media-amazon.com/images/I/81ytM1reg-L._SL1500_.jpg",
-    "author_pic": "https://litteraturefrancaise.net/wp-content/uploads/2023/10/portrait-casquette.jpg",
+    "author_pic": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Portrait_Aragon_%28cropped%29.jpg/500px-Portrait_Aragon_%28cropped%29.jpg",
     "bio": "Poète et romancier français (1897–1982), cofondateur du surréalisme puis figure majeure du réalisme socialiste. Ses poèmes de la Résistance (Les Yeux d'Elsa) l'ont rendu populaire, et son cycle romanesque Le Monde réel reste majeur.",
     "description": "Premier volume du cycle romanesque d'Aragon retraçant la France des années 1900 à 1912, jusqu'au congrès de Bâle contre la guerre. Point de départ d'une saga majeure.",
     "emojis": [
@@ -6123,7 +6127,8 @@
       "qui semblait aller bien."
     ],
     "source": null,
-    "verified": false
+    "verified": false,
+    "author_qid": "Q4128"
   },
   {
     "text": "Le mieux serait d'écrire les événements au jour le jour.",
@@ -6812,7 +6817,7 @@
     "year": "1957",
     "author": "La Gloire de mon père — Marcel Pagnol, 1957",
     "cover": "https://covers.openlibrary.org/b/title/La%20Gloire%20de%20mon%20p%C3%A8re-M.jpg",
-    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Marcel_Pagnol.jpg",
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/7/79/Pagnol_Harcourt_1948.jpg",
     "bio": "Écrivain, dramaturge et cinéaste français (1895–1974), membre de l'Académie française. Auteur de la Trilogie marseillaise et des Souvenirs d'enfance, il a immortalisé la Provence dans une langue populaire et ensoleillée.",
     "description": "Pagnol raconte son enfance à Aubagne, ses premières années d'école et une mémorable partie de chasse avec son père instituteur. Écriture ensoleillée et tendre, portée par l'amour de la Provence. Premier volume des Souvenirs d'enfance.",
     "emojis": [
@@ -6829,7 +6834,8 @@
       "s'appelait Augustin Pagnol."
     ],
     "source": null,
-    "verified": false
+    "verified": false,
+    "author_qid": "Q236630"
   },
   {
     "text": "Veux-tu lire ce qu’il y a d’écrit au-dessus de ta partition ? demanda la dame.",
@@ -7021,7 +7027,7 @@
     "year": "1969",
     "author": "La Disparition — Georges Perec, 1969",
     "cover": "https://covers.openlibrary.org/b/title/La%20Disparition-M.jpg",
-    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Georges_Perec.jpg",
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/7/76/Myart_georges-perec_1978.jpg",
     "bio": "Romancier français (1936–1982), membre de l'Oulipo. Auteur de La Disparition (sans la lettre « e »), W ou le Souvenir d'enfance et La Vie mode d'emploi, il conjugue jeu formel et profondeur mémorielle sur la Shoah.",
     "description": "Anton Voyl disparaît et ses amis partent à sa recherche dans une enquête oulipienne où la lettre « e » est absente de bout en bout. Lipogramme virtuose de 300 pages sur le manque et la contrainte créatrice.",
     "emojis": [
@@ -7038,7 +7044,8 @@
       "pas à lire."
     ],
     "source": null,
-    "verified": false
+    "verified": false,
+    "author_qid": "Q157303"
   },
   {
     "text": "La première chose que je peux vous dire, c'est qu'on habitait au sixième et que pour Madame Rosa, avec tous ces kilos qu'elle portait sur elle et seulement deux jambes, c'était une vraie source de vie quotidienne, avec tous les soucis et les peines.",
@@ -7151,7 +7158,7 @@
     "year": "1978",
     "author": "La Vie mode d'emploi — Georges Perec, 1978",
     "cover": "https://m.media-amazon.com/images/I/81fVAiKSQeL._SL1500_.jpg",
-    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Georges_Perec.jpg",
+    "author_pic": "https://upload.wikimedia.org/wikipedia/commons/7/76/Myart_georges-perec_1978.jpg",
     "bio": "Romancier français (1936–1982), membre de l'Oulipo. Auteur de La Disparition (sans la lettre « e »), W ou le Souvenir d'enfance et La Vie mode d'emploi, il conjugue jeu formel et profondeur mémorielle sur la Shoah.",
     "description": "Dans un immeuble parisien fictif, Perec décrit pièce par pièce les appartements et leurs habitants autour du puzzle de Bartlebooth. Roman-monde et somme encyclopédique régi par des contraintes oulipIennes complexes. Chef-d'œuvre absolu de la littérature française.",
     "emojis": [
@@ -7168,7 +7175,8 @@
       "grave et lente."
     ],
     "source": null,
-    "verified": false
+    "verified": false,
+    "author_qid": "Q157303"
   },
   {
     "text": "Aissatou, J'ai reçu ton mot. En guise de réponse, j'ouvre ce cahier, point d'appui dans mon désarroi : notre longue pratique m'a enseigné que la confidence noie la douleur.",
@@ -7490,7 +7498,7 @@
     "year": "2003",
     "author": "Les Âmes grises — Philippe Claudel, 2003",
     "cover": "https://covers.openlibrary.org/b/title/Les%20%C3%82mes%20grises-M.jpg",
-    "author_pic": "https://en.wikipedia.org/wiki/Special:Redirect/file/Philippe_Claudel.jpg",
+    "author_pic": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Philippe-Claudel-Il-y-a-longtemps.JPG/500px-Philippe-Claudel-Il-y-a-longtemps.JPG",
     "bio": "Romancier et cinéaste français (né en 1962), auteur des Âmes grises (Prix Renaudot 2003). Son œuvre explore la culpabilité, la mémoire et la France de l'Est dans une prose mélancolique.",
     "description": "Un vieux policier rouvre le dossier du meurtre d'une petite fille en 1917, alors que les poilus reviennent du front. Roman du souvenir et de la culpabilité, écrit dans une prose lente et envoûtante. Prix Renaudot 2003.",
     "emojis": [
@@ -7507,7 +7515,8 @@
       "par où finir."
     ],
     "source": null,
-    "verified": false
+    "verified": false,
+    "author_qid": "Q472613"
   },
   {
     "text": "Le petit réveil posé sur la table de nuit en bois clair venait de sonner.",
