@@ -6024,7 +6024,7 @@
     "verified": false
   },
   {
-    "text": "Qui suis-je ?",
+    "text": "Qui suis-je ? Si par exception je m’en rapportais à un adage : en effet pourquoi tout ne reviendrait-il pas à savoir qui je « hante » ?",
     "title": "Nadja",
     "author_name": "André Breton",
     "year": "1930",
@@ -6047,7 +6047,8 @@
       "Que cherches-tu ?"
     ],
     "source": null,
-    "verified": false
+    "verified": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Autoportrait_%28Nadja%29.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "text": "Les collines, sous l'avion, creusaient déjà leur sillage d'ombre dans l'or du soir.",
